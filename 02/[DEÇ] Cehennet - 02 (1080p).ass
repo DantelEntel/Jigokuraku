@@ -1,0 +1,404 @@
+﻿[Script Info]
+Title: Dantel Entel
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Commie Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H5F591720,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Default-Alt,Commie Sans,70,&H00FFFFFF,&H000000FF,&H003D0107,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Maske,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,1,1,1,1
+Style: YD,FOT-OedKtr Std E,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,1,1,1,1
+Style: Orta,Dry Brush,205,&H00070001,&H00FFFFFF,&H00FFFFFF,&H00AF82E4,-1,0,0,0,100,100,0,0,1,0,0,2,570,0,5,1
+Style: Baslik,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,3,1,135,150,1
+Style: Mahkum,High Fighter,77,&H1624231D,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,90,95,0,0,1,0,0,5,1,1,1,1
+Style: ed 1,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,0.5,1,40,40,35,0
+Style: ed 2,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,3,40,40,35,0
+Style: OP,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B000000,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: OP2,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B76441A,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,2,30,30,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,İmza,0,0,0,,{Çeviri: Einherjar}{Çeviri Editörü: Fei}{Yazı Dizimi: Vuats}{Zamanlama: Vuats}{Açılış Şarkısı: Einherjar}{Kapanış Şarkısı: Vuats}{Son Kontrol: Vuats}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:18.24,0:00:24.71,Default-Alt,Sagiri,0,0,0,,{\i1}Bir keresinde idam mahkumu bir meddah,\Nidam esnasında bir hikaye anlatmak istedi.
+Dialogue: 20,0:00:34.17,0:00:39.30,Default-Alt,Sagiri,0,0,0,,{\i1}Babam, Yamada Asaemon'u Kiçiji,\Nmeddahın bu isteğini kabul etti.
+Dialogue: 20,0:01:01.23,0:01:06.62,Default-Alt,Sagiri,0,0,0,,{\i1}Meddah, kafası kesildikten\Nsonra bile hikayesine devam etti.
+Dialogue: 20,0:01:08.72,0:01:10.92,Default-Alt,Eizen,0,0,0,,{\i1}Kafasının kesildiğini bile fark edemedi.
+Dialogue: 20,0:01:11.09,0:01:14.67,Default-Alt,Eizen,0,0,0,,{\i1}Acı ya da duygu barındırmayan, \Nkusursuz bir darbeydi.
+Dialogue: 20,0:01:16.83,0:01:22.69,Default-Alt,Sagiri,0,0,0,##,{\i1\t(4625,0,1,\3c&HFFFFFF&\4c&HFFFFFF&)}O gün özendiğim o darbe, kılıcımın rehberi oldu.
+Dialogue: 20,0:01:44.38,0:01:46.41,Default-Alt,Çavuş A,0,0,0,,Oldukça etkileyiciydi.
+Dialogue: 20,0:01:46.41,0:01:48.46,Default-Alt,Çavuş B,0,0,0,,Bir kadına göre gayet iyiydi.
+Dialogue: 20,0:01:50.00,0:01:51.29,Default-Alt,Sagiri,0,0,0,,Müteşekkirim.
+Dialogue: 20,0:02:00.73,0:02:02.10,Default-Alt,Eizen,0,0,0,,Korku dolu.
+Dialogue: 20,0:02:02.79,0:02:04.10,Default-Alt,Eizen,0,0,0,,Kılıcını diyorum.
+Dialogue: 20,0:02:04.79,0:02:06.36,Default-Alt,Eizen,0,0,0,,Şüphe ve korku dolu.
+Dialogue: 20,0:02:07.36,0:02:10.01,Default-Alt,Eizen,0,0,0,,Bu şekilde mahkuma acı çektirirsin.
+Dialogue: 20,0:02:12.01,0:02:13.23,Default-Alt,Sagiri,0,0,0,,Geliştireceğim.
+Dialogue: 20,0:02:31.62,0:02:32.50,Default-Alt,Eizen,0,0,0,,Sagiri...
+Dialogue: 20,0:02:33.11,0:02:34.46,Default-Alt,Eizen,0,0,0,,Kılıcına bir bak.
+Dialogue: 20,0:02:37.23,0:02:39.72,Default-Alt,Eizen,0,0,0,,Kılıç her daim gerçeği yansıtır.
+Dialogue: 20,0:02:40.39,0:02:44.22,Default-Alt,Sagiri,0,0,0,,{\i1}Korkuyla ağırlaşan kılıcım, \Nmahkumlara ıstırap çektirdikçe...
+Dialogue: 20,0:02:44.44,0:02:46.10,Default-Alt,Sagiri,0,0,0,,{\i1}...giderek daha da ağırlaşıyor.
+Dialogue: 20,0:02:48.54,0:02:50.00,Default-Alt,Sagiri,0,0,0,,{\i1}Ne yapmalıyım?
+Dialogue: 20,0:02:50.50,0:02:54.15,Default-Alt,Sagiri,0,0,0,,{\i1}Kalbimdeki şüphe ve korkudan\Nnasıl kurtulabilirim?
+Dialogue: 20,0:02:58.00,0:02:59.53,Default-Alt,Sagiri,0,0,0,,{\i1}Tıpkı babam gibi...
+Dialogue: 20,0:03:04.86,0:03:05.85,Default-Alt,Sagiri,0,0,0,,{\i1}Belki de...
+Dialogue: 20,0:03:09.65,0:03:11.59,Default-Alt,Sagiri,0,0,0,,{\i1}...tereddüt etmeden alabileceğim...
+Dialogue: 20,0:03:12.79,0:03:14.38,Default-Alt,Sagiri,0,0,0,,{\i1}...bir can olsaydı...
+Dialogue: 20,0:04:53.42,0:04:56.50,Default,Bakan,0,0,0,,Hepiniz hoş geldiniz, idam mahkumları.
+Dialogue: 20,0:04:57.79,0:05:01.67,Default,Bakan,0,0,0,,Karşınızdaki kişi 11. Seiy Başkumandanı...
+Dialogue: 20,0:05:01.67,0:05:03.65,Default,Bakan,0,0,0,,...Nariyoşi Tokugava hazretleri!
+Dialogue: 20,0:05:03.88,0:05:07.51,Default,Bakan,0,0,0,,Normal şartlarda kendisini görme \Nlütfuna asla ulaşamayacağınız biri.
+Dialogue: 20,0:05:07.81,0:05:08.46,Default,Suçlular,0,0,0,,Ne dedin lan?!
+Dialogue: 20,0:05:08.46,0:05:09.25,Default,Suçlu G,0,0,0,,Yarrama bak!
+Dialogue: 20,0:05:09.25,0:05:10.37,Default,Suçlu H,0,0,0,,Sen kimsin lan?!
+Dialogue: 20,0:05:10.37,0:05:11.66,Default,Suçlu E,0,0,0,,Kumandan nedir lan?!
+Dialogue: 20,0:05:11.80,0:05:12.57,Default,Suçlu J,0,0,0,,Hayırdır lan?!
+Dialogue: 20,0:05:12.57,0:05:14.79,Default,Bakan,0,0,0,,Hepsini bir araya toplamak \Nbaşımızı ağrıtmasın?
+Dialogue: 20,0:05:14.96,0:05:16.79,Default,Aoki,0,0,0,,Başkumandanın emri.
+Dialogue: 20,0:05:20.12,0:05:23.55,Default,Sagiri,0,0,0,,{\i1}30 kişi öldürmüş bir hırsız, Seikiçi Tanio.
+Dialogue: 20,0:05:26.15,0:05:28.55,Default,Sagiri,0,0,0,,{\i1}Kundakçı, Nikimaru.
+Dialogue: 20,0:05:29.08,0:05:31.66,Default,Sagiri,0,0,0,,{\i1}Eski asker ve katil, Şukan Kido.
+Dialogue: 20,0:05:32.31,0:05:35.00,Default,Sagiri,0,0,0,,{\i1}Hepsi büyük suçlar işlemiş iğrenç suçlular.
+Dialogue: 20,0:05:37.00,0:05:39.65,Default,Gabimaru,0,0,0,,Öfff, nefes alamıyorum.
+Dialogue: 20,0:05:39.82,0:05:41.82,Default,Gabimaru,0,0,0,,Tokugava'yı görmek istiyorum.
+Dialogue: 20,0:05:42.05,0:05:43.07,Default,Sagiri,0,0,0,,Olmaz.
+Dialogue: 20,0:05:43.66,0:05:45.83,Default,Bakan,0,0,0,,Şimdi sizden bekleneni açıklıyorum.
+Dialogue: 20,0:05:46.16,0:05:50.91,Default,Bakan,0,0,0,,Şinsenkyo'ya gidip içeni ölümsüz \Nkılan Yaşam İksirini ele geçireceksiniz.
+Dialogue: 20,0:05:51.43,0:05:55.48,Default,Bakan,0,0,0,,Görevi tamamlayan kişi resmen affedilecektir.
+Dialogue: 20,0:05:57.14,0:06:00.33,Default,Bakan,0,0,0,,Elimdeki belge de kanıtı!
+Dialogue: 20,0:06:03.07,0:06:04.55,Default,Sagiri,0,0,0,,{\i1}Ortamın havası değişti.
+Dialogue: 20,0:06:08.66,0:06:11.80,Default,Matagoro,0,0,0,,O belgeyle yine istediğimi gebertebilirim.
+Dialogue: 20,0:06:11.92,0:06:13.10,Default,Sagiri,0,0,0,,{\i1}Matagoro Adaçi...
+Dialogue: 20,0:06:13.84,0:06:18.00,Default,Sagiri,0,0,0,,{\i1}Kadın ve çocukları zevkine katleden şeytan.
+Dialogue: 20,0:06:18.70,0:06:22.49,Default,Sagiri,0,0,0,,{\i1}Mesela onun gibi ölmesi gerektiğini\Ndüşündüğüm bir şeytanı infaz ederken...
+Dialogue: 20,0:06:22.49,0:06:23.86,Default,Sagiri,0,0,0,,{\i1}....tereddüt eder miydim?
+Dialogue: 20,0:06:38.68,0:06:41.13,Default,Yuzuriha,0,0,0,,Sen Ruhsuz Gabimaru'sun değil mi?
+Dialogue: 20,0:06:41.81,0:06:44.38,Default,Yuzuriha,0,0,0,,Tipinden ve saç renginden hemen anlaşılıyor.
+Dialogue: 20,0:06:44.74,0:06:47.38,Default,Yuzuriha,0,0,0,,Bizim ortamlarda acayip ünlüsün de.
+Dialogue: 20,0:06:48.39,0:06:49.38,Default,Yuzuriha,0,0,0,,Ama...
+Dialogue: 20,0:06:51.53,0:06:53.05,Default,Yuzuriha,0,0,0,,Hayal kırıklığı çıktın.
+Dialogue: 20,0:06:53.23,0:06:58.00,Default,Yuzuriha,0,0,0,,Söylentilere kıyasla çok daha kısasın, \Npejmürdesin, cücesin.
+Dialogue: 20,0:06:58.40,0:07:00.77,Default,Yuzuriha,0,0,0,,Sen bile yakalandın demek.
+Dialogue: 20,0:07:01.40,0:07:02.99,Default,Gabimaru,0,0,0,,Kusura bakma ya.
+Dialogue: 20,0:07:03.62,0:07:06.00,Default,Sagiri,0,0,0,,{\i1}Başlarda oldukça temkinliydim ama...
+Dialogue: 20,0:07:07.23,0:07:09.99,Default,Sagiri,0,0,0,,{\i1}...şu an sanki bir başkasına bakıyor gibiyim.
+Dialogue: 20,0:07:11.25,0:07:13.75,Default,Sagiri,0,0,0,,{\i1}Bu herif de diğerleri gibi mi yani?
+Dialogue: 20,0:07:14.02,0:07:18.42,Default,Sagiri,0,0,0,,{\i1}Yoksa söylentilerdeki gibi, \Nonlardan çok daha kötü mü?
+Dialogue: 20,0:07:23.70,0:07:27.52,Default,Bakan,0,0,0,,Şimdi sizlere gideceğiniz adayla\Nilgili açıklamada bulunacağım.
+Dialogue: 20,0:07:28.13,0:07:30.81,Default,Bakan,0,0,0,,Tıpkı Cennet gibi bir-
+Dialogue: 20,0:07:29.72,0:07:30.68,Default,Suçlu A,0,0,0,,{\an8}Duydun onları!
+Dialogue: 20,0:07:31.00,0:07:32.13,Default,Suçlu B,0,0,0,,Boş yapmayın!
+Dialogue: 20,0:07:32.13,0:07:33.84,Default,Suçlu C,0,0,0,,Peri masalı dinlemeye mi geldik?
+Dialogue: 20,0:07:34.68,0:07:37.06,Default,Aoki,0,0,0,,Hepiniz maskelerinizi çıkarın!
+Dialogue: 20,0:07:41.82,0:07:43.56,Default,Matagoro,0,0,0,,Sonunda nefes alabiliyorum be.
+Dialogue: 20,0:07:53.51,0:07:57.58,Default,Aoki,0,0,0,,Karşınızdaki, son keşiften \Ncanlı dönmeyi başaran tek kişi.
+Dialogue: 20,0:07:58.46,0:08:01.46,Default,Aoki,0,0,0,,Görebildiğiniz üzere artık insan değil.
+Dialogue: 20,0:08:06.47,0:08:09.76,Default,Aoki,0,0,0,,Döndüğü sırada vücudunun\Nher yerinde şişikler vardı.
+Dialogue: 20,0:08:11.01,0:08:13.51,Default,Aoki,0,0,0,,Ertesi gün şişiklerden çiçekler açtı.
+Dialogue: 20,0:08:14.47,0:08:18.76,Default,Aoki,0,0,0,,Onunla birlikte giden \Nyaklaşık 60 kişi hala kayıp.
+Dialogue: 20,0:08:21.20,0:08:23.64,Default,Aoki,0,0,0,,Adada yaşananlar konusunda...
+Dialogue: 20,0:08:24.72,0:08:27.52,Default,Aoki,0,0,0,,...bunun haricinde başka hiçbir ipucumuz yok.
+Dialogue: 20,0:08:28.89,0:08:31.21,Default,Suçlu J,0,0,0,,Bize bu kadar tehlikeli olduğunu söylememiştiniz!
+Dialogue: 20,0:08:31.51,0:08:33.01,Default,Bakan,0,0,0,,Sorun ne ki?
+Dialogue: 20,0:08:33.27,0:08:37.00,Default,Bakan,0,0,0,,Vücudunuzda çiçekler açması \Nne hoş bir gizem ve lütuf!
+Dialogue: 20,0:08:37.25,0:08:39.54,Default,Bakan,0,0,0,,Sizin gibilere fazla bile!
+Dialogue: 20,0:08:40.33,0:08:41.04,Default,Suçlu J,0,0,0,,Siktir oradan!
+Dialogue: 20,0:08:41.04,0:08:42.23,Default,Suçlular,0,0,0,,Ne diyo'n lan sen?
+Dialogue: 20,0:08:42.39,0:08:43.32,Default,Suçlular,0,0,0,,Sikerler!
+Dialogue: 20,0:08:43.54,0:08:45.46,Default,Suçlular,0,0,0,,Taşak geçme bizimle!
+Dialogue: 20,0:08:45.61,0:08:47.04,Default,Bakan,0,0,0,,Yeter!
+Dialogue: 20,0:08:47.31,0:08:49.63,Default,Bakan,0,0,0,,Hepiniz aslen idam mahkumusunuz!
+Dialogue: 20,0:08:49.63,0:08:53.30,Default,Bakan,0,0,0,,Buna rağmen size Cennete \Nyolculuk etme fırsatı sunuyoruz!
+Dialogue: 20,0:08:53.57,0:08:56.89,Default,Bakan,0,0,0,,Majestelerinin ne kadar\Ncömert olduğunun farkında mısınız?!
+Dialogue: 20,0:08:58.00,0:08:58.80,Default,Nurugai,0,0,0,,Hey!
+Dialogue: 20,0:09:00.67,0:09:02.81,Default,Nurugai,0,0,0,,Bu ada hakkında hiçbir şey \Nbilmiyorsunuz, di' mi?
+Dialogue: 20,0:09:03.35,0:09:05.64,Default,Nurugai,0,0,0,,Ya aradığınız şu İksir yoksa?
+Dialogue: 20,0:09:05.84,0:09:07.15,Default,Suçlu J,0,0,0,,Aynen!
+Dialogue: 20,0:09:07.29,0:09:08.94,Default,Suçlu D,0,0,0,,Boş elle dönsek de olur mu?
+Dialogue: 20,0:09:09.48,0:09:11.73,Default,Bakan,0,0,0,,Her şeye de bir bahaneleri var.
+Dialogue: 20,0:09:12.01,0:09:14.53,Default,Aoki,0,0,0,,Beğenmediyseniz vazgeçebilirsiniz.
+Dialogue: 20,0:09:14.81,0:09:16.21,Default,Aoki,0,0,0,,Gönüllülük esaslı.
+Dialogue: 20,0:09:16.35,0:09:19.70,Default,Dövmeli Suçlu,0,0,0,,Madem öyle, ben almayayım. \NHoşuma gitmedi.
+Dialogue: 20,0:09:20.08,0:09:22.84,Default,Dövmeli Suçlu,0,0,0,,Dışarıda bekleyen elemanlarımla \Nbirlikte ölmeyi yeğler-
+Dialogue: 20,0:09:30.16,0:09:32.00,Default,Aoki,0,0,0,,Bahsetmeyi unuttuğum bir şey var.
+Dialogue: 20,0:09:32.19,0:09:35.16,Default,Aoki,0,0,0,,Adaya vardığınızda her birinize\Nbir gözetmen atanacak.
+Dialogue: 20,0:09:35.53,0:09:37.59,Default,Suçlu C,0,0,0,,G-Gözetmen mi?
+Dialogue: 20,0:09:39.82,0:09:42.72,Default,Aoki,0,0,0,,Hepiniz çoktan idam cezasına çarptırıldınız.
+Dialogue: 20,0:09:42.89,0:09:44.98,Default,Aoki,0,0,0,,Cezanız adada da geçerli.
+Dialogue: 20,0:09:45.38,0:09:46.64,Default,Aoki,0,0,0,,Kısacası...
+Dialogue: 20,0:09:56.00,0:10:00.02,Default,Aoki,0,0,0,,Adada kafanıza eseni\Nyaptığınız anda kelleniz kesilecek.
+Dialogue: 20,0:10:00.27,0:10:03.79,Default,Aoki,0,0,0,,Gözetmenliği, Yamada klanının \NAsaemonları üstlenecek.
+Dialogue: 20,0:10:04.74,0:10:06.91,Default,Aoki,0,0,0,,Aklınızdan anlamsız düşünceler geçmesin.
+Dialogue: 20,0:10:07.02,0:10:09.00,Default,Aoki,0,0,0,,Karşınızda Yamadalar var.
+Dialogue: 20,0:10:09.32,0:10:12.00,Default,Aoki,0,0,0,,Karşı çıktığınız anda sonunuz onun gibi olur.
+Dialogue: 20,0:10:12.43,0:10:17.89,Default,Aoki,0,0,0,,Tabii gözetmeniniz kaza sonucu ölürse,\N yahut tarafınızca öldürülürse siz de öleceksiniz.
+Dialogue: 20,0:10:18.20,0:10:22.27,Default,Aoki,0,0,0,,Yanınızda gözetmeniniz olmadan dönüş\Ngemisine binmenize de izin verilmeyecek.
+Dialogue: 20,0:10:23.29,0:10:24.14,Default,Gabimaru,0,0,0,,Sahiden mi?
+Dialogue: 20,0:10:24.42,0:10:25.27,Default,Sagiri,0,0,0,,Evet.
+Dialogue: 20,0:10:26.10,0:10:27.01,Default,Gabimaru,0,0,0,,İyiymiş.
+Dialogue: 20,0:10:28.29,0:10:32.52,Default,Sagiri,0,0,0,,{\i1}Bu herif ya çok cesur ya da çok aptal.
+Dialogue: 20,0:10:33.02,0:10:34.27,Default,Nariyoşi,0,0,0,,Gel baki'm.
+Dialogue: 20,0:10:38.82,0:10:40.28,Default,Aoki,0,0,0,,Anlaşıldı.
+Dialogue: 20,0:10:41.02,0:10:43.53,Default,Aoki,0,0,0,,Unutmadan, son bir şey daha.
+Dialogue: 20,0:10:44.04,0:10:47.54,Default,Aoki,0,0,0,,Yola çıkmadan önce sayınızın azaltılması gerek.
+Dialogue: 20,0:10:48.17,0:10:49.00,Default,Suçlu C,0,0,0,,Ne?
+Dialogue: 20,0:10:49.91,0:10:52.71,Default,Aoki,0,0,0,,Hepinizi birden gönderecek değiliz.
+Dialogue: 20,0:10:53.11,0:10:57.72,Default,Aoki,0,0,0,,Geminin kapasitesi ve\NAsaemonlar'ın sayısı kısıtlı sonuçta.
+Dialogue: 20,0:10:58.28,0:11:01.47,Default,Aoki,0,0,0,,Bu yüzden sayınızın azaltılması gerek.
+Dialogue: 20,0:11:01.75,0:11:03.47,Default,Suçlu A,0,0,0,,Azaltılması derken?
+Dialogue: 20,0:11:03.64,0:11:05.47,Default,Çobei,0,0,0,,Ne malsınız lan.
+Dialogue: 20,0:11:06.37,0:11:08.23,Default,Çobei,0,0,0,,Basitleştireyim.
+Dialogue: 20,0:11:08.62,0:11:11.60,Default,Çobei,0,0,0,,Boş elemanları ayıklayın diyo'lar işte.
+Dialogue: 20,0:11:13.54,0:11:15.77,Default,Matagoro,0,0,0,,N-Ne yapıyorsun sen?..
+Dialogue: 20,0:11:15.77,0:11:16.98,Default,Çobei,0,0,0,,Bak!
+Dialogue: 20,0:11:17.25,0:11:19.91,Default,Çobei,0,0,0,,Adamı geberttim ama gıkları çıkmadı.
+Dialogue: 20,0:11:21.95,0:11:24.53,Default,Çobei,0,0,0,,Birbirinizi öldürün diyorlar işte.
+Dialogue: 20,0:11:24.76,0:11:26.74,Default,Çobei,0,0,0,,Elinizi çabuk tutun, yoksa ölürsünüz.
+Dialogue: 20,0:11:27.35,0:11:29.96,Default,Aoki,0,0,0,,Yani, bu da bir yöntem tabii.
+Dialogue: 20,0:11:30.12,0:11:33.50,Default,Aoki,0,0,0,,Burada ölecek kadar zayıf \Nolanlar zaten işimize yaramaz.
+Dialogue: 20,0:11:35.09,0:11:38.00,Default,Aoki,0,0,0,,Bu arada, ellerinizi çözmeyin.
+Dialogue: 20,0:11:41.65,0:11:42.41,Default,Suçlu K,0,0,0,,Geber!
+Dialogue: 20,0:12:20.49,0:12:22.01,Default,Suçlu H,0,0,0,,Geber!
+Dialogue: 20,0:12:24.13,0:12:25.99,Default,Nariyoşi,0,0,0,,İşte istediğim tam da bu!
+Dialogue: 20,0:12:26.19,0:12:30.81,Default,Nariyoşi,0,0,0,,Bugünlerde ölümüne \Ndövüşenleri pek göremiyorsun.
+Dialogue: 20,0:12:32.33,0:12:34.81,Default,Nariyoşi,0,0,0,,Hep böyle bir şeyi izlemek istemişimdir!
+Dialogue: 20,0:12:35.16,0:12:36.99,Default,Aoki,0,0,0,,{\i1}Aptal herif...
+Dialogue: 20,0:12:37.24,0:12:39.94,Default,Aoki,0,0,0,,{\i1}Böyle bir yöntemin ne anlamı var?
+Dialogue: 20,0:12:40.80,0:12:43.01,Default,Aoki,0,0,0,,{\i1}Elleri bağlıyken adamakıllı dövüşemezler.
+Dialogue: 20,0:12:43.53,0:12:46.00,Default,Aoki,0,0,0,,{\i1}Tam bir arbede, kaos.
+Dialogue: 20,0:12:48.49,0:12:51.20,Default,Aoki,0,0,0,,{\i1}Eninde sonunda hepsi \Nişe yaramaz hale gelecek.
+Dialogue: 20,0:12:51.66,0:12:54.83,Default,Nariyoşi,0,0,0,,Ee, kızıl mührü olanlar hangileri?
+Dialogue: 20,0:12:56.63,0:13:00.00,Default,Bakan,0,0,0,,Günahkarların arasında bazı sıradışı isimler var.
+Dialogue: 20,0:13:00.24,0:13:04.01,Default,Bakan,0,0,0,,Hatta onlar için insanüstü bile denebilir.
+Dialogue: 20,0:13:04.62,0:13:07.85,Default,Bakan,0,0,0,,Kayıt sırasında kızıl mühürle damgalanan kişiler:
+Dialogue: 20,0:13:07.85,0:13:09.68,Default,Bakan,0,0,0,,Mesela, şu herif.
+Dialogue: 20,0:13:09.78,0:13:12.39,Default,Bakan,0,0,0,,Genç yaşına rağmen bir çete lideri.
+Dialogue: 20,0:13:12.62,0:13:16.52,Default,Bakan,0,0,0,,İyo dağının eteklerinde haydut \Nköyü kuran olağanüstü bir adam.
+Dialogue: 20,0:13:17.49,0:13:21.75,Default,Bakan,0,0,0,,Şu kadın, geçen yıl Sagiva \NKalesinin işgalinde yer almıştı.
+Dialogue: 20,0:13:22.01,0:13:26.20,Default,Bakan,0,0,0,,Kaledeki herkesi tek başına \Netkisiz hale getirmiş bir kunoiçi.
+Dialogue: 20,0:13:32.76,0:13:36.29,Default,Bakan,0,0,0,,"Kılıç Ejderi" ve "Sekiz Vilayetin Lideri" \Nolarak tanınan bir kılıç ustası.
+Dialogue: 20,0:13:38.09,0:13:41.09,Default,Bakan,0,0,0,,Koca bir ayıyı tatlı niyetine yiyebilen dev adam.
+Dialogue: 20,0:13:41.29,0:13:44.47,Default,Bakan,0,0,0,,Vücuduna ne kılıç ne mızrak işliyormuş.
+Dialogue: 20,0:13:46.48,0:13:49.39,Default,Nariyoşi,0,0,0,,Sanki Sengoku'dan bir sahne izliyoruz!
+Dialogue: 20,0:13:49.63,0:13:54.81,Default,Bakan,0,0,0,,Aralarında en göze çarpanı, \Nyaşayan efsane Ruhsuz Gabimaru.
+Dialogue: 20,0:13:55.23,0:13:56.15,Default,Bakan,0,0,0,,Şuradaki.
+Dialogue: 20,0:13:58.16,0:14:03.00,Default,Bakan,0,0,0,,Dur, ne? Yerinden bile kıpırdamamış.
+Dialogue: 20,0:14:09.85,0:14:11.83,Default,Eizen,0,0,0,,Bunaldın mı, Sagiri?
+Dialogue: 20,0:14:12.71,0:14:14.12,Default,Sagiri,0,0,0,,Usta Eizen...
+Dialogue: 20,0:14:14.25,0:14:17.00,Default,Eizen,0,0,0,,Ada buradan çok daha acımasız olacak.
+Dialogue: 20,0:14:19.13,0:14:20.88,Default,Eizen,0,0,0,,Yalnızca mahkumlar değil...
+Dialogue: 20,0:14:21.31,0:14:23.41,Default,Eizen,0,0,0,,...sen de acı çekeceksin.
+Dialogue: 20,0:14:24.61,0:14:27.34,Default,Eizen,0,0,0,,O vakit geldiğinde, öldürebilecek misin?
+Dialogue: 20,0:14:30.91,0:14:34.47,Default,Eizen,0,0,0,,Fırsatı gelmişken söyleyeyim.
+Dialogue: 20,0:14:35.68,0:14:39.35,Default,Eizen,0,0,0,,Bu iş başından beri senlik değildi.
+Dialogue: 20,0:14:42.89,0:14:45.57,Default,Eizen,0,0,0,,Bir kadın neden kılıç kullanma zahmetine katlanır?
+Dialogue: 20,0:14:46.01,0:14:49.64,Default,Eizen,0,0,0,,Bir askerin kızı olarak\Nkonağında huzurlu bir yaşam sürmeli,
+Dialogue: 20,0:14:50.89,0:14:53.62,Default,Eizen,0,0,0,,cellatlıktan uzak durmalıydın.
+Dialogue: 20,0:14:59.80,0:15:05.00,Default,Sagiri,0,0,0,,İnceliğinize minnettarım Usta Eizen, \Nlakin bu yürüyebileceğim tek yoldu.
+Dialogue: 20,0:15:19.06,0:15:25.23,Default,Sagiri,0,0,0,,Kılıçları insan bedeni üstünde sınamak,\N mahkumları infaz etmek, cesetlerden ilaç yapmak...
+Dialogue: 20,0:15:26.00,0:15:27.80,Default,Sagiri,0,0,0,,Kılıç kullanmasan bile...
+Dialogue: 20,0:15:27.80,0:15:32.74,Default,Sagiri,0,0,0,,...Yamada klanına doğduysan, hayatını \Ninsanların ölümünden kazanman kaçınılmaz.
+Dialogue: 20,0:15:37.28,0:15:38.12,Default-Alt,Çocuklar,0,0,0,,Bekle!
+Dialogue: 20,0:15:43.74,0:15:45.48,Default-Alt,Çocuk A,0,0,0,,Kelle kesici Asalar'ın kızı!
+Dialogue: 20,0:15:45.48,0:15:47.27,Default-Alt,Çocuk B,0,0,0,,Yamyam Asalar'ın kızı!
+Dialogue: 20,0:15:47.27,0:15:48.59,Default-Alt,Çocuk C,0,0,0,,Katil!
+Dialogue: 20,0:15:50.64,0:15:52.26,Default-Alt,Çocuk B,0,0,0,,Kaybol buradan!
+Dialogue: 20,0:15:52.70,0:15:54.39,Default-Alt,Çocuk C,0,0,0,,Defol git!
+Dialogue: 20,0:16:00.01,0:16:02.00,Default,Sagiri,0,0,0,,Kaderinden ne kadar kaçmaya çalışsan da...
+Dialogue: 20,0:16:19.63,0:16:22.85,Default,Sagiri,0,0,0,,{\fad(0,800)}...kılıç her daim gerçeği yansıtır.
+Dialogue: 20,0:16:27.86,0:16:28.68,Default,Nikimaru,0,0,0,,Sikeyim!
+Dialogue: 20,0:16:29.00,0:16:30.34,Default,Nikimaru,0,0,0,,Başka seçeneğimiz yok.
+Dialogue: 20,0:16:30.34,0:16:32.93,Default,Nikimaru,0,0,0,,Samurayları indirip buradan kaçmalıyız!
+Dialogue: 20,0:16:33.01,0:16:34.06,Default,Suçlu B,0,0,0,,Reis...
+Dialogue: 20,0:16:34.06,0:16:36.30,Default,Nikimaru,0,0,0,,Şuradaki samuray karı!
+Dialogue: 20,0:16:36.30,0:16:39.00,Default,Nikimaru,0,0,0,,Onu öldürüp kılıcını çalalım!
+Dialogue: 20,0:16:44.08,0:16:45.23,Default,Eizen,0,0,0,,Yapabilecek misin?
+Dialogue: 20,0:16:51.00,0:16:53.20,Default,Sagiri,0,0,0,,{\i1}Cellatlık kaderimden kaçamıyor muyum?
+Dialogue: 20,0:16:53.93,0:16:54.81,Default,Sagiri,0,0,0,,{\i1}O halde...
+Dialogue: 20,0:16:56.29,0:16:59.83,Default,Sagiri,0,0,0,,{\i1}...artık boynumu büküp \Nkaderime razı gelmeyeceğim!
+Dialogue: 20,0:17:01.38,0:17:05.00,Default,Sagiri,0,0,0,,{\i1}Kendi kaderimi kendim çizmek istiyorum!
+Dialogue: 20,0:17:22.34,0:17:23.01,Default,Sagiri,0,0,0,,{\i1}Neden?
+Dialogue: 20,0:17:26.55,0:17:27.45,Default,Sagiri,0,0,0,,{\i1}Neden?!
+Dialogue: 20,0:17:31.67,0:17:34.00,Default,Gabimaru,0,0,0,,İnsanları gerçekten öldürmek zorunda mıyız?
+Dialogue: 20,0:17:39.29,0:17:41.41,Default,Gabimaru,0,0,0,,Başka bir yöntem bulamaz mısınız?
+Dialogue: 20,0:17:41.65,0:17:42.80,Default,Bakan,0,0,0,,Sen ne ara...
+Dialogue: 20,0:17:42.90,0:17:43.95,Default,Bakan,0,0,0,,Geri çekil!
+Dialogue: 20,0:17:44.13,0:17:47.35,Default,Gabimaru,0,0,0,,Katil de olsak, keyfimizden \Nadam öldürmüyoruz.
+Dialogue: 20,0:17:47.64,0:17:49.29,Default,Aoki,0,0,0,,Gardiyanlar, ne yapıyorsunuz?
+Dialogue: 20,0:17:49.43,0:17:51.68,Default,Gabimaru,0,0,0,,Buna daha fazla izin veremem.
+Dialogue: 20,0:17:52.47,0:17:55.01,Default,Bakan,0,0,0,,Majestelerine emir\Nvermeye nasıl cüret edersin?!
+Dialogue: 20,0:17:55.25,0:17:56.34,Default,Gabimaru,0,0,0,,İyi de...
+Dialogue: 20,0:17:56.45,0:18:00.55,Default,Gabimaru,0,0,0,,Zorunda kalmadıkça birini \Nöldürmek istememem gayet normal.
+Dialogue: 20,0:18:01.85,0:18:04.48,Default,Aoki,0,0,0,,Diline dikkat et, şeytan.
+Dialogue: 20,0:18:04.62,0:18:08.31,Default,Aoki,0,0,0,,İstemiyorsan, af hakkından vazgeçersin bu kadar.
+Dialogue: 20,0:18:10.47,0:18:11.65,Default,Gabimaru,0,0,0,,Anlatamıyorum ki.
+Dialogue: 20,0:18:13.45,0:18:15.65,Default,Aoki,0,0,0,,Hey, siz!
+Dialogue: 20,0:18:16.00,0:18:16.90,Default,Suçlu E,0,0,0,,Ha?
+Dialogue: 20,0:18:17.15,0:18:20.16,Default,Aoki,0,0,0,,Bu herifi öldürürseniz sizi direkt listeye alırım.
+Dialogue: 20,0:18:20.47,0:18:21.08,Default,Gabimaru,0,0,0,,Ne?
+Dialogue: 20,0:18:21.46,0:18:23.01,Default,Suçlu F,0,0,0,,Essah mı?
+Dialogue: 20,0:18:24.01,0:18:26.41,Default,Suçlu F,0,0,0,,Kılını kıpırdatma.
+Dialogue: 20,0:18:27.01,0:18:28.21,Default,Gabimaru,0,0,0,,Bekle.
+Dialogue: 20,0:18:28.37,0:18:30.84,Default,Gabimaru,0,0,0,,Bu anlamsız katliamdan siz de\Nhoşlanmıyorsunuz, değil mi?
+Dialogue: 20,0:18:31.10,0:18:32.54,Default,Suçlu F,0,0,0,,Sikimde değil.
+Dialogue: 20,0:18:32.70,0:18:37.22,Default,Suçlu F,0,0,0,,Hayatta kalabilmek için ne gerekiyorsa yaparım!
+Dialogue: 20,0:18:38.14,0:18:39.09,Default,Suçlu F,0,0,0,,Kaçma lan!
+Dialogue: 20,0:18:39.67,0:18:40.84,Default,Gabimaru,0,0,0,,Konuşarak çözemez miyiz?
+Dialogue: 20,0:18:41.10,0:18:43.60,Default,Suçlu F,0,0,0,,Savaşmayacaksan kapa çeneni de geber!
+Dialogue: 20,0:18:48.01,0:18:49.35,Default,Gabimaru,0,0,0,,Başka seçeneğim yok.
+Dialogue: 20,0:18:50.60,0:18:51.61,Default,Gabimaru,0,0,0,,Ölün madem.
+Dialogue: 20,0:18:51.93,0:18:52.86,Default,Suçlu F,0,0,0,,Ne?
+Dialogue: 20,0:18:53.44,0:18:55.48,Default,Gabimaru,0,0,0,,Beni öldürmeye çalışanı öldürürüm.
+Dialogue: 20,0:18:59.01,0:19:01.24,Default,Suçlu F,0,0,0,,Anlamsız katliam falan demiyor muydun?
+Dialogue: 20,0:19:02.00,0:19:03.12,Default,Gabimaru,0,0,0,,Diyordum.
+Dialogue: 20,0:19:04.01,0:19:08.41,Default,Gabimaru,0,0,0,,Ama öylece durup ölecek değilim.
+Dialogue: 20,0:19:10.11,0:19:11.25,Default,Gabimaru,0,0,0,,Başka seçeneğim yok.
+Dialogue: 20,0:19:11.59,0:19:12.75,Default,Suçlu F,0,0,0,,Ne?
+Dialogue: 20,0:19:13.66,0:19:14.92,Default,Suçlu F,0,0,0,,Ne anlatıyo'n la sen?
+Dialogue: 20,0:19:15.03,0:19:16.53,Default,Gabimaru,0,0,0,#,Yolu yok, çekeceğiz...
+Dialogue: 20,0:19:17.00,0:19:19.20,Default,Gabimaru,0,0,0,##,Taşımamız gereken bir yük daha...
+Dialogue: 20,0:19:21.80,0:19:24.48,Default,Gabimaru,0,0,0,,Ahh, bıktım ya...
+Dialogue: 20,0:19:24.82,0:19:27.02,Default,Gabimaru,0,0,0,,Harbi usandım...
+Dialogue: 20,0:20:19.49,0:20:21.99,Default,Bakan,0,0,0,,Ca-Canavar mı bu?..
+Dialogue: 20,0:20:22.24,0:20:23.40,Default,Aoki,0,0,0,,Demek...
+Dialogue: 20,0:20:28.90,0:20:30.25,Default,Aoki,0,0,0,,...Ruhsuz...
+Dialogue: 20,0:20:32.63,0:20:34.29,Default-Alt,Gabimaru,0,0,0,#,{\i1}Yolu yok, çekeceğiz...
+Dialogue: 20,0:20:36.77,0:20:38.92,Default-Alt,Gabimaru,0,0,0,##,{\i1}Taşımamız gereken bir yük daha...
+Dialogue: 20,0:20:46.16,0:20:49.43,Default,Eizen,0,0,0,,Ne vahşet ama...
+Dialogue: 20,0:20:53.32,0:20:55.44,Default,Gabimaru,0,0,0,,Vahşice öldürmesem hoşuna mı gidecekti?
+Dialogue: 20,0:20:57.46,0:21:02.57,Default,Sagiri,0,0,0,,{\i1}Bunca zamandır ihtiyacım olan şey, \Nbirini gözümü kırpmadan öldürebilmek değil de...
+Dialogue: 20,0:21:06.37,0:21:11.66,Default,Sagiri,0,0,0,,{\i1}...aldığım her canın yükünü \Ntaşıyabilecek kadar kararlı olmak mıydı?
+Dialogue: 20,0:21:19.77,0:21:21.92,Default,Eizen,0,0,0,,Sagiri, iyi misin?
+Dialogue: 20,0:21:22.76,0:21:24.93,Default,Eizen,0,0,0,,Dayanamayacağını tahmin etmiştim.
+Dialogue: 20,0:21:25.61,0:21:26.43,Default,Sagiri,0,0,0,,Hayır.
+Dialogue: 20,0:21:27.01,0:21:29.43,Default,Sagiri,0,0,0,,Onunla ben ilgileneceğim.
+Dialogue: 20,0:21:32.53,0:21:34.69,Default,Aoki,0,0,0,,Bu kadar yeter, mahkumlar.
+Dialogue: 20,0:21:35.12,0:21:37.31,Default,Aoki,0,0,0,,Hepiniz keşfe katılacaksınız.
+Dialogue: 20,0:21:38.95,0:21:41.19,Default,Aoki,0,0,0,,Haydut Kral, Çobei Aza.
+Dialogue: 20,0:21:42.22,0:21:44.70,Default,Aoki,0,0,0,,Kılıç Ejderi, Gantetsusai Tamiya.
+Dialogue: 20,0:21:45.68,0:21:48.41,Default,Aoki,0,0,0,,Yüz Adam Avcısı, Çarpık Keiun.
+Dialogue: 20,0:21:48.57,0:21:50.20,Default,Aoki,0,0,0,,Soydağ, Nurugai.
+Dialogue: 20,0:21:51.72,0:21:53.70,Default,Aoki,0,0,0,,Duacı Katil, Horubo.
+Dialogue: 20,0:21:54.82,0:21:57.21,Default,Aoki,0,0,0,,Kaçak, Ruhsuz Gabimaru.
+Dialogue: 20,0:21:58.23,0:22:00.79,Default,Aoki,0,0,0,,Yamyam Fahişe, Akaginu.
+Dialogue: 20,0:22:01.01,0:22:03.21,Default,Aoki,0,0,0,,Kunoiçi, Keişular'dan Yuzuriha.
+Dialogue: 20,0:22:04.43,0:22:06.72,Default,Aoki,0,0,0,,Kafir, Makiya Moro.
+Dialogue: 20,0:22:07.77,0:22:10.47,Default,Aoki,0,0,0,,Bizen'in Devi, Rokurota.
+Dialogue: 20,0:22:11.01,0:22:12.89,Default,Aoki,0,0,0,,Adaya sizler gideceksiniz.
+Dialogue: 20,0:22:13.61,0:22:21.11,Default,Aoki,0,0,0,,Her birinize Yamada ailesinden\Nbir Asaemon celladı atanacak.
+Dialogue: 20,0:22:26.62,0:22:28.11,Default,Aoki,0,0,0,,Bir gemiye binecek...
+Dialogue: 20,0:22:28.80,0:22:31.62,Default,Aoki,0,0,0,,...güneydeki keşfedilmemiş\Nbir adaya yolculuk yapacak ve...
+Dialogue: 20,0:22:32.06,0:22:34.70,Default,Aoki,0,0,0,,...içeni ölümsüz yapan Yaşam İksirini arayacaksınız.
+Dialogue: 20,0:22:36.18,0:22:38.04,Default,Aoki,0,0,0,,Bulursanız özgürsünüz.
+Dialogue: 20,0:22:43.75,0:22:45.52,Default,Aoki,0,0,0,,Endişe etmeyin.
+Dialogue: 20,0:22:45.83,0:22:51.35,Default,Aoki,0,0,0,,Cennete gidiyorsunuz. \NEbedi yaşamın diyarı, Şinsenkyo'ya!
+Dialogue: 20,0:22:52.67,0:22:54.28,Default,Aoki,0,0,0,,{\fad(0,300)}Bir tehlike yok!
+Comment: 0,0:03:16.01,0:04:45.43,Default,,0,0,0,,{op}
+Dialogue: 0,0:03:17.43,0:03:19.26,OP,,0,0,0,,{\fad(120,100)\blur1}Özgür yanını
+Dialogue: 0,0:03:19.55,0:03:21.43,OP,,0,0,0,,{\fad(120,100)\blur1}göster bana yaşamanın
+Dialogue: 0,0:03:21.93,0:03:23.77,OP,,0,0,0,,{\fad(120,100)\blur1}Güvencesizse
+Dialogue: 0,0:03:24.56,0:03:26.06,OP,,0,0,0,,{\fad(120,100)\blur1}buruştur at çöpe
+Dialogue: 0,0:03:26.60,0:03:28.31,OP,,0,0,0,,{\fad(120,100)\blur1}Söylentiler mi?
+Dialogue: 0,0:03:28.61,0:03:30.36,OP,,0,0,0,,{\fad(120,100)\blur1}Hiç takma kafana!
+Dialogue: 0,0:03:31.19,0:03:33.07,OP,,0,0,0,,{\fad(120,100)\blur1}Hedefe ulaş da
+Dialogue: 0,0:03:33.69,0:03:35.32,OP,,0,0,0,,{\fad(120,100)\blur1}bakalım olanlara
+Dialogue: 0,0:03:35.32,0:03:37.32,OP,,0,0,0,,{\fad(120,100)\blur1}Manastırda boş beş neden
+Dialogue: 0,0:03:37.57,0:03:39.62,OP,,0,0,0,,{\fad(120,100)\blur1}beşi birden bize beden
+Dialogue: 0,0:03:39.82,0:03:44.25,OP,,0,0,0,,{\fad(120,100)\blur1}Adımı anlar ancak idrak edebilen
+Dialogue: 0,0:03:44.41,0:03:46.54,OP,,0,0,0,,{\fad(120,100)\blur1}Sen taktikle uğraşırken
+Dialogue: 0,0:03:46.79,0:03:48.88,OP,,0,0,0,,{\fad(120,100)\blur1}Yetinirim bir zarla ben
+Dialogue: 0,0:03:49.04,0:03:55.63,OP,,0,0,0,,{\fad(120,100)\blur1}Zorla istersen, başka türlü zor fark etmen
+Dialogue: 0,0:03:53.05,0:03:55.63,OP2,,0,0,0,,{\fad(120,100)\blur1}Sıkıştık kaldık, dönüp duruyoruz burada
+Dialogue: 0,0:03:55.63,0:03:57.68,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&&H2599E0&&}Etrafımız sarılı fare ve sıçanlarla
+Dialogue: 0,0:03:57.80,0:03:59.64,OP2,,0,0,0,,{\fad(120,100)\blur1}Wake up bankers, çıkın parayı!
+Dialogue: 0,0:03:59.64,0:04:02.43,OP2,,0,0,0,,{\fad(120,100)\blur1}Sözlerim vurur yüze yumruk gibi
+Dialogue: 0,0:04:02.43,0:04:04.39,OP2,,0,0,0,,{\fad(120,100)\blur1}Uyanın rüyanızdan
+Dialogue: 0,0:04:04.60,0:04:07.02,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H2C295E&}Dik durun, my fav people!
+Dialogue: 0,0:04:07.23,0:04:09.27,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H2457C2&\3c&HFFFFFF&\4c&HFFFFFF&)}Affet beni,
+Dialogue: 0,0:04:09.27,0:04:11.61,OP,,0,0,0,,{\fad(120,100)\blur1}arındır günahlarımdan!
+Dialogue: 0,0:04:11.69,0:04:13.90,OP,,0,0,0,,{\fad(120,100)\blur1}ve yargıla
+Dialogue: 0,0:04:12.82,0:04:14.19,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H86B8EA&\t(1000,1200,\3c&H00000&)}Yargıla beni
+Dialogue: 0,0:04:13.90,0:04:16.19,OP,,0,0,0,,{\fad(120,100)\blur1}Nasıl olması gerekiyorsa
+Dialogue: 0,0:04:16.19,0:04:18.45,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H79634A&\3c&HFFFFFF&\4c&HFFFFFF&)}Azarla beni
+Dialogue: 0,0:04:18.45,0:04:20.78,OP,,0,0,0,,{\fad(120,100)\blur1}Şayet affedildiysem,
+Dialogue: 0,0:04:20.78,0:04:26.83,OP,,0,0,0,,{\fad(120,100)\blur1}tadını çıkarmak istiyorum hayatın yanımda sevdiğim adamla!
+Dialogue: 0,0:04:27.04,0:04:29.12,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H275F94&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:04:29.12,0:04:30.54,OP,,0,0,0,,{\fad(0,0)\blur1}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:04:30.54,0:04:31.33,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H4779DC&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:04:31.63,0:04:32.04,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H1F69BC&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:04:32.04,0:04:33.55,OP,,0,0,0,,{\fad(0,0)\blur1}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:04:33.55,0:04:34.80,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H838DBA&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:04:34.80,0:04:35.88,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H92B8BB&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:04:36.17,0:04:37.30,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:04:37.30,0:04:38.42,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H7099AA&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:04:38.42,0:04:39.43,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:04:39.43,0:04:40.34,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H573C6C&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:04:40.72,0:04:40.93,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H573C6C&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:04:40.93,0:04:43.26,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H342560&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:04:43.26,0:04:45.43,OP,,0,0,0,,{\fad(0,380)\blur1\3c&H151742&}Doya doya yaşa, günler sayılı olsa da!
+Comment: 0,0:22:55.81,0:24:24.99,YD,,0,0,0,,{ed}
+Dialogue: 0,0:22:55.56,0:23:00.15,ed 1,,0,0,0,,{\fad(250,350)}Saklamayı denedim
+Dialogue: 0,0:23:00.74,0:23:04.07,ed 1,,0,0,0,,{\fad(250,350)}İmkansız sanmıştım
+Dialogue: 0,0:23:04.07,0:23:08.74,ed 1,,0,0,0,,{\fad(250,350)}Utancımı bahane etmiştim
+Dialogue: 0,0:23:08.74,0:23:14.04,ed 1,,0,0,0,,{\fad(150,350)}Ama sen bana akışına bırak dedin ve
+Dialogue: 0,0:23:14.71,0:23:21.67,ed 1,,0,0,0,,{\fad(250,350)}Kırgın kalbimi iyileştirdin, eski haline getirdin
+Dialogue: 0,0:23:21.67,0:23:23.76,ed 1,,0,0,0,,{\fad(250,350)}Kırdın tabuları
+Dialogue: 0,0:23:23.93,0:23:28.81,ed 2,,0,0,0,,{\fad(250,350)}Bu çıtkırıldım kalp ile
+Dialogue: 0,0:23:28.89,0:23:35.98,ed 2,,0,0,0,,{\fad(250,350)}Böyle duygulara dayanması zor
+Dialogue: 0,0:23:39.52,0:23:41.69,ed 2,,0,0,0,,{\fad(250,350)}Keşke artık
+Dialogue: 0,0:23:41.86,0:23:45.41,ed 2,,0,0,0,,{\fad(250,350)}Yarınların sonu gelse
+Dialogue: 0,0:23:45.41,0:23:49.08,ed 2,,0,0,0,,{\fad(250,350)}Rüyalarda kaybolsak keşke
+Dialogue: 0,0:23:49.08,0:23:55.96,ed 1,,0,0,0,,{\fad(250,350)}Bugün bir başkası olmasa aklında
+Dialogue: 0,0:23:55.96,0:23:59.63,ed 1,,0,0,0,,{\fad(250,350)}Yüreğimde var bir dilek
+Dialogue: 0,0:23:59.63,0:24:02.92,ed 1,,0,0,0,,{\fad(250,350)}Keşke gerçek olsa dediğim
+Dialogue: 0,0:24:03.05,0:24:09.97,ed 1,,0,0,0,,{\fad(150,350)}Bir gün sesi duyulsa, ulaşsa sana keşke
+Dialogue: 0,0:24:09.97,0:24:13.56,ed 1,,0,0,0,,{\fad(250,350)}Kaç kez incinsen de
+Dialogue: 0,0:24:13.73,0:24:17.10,ed 1,,0,0,0,,{\fad(250,350)}Korumaya çalıştığın aşk
+Dialogue: 0,0:24:17.10,0:24:24.94,ed 2,,0,0,0,,{\fad(250,350)}Bir gün kollarını dolayacak sana bile
+Comment: 0,0:04:46.52,0:04:52.47,YD,,0,0,0,,{yd}
+Dialogue: 0,0:11:55.03,0:11:59.03,Orta,,0,0,0,,{\blur0.7}Cehennet
+Dialogue: 0,0:04:46.52,0:04:52.47,Baslik,,0,0,0,,{\fad(1018,970)}Seçme ve Elemeler
+Dialogue: 0,0:05:20.71,0:05:20.75,Mahkum,,0,0,0,,{\1a&H16&\blur6.21\fax-0.04\fscx70\fscy85\pos(2026.87,699.86)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:20.75,0:05:20.80,Mahkum,,0,0,0,,{\1a&H16&\blur6.21\fax-0.04\fscx70\fscy85\pos(2026.9,699.86)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:20.80,0:05:20.84,Mahkum,,0,0,0,,{\1a&H16&\blur4.97\fax-0.04\fscx70\fscy85\pos(1944.96,699.83)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:20.84,0:05:20.88,Mahkum,,0,0,0,,{\1a&H16&\blur4.97\fax-0.04\fscx70\fscy85\pos(1944.95,699.91)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:20.88,0:05:20.92,Mahkum,,0,0,0,,{\1a&H16&\blur3.93\fax-0.04\fscx70\fscy85\pos(1862.7,699.29)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:20.92,0:05:20.96,Mahkum,,0,0,0,,{\1a&H16&\blur3.93\fax-0.04\fscx70\fscy85\pos(1862.75,699.48)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:20.96,0:05:21.00,Mahkum,,0,0,0,,{\1a&H16&\blur3.08\fax-0.04\fscx70\fscy85\pos(1780.77,699.44)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.00,0:05:21.05,Mahkum,,0,0,0,,{\1a&H16&\blur3.08\fax-0.04\fscx70\fscy85\pos(1780.75,699.28)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.05,0:05:21.09,Mahkum,,0,0,0,,{\1a&H16&\blur2.42\fax-0.04\fscx70\fscy85\pos(1698.4,699.69)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.09,0:05:21.13,Mahkum,,0,0,0,,{\1a&H16&\blur2.42\fax-0.04\fscx70\fscy85\pos(1698.43,699.62)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.13,0:05:21.17,Mahkum,,0,0,0,,{\1a&H16&\blur1.89\fax-0.04\fscx70\fscy85\pos(1616.24,699.45)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.17,0:05:21.21,Mahkum,,0,0,0,,{\1a&H16&\blur1.89\fax-0.04\fscx70\fscy85\pos(1616.26,699.51)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.21,0:05:21.25,Mahkum,,0,0,0,,{\1a&H16&\blur1.44\fax-0.04\fscx70\fscy85\pos(1534.24,699.52)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.25,0:05:21.30,Mahkum,,0,0,0,,{\1a&H16&\blur1.44\fax-0.04\fscx70\fscy85\pos(1534.25,699.53)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.30,0:05:21.34,Mahkum,,0,0,0,,{\1a&H16&\blur1.16\fax-0.04\fscx70\fscy85\pos(1451.97,698.96)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.34,0:05:21.38,Mahkum,,0,0,0,,{\1a&H16&\blur1.16\fax-0.04\fscx70\fscy85\pos(1451.98,699)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.38,0:05:21.42,Mahkum,,0,0,0,,{\1a&H16&\blur0.9\fax-0.04\fscx70\fscy85\pos(1369.98,699)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.42,0:05:21.46,Mahkum,,0,0,0,,{\1a&H16&\blur0.9\fax-0.04\fscx70\fscy85\pos(1369.98,698.99)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.46,0:05:21.50,Mahkum,,0,0,0,,{\1a&H16&\blur0.7\fax-0.04\fscx70\fscy85\pos(1287.95,698.99)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:20.71,0:05:20.75,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur6.55\frz14.06\fax-0.04\pos(2040.2,741.2)}Seikiçi Tanio
+Dialogue: 0,0:05:20.75,0:05:20.80,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur6.55\frz14.06\fax-0.04\pos(2040.23,741.2)}Seikiçi Tanio
+Dialogue: 0,0:05:20.80,0:05:20.84,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur5.26\frz14.06\fax-0.04\pos(1958.29,741.17)}Seikiçi Tanio
+Dialogue: 0,0:05:20.84,0:05:20.88,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur5.26\frz14.06\fax-0.04\pos(1958.28,741.25)}Seikiçi Tanio
+Dialogue: 0,0:05:20.88,0:05:20.92,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur4.22\frz14.06\fax-0.04\pos(1876.03,740.63)}Seikiçi Tanio
+Dialogue: 0,0:05:20.92,0:05:20.96,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur4.22\frz14.06\fax-0.04\pos(1876.08,740.82)}Seikiçi Tanio
+Dialogue: 0,0:05:20.96,0:05:21.00,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur3.34\frz14.06\fax-0.04\pos(1794.1,740.78)}Seikiçi Tanio
+Dialogue: 0,0:05:21.00,0:05:21.05,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur3.34\frz14.06\fax-0.04\pos(1794.08,740.62)}Seikiçi Tanio
+Dialogue: 0,0:05:21.05,0:05:21.09,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur2.64\frz14.06\fax-0.04\pos(1711.73,741.03)}Seikiçi Tanio
+Dialogue: 0,0:05:21.09,0:05:21.13,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur2.64\frz14.06\fax-0.04\pos(1711.76,740.96)}Seikiçi Tanio
+Dialogue: 0,0:05:21.13,0:05:21.17,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur2.06\frz14.06\fax-0.04\pos(1629.57,740.79)}Seikiçi Tanio
+Dialogue: 0,0:05:21.17,0:05:21.21,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur2.06\frz14.06\fax-0.04\pos(1629.59,740.85)}Seikiçi Tanio
+Dialogue: 0,0:05:21.21,0:05:21.25,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur1.58\frz14.06\fax-0.04\pos(1547.57,740.86)}Seikiçi Tanio
+Dialogue: 0,0:05:21.25,0:05:21.30,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur1.58\frz14.06\fax-0.04\pos(1547.58,740.87)}Seikiçi Tanio
+Dialogue: 0,0:05:21.30,0:05:21.34,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur1.26\frz14.06\fax-0.04\pos(1465.3,740.3)}Seikiçi Tanio
+Dialogue: 0,0:05:21.34,0:05:21.38,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur1.26\frz14.06\fax-0.04\pos(1465.31,740.34)}Seikiçi Tanio
+Dialogue: 0,0:05:21.38,0:05:21.42,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur1.01\frz14.06\fax-0.04\pos(1383.31,740.34)}Seikiçi Tanio
+Dialogue: 0,0:05:21.42,0:05:21.46,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur1.01\frz14.06\fax-0.04\pos(1383.31,740.33)}Seikiçi Tanio
+Dialogue: 0,0:05:21.46,0:05:21.50,Mahkum,,0,0,0,,{\fscx90\fscy95\1a&H16&\blur0.8\frz14.06\fax-0.04\pos(1301.28,740.33)}Seikiçi Tanio
+Dialogue: 0,0:05:21.51,0:05:23.55,Mahkum,,0,0,0,,{\blur0.8\fax-0.04\fscx70\fscy85\pos(1287.95,698.99)\frz13.01}İdam Mahkumu
+Dialogue: 0,0:05:21.51,0:05:23.55,Mahkum,,0,0,0,,{\blur0.8\frz14.06\fax-0.04\pos(1301.28,740.33)}Seikiçi Tanio
