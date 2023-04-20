@@ -90,7 +90,7 @@ Dialogue: 20,0:07:11.25,0:07:13.75,Default,Sagiri,0,0,0,,{\i1}Bu herif de diğer
 Dialogue: 20,0:07:14.02,0:07:18.42,Default,Sagiri,0,0,0,,{\i1}Yoksa söylentilerdeki gibi, \Nonlardan çok daha kötü mü?
 Dialogue: 20,0:07:23.70,0:07:27.52,Default,Bakan,0,0,0,,Şimdi sizlere gideceğiniz adayla\Nilgili açıklamada bulunacağım.
 Dialogue: 20,0:07:28.13,0:07:30.81,Default,Bakan,0,0,0,,Tıpkı Cennet gibi bir-
-Dialogue: 20,0:07:29.72,0:07:30.68,Default,Suçlu A,0,0,0,,{\an8}Duydun onları!
+Dialogue: 20,0:07:29.72,0:07:30.68,Default,Suçlu A,0,0,0,,{\an8}Duyduk onları!
 Dialogue: 20,0:07:31.00,0:07:32.13,Default,Suçlu B,0,0,0,,Boş yapmayın!
 Dialogue: 20,0:07:32.13,0:07:33.84,Default,Suçlu C,0,0,0,,Peri masalı dinlemeye mi geldik?
 Dialogue: 20,0:07:34.68,0:07:37.06,Default,Aoki,0,0,0,,Hepiniz maskelerinizi çıkarın!
@@ -131,7 +131,7 @@ Dialogue: 20,0:09:39.82,0:09:42.72,Default,Aoki,0,0,0,,Hepiniz çoktan idam ceza
 Dialogue: 20,0:09:42.89,0:09:44.98,Default,Aoki,0,0,0,,Cezanız adada da geçerli.
 Dialogue: 20,0:09:45.38,0:09:46.64,Default,Aoki,0,0,0,,Kısacası...
 Dialogue: 20,0:09:56.00,0:10:00.02,Default,Aoki,0,0,0,,Adada kafanıza eseni\Nyaptığınız anda kelleniz kesilecek.
-Dialogue: 20,0:10:00.27,0:10:03.79,Default,Aoki,0,0,0,,Gözetmenliği, Yamada klanının \NAsaemonları üstlenecek.
+Dialogue: 20,0:10:00.27,0:10:03.79,Default,Aoki,0,0,0,,Gözetmenliği, Yamada klanının \NAsaemonlar'ı üstlenecek.
 Dialogue: 20,0:10:04.74,0:10:06.91,Default,Aoki,0,0,0,,Aklınızdan anlamsız düşünceler geçmesin.
 Dialogue: 20,0:10:07.02,0:10:09.00,Default,Aoki,0,0,0,,Karşınızda Yamadalar var.
 Dialogue: 20,0:10:09.32,0:10:12.00,Default,Aoki,0,0,0,,Karşı çıktığınız anda sonunuz onun gibi olur.
@@ -280,7 +280,7 @@ Dialogue: 20,0:21:32.53,0:21:34.69,Default,Aoki,0,0,0,,Bu kadar yeter, mahkumlar
 Dialogue: 20,0:21:35.12,0:21:37.31,Default,Aoki,0,0,0,,Hepiniz keşfe katılacaksınız.
 Dialogue: 20,0:21:38.95,0:21:41.19,Default,Aoki,0,0,0,,Haydut Kral, Çobei Aza.
 Dialogue: 20,0:21:42.22,0:21:44.70,Default,Aoki,0,0,0,,Kılıç Ejderi, Gantetsusai Tamiya.
-Dialogue: 20,0:21:45.68,0:21:48.41,Default,Aoki,0,0,0,,Yüz Adam Avcısı, Çarpık Keiun.
+Dialogue: 20,0:21:45.68,0:21:48.41,Default,Aoki,0,0,0,,Yüz Adam Avcısı, Çarpık Keyun.
 Dialogue: 20,0:21:48.57,0:21:50.20,Default,Aoki,0,0,0,,Soydağ, Nurugai.
 Dialogue: 20,0:21:51.72,0:21:53.70,Default,Aoki,0,0,0,,Duacı Katil, Horubo.
 Dialogue: 20,0:21:54.82,0:21:57.21,Default,Aoki,0,0,0,,Kaçak, Ruhsuz Gabimaru.

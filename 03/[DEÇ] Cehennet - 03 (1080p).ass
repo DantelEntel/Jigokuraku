@@ -1,0 +1,796 @@
+﻿[Script Info]
+Title: Dantel Entel
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Commie Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H5F591720,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Default-Alt,Commie Sans,70,&H00FFFFFF,&H000000FF,&H003D0107,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Maske,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,1,1,1,1
+Style: YD,FOT-OedKtr Std E,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,1,1,1,1
+Style: Baslik,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,1,123,1,150,1
+Style: Orta,Dry Brush,205,&H00070001,&H00FFFFFF,&H00FFFFFF,&H00AF82E4,-1,0,0,0,100,100,0,0,1,0,5,2,17,1,20,1
+Style: ed 1,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,0.5,1,40,40,35,0
+Style: ed 2,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,3,40,40,35,0
+Style: OP,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B000000,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: OP2,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B76441A,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,2,30,30,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,İmza,0,0,0,,{Çeviri: Einherjar}{Çeviri Editörü: Vuats}{Yazı Dizimi: Vuats}{Zamanlama: Vuats}{Açılış Şarkısı: Einherjar}{Kapanış Şarkısı: Vuats}{Son Kontrol: Vuats}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:45.64,0:00:49.01,Default,Gabimaru,0,0,0,,Kılıçlarla delik deşik olup, \Nbağırsakları yere dökülmesine rağmen...
+Dialogue: 20,0:00:50.43,0:00:52.03,Default,Gabimaru,0,0,0,,...hala ayakta durabiliyordu.
+Dialogue: 20,0:00:53.68,0:00:57.12,Default,Gabimaru,0,0,0,,Saklı Taş'ın şefi tam anlamıyla ölümsüzdü.
+Dialogue: 20,0:00:57.48,0:01:01.32,Default,Gabimaru,0,0,0,,Vaktinde denizin ötesinde, uzak bir\N adada bulduğu bir ilaç sayesindeymiş.
+Dialogue: 20,0:01:09.01,0:01:10.42,Default,Gabimaru,0,0,0,,Yüzüne bakılırsa...
+Dialogue: 20,0:01:10.83,0:01:13.71,Default,Gabimaru,0,0,0,,...iksirin gerçek olduğuna inanmıyordun anlaşılan.
+Dialogue: 20,0:01:13.93,0:01:14.99,Default,Sagiri,0,0,0,,Yani...
+Dialogue: 20,0:01:15.44,0:01:18.01,Default,Gabimaru,0,0,0,,Yaşam İksiri gerçek...
+Dialogue: 20,0:01:18.39,0:01:20.06,Default,Gabimaru,0,0,0,,Abıhayat.
+Dialogue: 20,0:01:22.57,0:01:24.52,Default,Gabimaru,0,0,0,,Burada mıdır onu bilemem tabii.
+Dialogue: 20,0:03:05.29,0:03:06.56,Default,Sagiri,0,0,0,,Bunlar...
+Dialogue: 20,0:03:10.17,0:03:12.17,Default,Sagiri,0,0,0,,Her yer o kadar inanılmaz ki...
+Dialogue: 20,0:03:13.28,0:03:18.40,Default,Sagiri,0,0,0,,İnsan burayı görünce Yaşam İksirinin \Ngerçekliğine de inanmaya başlıyor.
+Dialogue: 20,0:03:20.18,0:03:22.34,Default,Gabimaru,0,0,0,,İnanılmaz tuhaf demek istedin herhalde.
+Dialogue: 20,0:03:23.86,0:03:27.44,Default,Gabimaru,0,0,0,,Bitkilerin ne türleri, ne de yaşam alanları normal.
+Dialogue: 20,0:03:27.64,0:03:29.22,Default,Gabimaru,0,0,0,,Resmen yapay gibiler.
+Dialogue: 20,0:03:29.72,0:03:30.82,Default,Gabimaru,0,0,0,,Ayrıca...
+Dialogue: 20,0:03:32.28,0:03:35.50,Default,Gabimaru,0,0,0,,Karşımıza ne çıkar bilinmez. Tetikte ol.
+Dialogue: 20,0:03:35.79,0:03:37.66,Default,Sagiri,0,0,0,,Ellerini çözmen yasak.
+Dialogue: 20,0:03:38.96,0:03:40.86,Default,Gabimaru,0,0,0,,İyi de bu çok saçma!
+Dialogue: 20,0:03:41.06,0:03:42.76,Default,Sagiri,0,0,0,,Saçma da olsa emir bu şekilde.
+Dialogue: 20,0:03:43.03,0:03:45.34,Default,Sagiri,0,0,0,,Mahkumlara göz kulak olmak benim görevim.
+Dialogue: 20,0:03:45.62,0:03:48.64,Default,Sagiri,0,0,0,,Kuralları çiğnemene göz yumamam.
+Dialogue: 20,0:03:49.07,0:03:50.43,Default,Sagiri,0,0,0,,Ellerini bağla.
+Dialogue: 20,0:03:50.65,0:03:53.08,Default,Gabimaru,0,0,0,,Öf ya, görmezden geliver işte.
+Dialogue: 20,0:03:53.23,0:03:55.88,Default,Gabimaru,0,0,0,,Ayrıca saçma olan tek şey bu değil.
+Dialogue: 20,0:03:56.38,0:03:58.46,Default,Gabimaru,0,0,0,,Yalnızca üç günlük erzak verdiler.
+Dialogue: 20,0:03:58.83,0:04:00.63,Default,Gabimaru,0,0,0,,Tek ipucumuz da bu çizim.
+Dialogue: 20,0:04:00.94,0:04:04.01,Default,Gabimaru,0,0,0,,Gerçekten istiyo'lar mı bu iksiri acaba?
+Dialogue: 20,0:04:05.84,0:04:07.30,Default,Sagiri,0,0,0,,Ellerini bağla.
+Dialogue: 20,0:04:08.23,0:04:10.85,Default,Sagiri,0,0,0,,İçinde bulunduğun durumu \Nanlayamadıysan anlatayım.
+Dialogue: 20,0:04:11.00,0:04:14.65,Default,Sagiri,0,0,0,,Ben senin müttefikin değilim, celladınım.
+Dialogue: 20,0:04:15.01,0:04:21.65,Default,Sagiri,0,0,0,,İksiri bulamayıp affı elde edemezsen,\N bu senin sorunun.
+Dialogue: 20,0:04:22.38,0:04:25.43,Default,Sagiri,0,0,0,,Bu yüzden, ellerini \Nbağlamayı reddedersen kellen gider.
+Dialogue: 20,0:04:30.25,0:04:33.26,Default,Gabimaru,0,0,0,,Tamam ya. Nasıl istersen.
+Dialogue: 20,0:04:34.00,0:04:36.29,Default,Gabimaru,0,0,0,,Neyse, benim tek derdim\Neşimi tekrar görebilmek.
+Dialogue: 20,0:04:36.77,0:04:40.55,Default,Gabimaru,0,0,0,,Onun için ne gerekirse \Nyaparım ama fazla abartmazs-
+Dialogue: 20,0:04:45.55,0:04:46.34,Default,Sagiri,0,0,0,,Ga...
+Dialogue: 20,0:04:52.00,0:04:55.00,Default,Keyun,0,0,0,,Biri gitti!
+Dialogue: 20,0:04:56.01,0:04:57.73,Default,Keyun,0,0,0,,Enayi herif!
+Dialogue: 20,0:05:01.30,0:05:04.00,Default,Keyun,0,0,0,,Böyle bir durumda gardını indirdi.
+Dialogue: 20,0:05:04.34,0:05:05.32,Default,Keyun,0,0,0,,Ölümü hak-
+Dialogue: 20,0:05:08.06,0:05:09.78,Default,Gabimaru,0,0,0,,Hiç beklemiyordum.
+Dialogue: 20,0:05:11.26,0:05:12.58,Default,Sagiri,0,0,0,,İyi misin?
+Dialogue: 20,0:05:12.75,0:05:15.41,Default,Gabimaru,0,0,0,,Boynum yerinden çıktı sadece.
+Dialogue: 20,0:05:15.56,0:05:17.12,Default,Gabimaru,0,0,0,,Onu boş ver de, şu herif...
+Dialogue: 20,0:05:17.32,0:05:17.76,Default,Sagiri,0,0,0,,Evet.
+Dialogue: 20,0:05:18.68,0:05:21.75,Default,Sagiri,0,0,0,,İdam mahkumlarından, Çarpık Keyun.
+Dialogue: 20,0:05:23.02,0:05:27.55,Default,Sagiri,0,0,0,,İdmanları sırasında silahlarının \Ncazibesine kapılmış bir savaşçı.
+Dialogue: 20,0:05:29.01,0:05:32.60,Default,Sagiri,0,0,0,,Diğer savaşçılardan\N yüze yakın silah çaldığı söyleniyor.
+Dialogue: 20,0:05:33.31,0:05:35.36,Default,Gabimaru,0,0,0,,Hayır, onu demiyorum.
+Dialogue: 20,0:05:35.81,0:05:37.27,Default,Gabimaru,0,0,0,,Elleri bağlı değil.
+Dialogue: 20,0:05:37.39,0:05:38.15,Default,Sagiri,0,0,0,,Ne?
+Dialogue: 20,0:05:40.00,0:05:44.15,Default,Sagiri,0,0,0,,Şimdi bunun sırası deği-\NAslında... Tam sırası ama...
+Dialogue: 20,0:05:44.32,0:05:46.65,Default,Sagiri,0,0,0,,Elleri neden bağlı değil, Usta Kişo?
+Dialogue: 20,0:05:46.83,0:05:49.37,Default,Kişo,0,0,0,,Her zamanki gibi katısın, Sagiri.
+Dialogue: 20,0:05:49.37,0:05:52.08,Default,Kişo,0,0,0,,Gemiye geri dönerken bağlayıveririz işte.
+Dialogue: 20,0:05:52.08,0:05:55.29,Default,Kişo,0,0,0,,Böyle anlamsız bir şey için bu \Npisliklerle tartışmak aptallık olur.
+Dialogue: 20,0:05:56.27,0:05:57.41,Default,Gabimaru,0,0,0,,Gördün mü? Bak!
+Dialogue: 20,0:05:57.57,0:06:01.29,Default,Kişo,0,0,0,,Kurallara böylesine sıkıca \Nbağlı olduğun için hala yükselemedin.
+Dialogue: 20,0:06:02.45,0:06:05.38,Default,Kişo,0,0,0,,Asaemonlar'ın hepsinin seviyesi var.
+Dialogue: 20,0:06:05.50,0:06:06.84,Default,Kişo,0,0,0,,Sagiri'ninki hala en-
+Dialogue: 20,0:06:06.84,0:06:09.26,Default,Sagiri,0,0,0,,Şu an konumuz bu değil.
+Dialogue: 20,0:06:09.26,0:06:10.47,Default,Keyun,0,0,0,,Hey!
+Dialogue: 20,0:06:10.92,0:06:14.18,Default,Keyun,0,0,0,,Beni görmezden mi geliyorsun, Ruhsuz Gabimaru?
+Dialogue: 20,0:06:14.61,0:06:18.44,Default,Keyun,0,0,0,,Söylentilerdeki kadar cesur ve gözü pekmişsin.
+Dialogue: 20,0:06:18.59,0:06:20.23,Default,Keyun,0,0,0,,Tam dişime göre.
+Dialogue: 20,0:06:21.09,0:06:24.23,Default,Keyun,0,0,0,,Silahlarımın hepsini gönlümce test edebilirim.
+Dialogue: 20,0:06:24.74,0:06:28.24,Default,Keyun,0,0,0,,Silahların en kadim dostu kandır.
+Dialogue: 20,0:06:30.15,0:06:34.37,Default,Keyun,0,0,0,,Güzelliklerini ilk elden deneyim edeceksin.
+Dialogue: 20,0:06:34.60,0:06:36.29,Default,Gabimaru,0,0,0,,Sapık mısın sen?
+Dialogue: 20,0:06:36.29,0:06:40.87,Default,Gabimaru,0,0,0,,Ayrıca burada savaşırsak,\N diğerlerinin gerisine düşeriz.
+Dialogue: 20,0:06:41.22,0:06:42.83,Default,Keyun,0,0,0,,Amacım da o ya.
+Dialogue: 20,0:06:42.83,0:06:45.50,Default,Keyun,0,0,0,,Zaten hiç ipucumuz olmadan geldik buraya.
+Dialogue: 20,0:06:45.82,0:06:49.55,Default,Keyun,0,0,0,,O yüzden, ilk olarak diğer mahkumları öldürüp...
+Dialogue: 20,0:06:49.69,0:06:53.14,Default,Keyun,0,0,0,,...kalan vakitte rahat rahat\Nİksiri aramak en mantıklısı.
+Dialogue: 20,0:06:53.52,0:06:56.68,Default,Keyun,0,0,0,,İlk hedefim de sensin, Ruhsuz.
+Dialogue: 20,0:06:56.79,0:06:58.39,Default,Gabimaru,0,0,0,,Ne?
+Dialogue: 20,0:06:58.52,0:07:00.69,Default,Kişo,0,0,0,,Biz yalnızca gözetmeniz.
+Dialogue: 20,0:07:00.85,0:07:02.79,Default,Kişo,0,0,0,,Birbirinizi öldürecekseniz, buyurun.
+Dialogue: 20,0:07:02.87,0:07:03.94,Default,Sagiri,0,0,0,,Katılıyorum.
+Dialogue: 20,0:07:05.41,0:07:07.78,Default,Gabimaru,0,0,0,,Ama çok zahmetli ve anlamsız.
+Dialogue: 20,0:07:08.00,0:07:10.86,Default,Gabimaru,0,0,0,,Ayrıca eşim üzülüyor diye artık istemiyorum.
+Dialogue: 20,0:07:11.80,0:07:14.03,Default,Gabimaru,0,0,0,,Ama yapacak bir şey yok, öleceksin.
+Dialogue: 20,0:07:14.18,0:07:15.29,Default,Keyun,0,0,0,,Dene de görelim!
+Dialogue: 20,0:07:18.69,0:07:19.56,Default,Sagiri,0,0,0,,Eller.
+Dialogue: 20,0:07:19.89,0:07:20.54,Default,Gabimaru,0,0,0,,Şaka, di' mi?
+Dialogue: 20,0:07:34.01,0:07:35.55,Default,Gabimaru,0,0,0,,Güzel, bağladım.
+Dialogue: 20,0:07:36.83,0:07:38.22,Default,Keyun,0,0,0,,Tam da istediğim gibi!
+Dialogue: 20,0:07:38.34,0:07:41.06,Default,Keyun,0,0,0,,Silahlarımın hepsini üstünde deneyeceğim.
+Dialogue: 20,0:07:41.31,0:07:43.35,Default,Gabimaru,0,0,0,,O kadar vaktim yok.
+Dialogue: 20,0:07:48.74,0:07:53.20,Default,Sagiri,0,0,0,,{\i1}Sopayı kaldıraç olarak kullanıp \Nkoca bir adamı havaya uçurdu!
+Dialogue: 20,0:08:07.79,0:08:10.34,Default,Gabimaru,0,0,0,,Ellerim bağlıyken harbi zor oluyor.
+Dialogue: 20,0:08:12.00,0:08:13.09,Default,Sagiri,0,0,0,,{\i1}T-Tek darbede mi?
+Dialogue: 20,0:08:18.48,0:08:20.48,Default,Sagiri,0,0,0,,{\i1}Doğrudan derisine dikmiş.
+Dialogue: 20,0:08:21.12,0:08:23.39,Default,Sagiri,0,0,0,,{\i1}Gerçekten inanılmaz.
+Dialogue: 20,0:08:24.68,0:08:28.49,Default,Keyun,0,0,0,,Daha yeni başlıyoruz, Ruhsuz.
+Dialogue: 20,0:08:40.82,0:08:42.50,Default,Gabimaru,0,0,0,,Sadece vakit kaybettirdi.
+Dialogue: 20,0:08:43.71,0:08:45.75,Default,Gabimaru,0,0,0,,Şu İksiri bulalım hadi.
+Dialogue: 20,0:08:48.00,0:08:49.74,Default,Gabimaru,0,0,0,,Ellerimi de çözmedim bu arada.
+Dialogue: 20,0:08:50.01,0:08:52.38,Default,Sagiri,0,0,0,,Ne? Ah, evet.
+Dialogue: 20,0:09:02.35,0:09:04.52,Default,Kişo,0,0,0,,Neyse, ben dönüyorum.
+Dialogue: 20,0:09:05.30,0:09:06.90,Default,Gabimaru,0,0,0,,Savaşmayacak mıyız?
+Dialogue: 20,0:09:07.11,0:09:11.01,Default,Kişo,0,0,0,,Dedim ya, biz ne düşmanız ne müttefik.
+Dialogue: 20,0:09:11.01,0:09:15.01,Default,Kişo,0,0,0,,Sorumlu olduğumuz mahkum \Nölürse, kellesini alıp döneriz.
+Dialogue: 20,0:09:15.28,0:09:17.59,Default,Kişo,0,0,0,,Neyse, dönüp bi' duş falan alayım.
+Dialogue: 20,0:09:17.77,0:09:19.03,Default,Sagiri,0,0,0,,Usta Kişo.
+Dialogue: 20,0:09:19.29,0:09:21.59,Default,Sagiri,0,0,0,,Bu adada altmış kişi kayboldu.
+Dialogue: 20,0:09:22.00,0:09:23.41,Default,Sagiri,0,0,0,,Dönüşte dikkatli olun.
+Dialogue: 20,0:09:24.88,0:09:27.36,Default,Kişo,0,0,0,,Başkaları için endişelenecek vakit mi şimdi?
+Dialogue: 20,0:09:27.65,0:09:30.30,Default,Kişo,0,0,0,,Erkenden buradan kurtulduğum \Niçin şanslı sayılırım.
+Dialogue: 20,0:09:30.88,0:09:34.72,Default,Kişo,0,0,0,,Sırf elleri bağlı diye kendini güvende\N sanıyorsan, tam bir aptalsın.
+Dialogue: 20,0:09:34.72,0:09:37.55,Default,Kişo,0,0,0,,Yanındaki adam mahkum be.
+Dialogue: 20,0:09:38.12,0:09:42.56,Default,Kişo,0,0,0,,Yola çıktığımız andan itibaren\N dolaplar çevirmeye başladılar.
+Dialogue: 20,0:09:44.43,0:09:47.48,Default,Kişo,0,0,0,,Daha varmadan rakiplerini \Nelemek isteyenler mi dersin...
+Dialogue: 20,0:09:47.87,0:09:50.03,Default,Kişo,0,0,0,,Ya da ortaklık kurmaya çalışanlar...
+Dialogue: 20,0:09:50.03,0:09:52.00,Default,Kişo,0,0,0,,...ve bunu kabul etmiş gibi yapanlar mı?
+Dialogue: 20,0:09:53.80,0:09:56.73,Default,Kişo,0,0,0,,Zaten her biri toplumsal düzene aykırı tipler.
+Dialogue: 20,0:09:58.34,0:10:00.87,Default,Kişo,0,0,0,,Görevlerini veya kuralları umursadıkları yok.
+Dialogue: 20,0:10:06.59,0:10:09.54,Default,Kişo,0,0,0,,Kendi yöntemlerince hayatta\Nkalmaya çalışıyorlar.
+Dialogue: 20,0:10:09.71,0:10:11.50,Default,Kişo,0,0,0,,Ne gerekirse onu yaparak...
+Dialogue: 20,0:10:12.59,0:10:16.55,Default,Sagiri,0,0,0,,Ancak kurallara karşı gelirlerse af\Nhakları ellerinden alınmaz mı?
+Dialogue: 20,0:10:16.75,0:10:18.51,Default,Kişo,0,0,0,,Bu yüzden katısın işte.
+Dialogue: 20,0:10:18.83,0:10:21.35,Default,Kişo,0,0,0,,Samuraylar için Başkumandanın sözü emir olabilir...
+Dialogue: 20,0:10:21.58,0:10:24.06,Default,Kişo,0,0,0,,...ama asıl önemli olan şey önceliklerdir.
+Dialogue: 20,0:10:24.27,0:10:25.74,Default,Kişo,0,0,0,,Şu an öncelik iksir.
+Dialogue: 20,0:10:25.74,0:10:27.77,Default,Kişo,0,0,0,,Diğer her şey ikinci sırada.
+Dialogue: 20,0:10:28.01,0:10:30.65,Default,Kişo,0,0,0,,Kurallara uyup hiçbir şeyi bulamamaktansa...
+Dialogue: 20,0:10:30.85,0:10:34.65,Default,Kişo,0,0,0,,...ne gerekiyorsa yapıp iksiri bulmamız\N Başkumandanı daha çok memnun etmez mi sence?
+Dialogue: 20,0:10:36.00,0:10:41.42,Default,Kişo,0,0,0,,Ayrıca kurallar, herkes uymadıkça \Nhiçbir işe yaramayan aldatmacalardır.
+Dialogue: 20,0:10:41.87,0:10:44.00,Default,Kişo,0,0,0,,Bazıları için hiçbir şey ifade etmezler.
+Dialogue: 20,0:10:44.42,0:10:45.64,Default,Kişo,0,0,0,,Onun gibiler için misal.
+Dialogue: 20,0:10:46.63,0:10:49.50,Default,Kişo,0,0,0,,Hatta şuracıkta kellesini alsam...
+Dialogue: 20,0:10:51.00,0:10:53.01,Default,Gabimaru,0,0,0,,Anlamsız şakalarla boşa vakit harcamayalım.
+Dialogue: 20,0:10:53.33,0:10:55.18,Default,Gabimaru,0,0,0,,Zaten pek vaktimiz yok.
+Dialogue: 20,0:10:55.86,0:10:58.33,Default,Gabimaru,0,0,0,,Tek isteğim en kısa sürede eşime dönebilmek.
+Dialogue: 20,0:10:58.90,0:11:00.43,Default,Gabimaru,0,0,0,,Başka hiçbir şey umurumda değil.
+Dialogue: 20,0:11:03.79,0:11:05.00,Default,Kişo,0,0,0,,Acele edelim.
+Dialogue: 20,0:11:07.09,0:11:09.60,Default,Kişo,0,0,0,,Haklısın. Acele et tabii.
+Dialogue: 20,0:11:11.01,0:11:12.44,Default,Kişo,0,0,0,,Bi' öngörüde bulunayım.
+Dialogue: 20,0:11:13.62,0:11:16.27,Default,Kişo,0,0,0,,Kısa süre sonra durumlar değişecek.
+Dialogue: 20,0:11:25.41,0:11:27.45,Default,Eizen,0,0,0,,Acıktın mı, Rokurota?
+Dialogue: 20,0:11:48.86,0:11:52.44,Default,Kişo,0,0,0,,Çok yakında kimsenin\N tahmin edemeyeceği şeyler olacak.
+Dialogue: 20,0:11:57.31,0:11:59.61,Default,Kişo,0,0,0,,Mahkumların yarısından fazlası ölecek.
+Dialogue: 20,0:12:00.00,0:12:02.24,Default,Kişo,0,0,0,,Birkaç dakika sonra diğer yarısı...
+Dialogue: 20,0:12:05.89,0:12:09.00,Default,Kişo,0,0,0,,Daha bir gün dolmadan geriye tek kişi kalacak.
+Dialogue: 20,0:12:11.00,0:12:13.01,Default,Kişo,0,0,0,,Sizi umursamıyorlar.
+Dialogue: 20,0:12:13.40,0:12:15.71,Default,Kişo,0,0,0,,Sayınız azalınca sıradakileri gönderecekler.
+Dialogue: 20,0:12:17.01,0:12:17.92,Default,Gabimaru,0,0,0,,Sıradakiler mi?
+Dialogue: 20,0:12:18.12,0:12:20.72,Default,Kişo,0,0,0,,Hattori'nin habercisi çoktan İşu'ya varmış.
+Dialogue: 20,0:12:21.23,0:12:24.76,Default,Kişo,0,0,0,,Başkumandanlık kesin Saklı Taşlılarla \Nyeni bir anlaşma yapmıştır bile.
+Dialogue: 20,0:12:25.91,0:12:28.68,Default,Kişo,0,0,0,,Asaemonlar da çok özel sayılmaz bu arada, Sagiri.
+Dialogue: 20,0:12:28.88,0:12:32.27,Default,Kişo,0,0,0,,Klanın bir sonraki liderinin bu görevle \Nseçileceğine dair söylentiler var.
+Dialogue: 20,0:12:33.34,0:12:37.98,Default,Kişo,0,0,0,,Doğru mudur, değil midir bilmem ama\Nbunu duyup hırslananlar olacaktır.
+Dialogue: 20,0:12:38.22,0:12:39.86,Default,Kişo,0,0,0,,Benim ilgim yok gerçi.
+Dialogue: 20,0:12:40.27,0:12:41.00,Default,Kişo,0,0,0,,Görüşürüz.
+Dialogue: 20,0:12:41.44,0:12:43.36,Default,Kişo,0,0,0,,Mahkumlara karşı gardını indirme.
+Dialogue: 20,0:12:43.71,0:12:45.24,Default,Kişo,0,0,0,,Ben uyarımı yaptım.
+Dialogue: 20,0:12:48.22,0:12:49.20,Default,Sagiri,0,0,0,,{\i1}Haklı.
+Dialogue: 20,0:12:50.13,0:12:52.50,Default,Sagiri,0,0,0,,{\i1}Kaç gündür birlikte seyahat ediyoruz ama...
+Dialogue: 20,0:12:52.75,0:12:55.50,Default,Sagiri,0,0,0,,{\i1}...bu adamın gerçek niyetini hala kestiremiyorum.
+Dialogue: 20,0:12:56.02,0:12:57.00,Default,Sagiri,0,0,0,,{\i1}Ama...
+Dialogue: 20,0:12:57.73,0:12:59.46,Default,Sagiri,0,0,0,,Ee, hangi yönden?
+Dialogue: 20,0:13:07.86,0:13:08.85,Default,Sagiri,0,0,0,,Ne yapıyorsun sen?!
+Dialogue: 20,0:13:10.00,0:13:13.00,Default,Gabimaru,0,0,0,,Acı çektirmeden öldüreyim bari diyordum.
+Dialogue: 20,0:13:13.62,0:13:14.73,Default,Sagiri,0,0,0,,{\i1}Biliyordum.
+Dialogue: 20,0:13:15.02,0:13:17.29,Default,Sagiri,0,0,0,,{\i1}Bu adamın gerçek niyeti...
+Dialogue: 20,0:13:25.63,0:13:30.37,Default-Alt,Şef,0,0,0,,Çocukları doğunca köyden mi ayrılacakmışlar?
+Dialogue: 20,0:13:30.65,0:13:34.00,Default-Alt,Şef,0,0,0,,Jonin olacaklar bir de, acınası.
+Dialogue: 20,0:13:34.20,0:13:36.92,Default-Alt,Şef,0,0,0,,Bu çocuğu ben büyüteceğim.
+Dialogue: 20,0:13:37.20,0:13:38.00,Default-Alt,Şinobi A,0,0,0,,Emredersiniz.
+Dialogue: 20,0:13:38.30,0:13:40.80,Default-Alt,Şef,0,0,0,,İyi bak, Gabimaru.
+Dialogue: 20,0:13:41.50,0:13:43.42,Default-Alt,Şef,0,0,0,,Zayıflık bu.
+Dialogue: 20,0:13:43.62,0:13:49.50,Default-Alt,Şef,0,0,0,,Aile arasındaki duygusal\Nbağ bile kişiyi zayıflatır.
+Dialogue: 20,0:13:49.50,0:13:52.35,Default-Alt,Şef,0,0,0,,Güçlenmediğin sürece hiçbir şeyi koruyamazsın.
+Dialogue: 20,0:13:53.01,0:13:55.73,Default-Alt,Şef,0,0,0,,Değer verdiğin her şeyden vazgeç.
+Dialogue: 20,0:14:17.70,0:14:20.40,Default,Sagiri,0,0,0,,Beni öldürürsen kuralları çiğnemiş olacaksın.
+Dialogue: 20,0:14:21.30,0:14:24.50,Default,Gabimaru,0,0,0,,Az önceki adamın da dediği gibi.\NÖnemli olan öncelikler.
+Dialogue: 20,0:14:25.29,0:14:30.00,Default,Gabimaru,0,0,0,,Saklı Taş buraya gelirse, tozu dumana katarlar!
+Dialogue: 20,0:14:30.85,0:14:33.76,Default,Gabimaru,0,0,0,,Onlardan önce İksiri bulmam gerek.
+Dialogue: 20,0:14:35.41,0:14:38.02,Default,Gabimaru,0,0,0,,Seninle derdim yok ama bana engel oluyorsun.
+Dialogue: 20,0:14:38.32,0:14:40.41,Default,Sagiri,0,0,0,,Bu yüzden mi öldürecektin?
+Dialogue: 20,0:14:40.41,0:14:42.56,Default,Gabimaru,0,0,0,,Başka yolu yoksa elimden bir şey gelmez.
+Dialogue: 20,0:14:42.56,0:14:44.40,Default,Gabimaru,0,0,0,,Üzgünüm ama ölmen gerek.
+Dialogue: 20,0:14:47.30,0:14:49.10,Default,Sagiri,0,0,0,,{\i1}Bu adam sahiden de tehlikeli.
+Dialogue: 20,0:14:49.70,0:14:52.12,Default,Sagiri,0,0,0,,{\i1}Düşünce biçimi ve etik anlayışı hiç normal değil.
+Dialogue: 20,0:14:52.87,0:14:54.40,Default,Sagiri,0,0,0,,{\i1}En kısa zamanda idam edilmeli.
+Dialogue: 20,0:14:55.80,0:14:58.83,Default,Sagiri,0,0,0,,{\i1}Ancak nedense tereddüt ediyorum.
+Dialogue: 20,0:15:00.19,0:15:01.30,Default,Sagiri,0,0,0,,{\i1}Nedense...
+Dialogue: 20,0:15:02.10,0:15:03.38,Default,Sagiri,0,0,0,,{\i1}Her nedense...
+Dialogue: 20,0:15:07.31,0:15:08.26,Default,Gabimaru,0,0,0,,{\i1}Yine.
+Dialogue: 20,0:15:08.71,0:15:10.68,Default,Gabimaru,0,0,0,,{\i1}Az önce işini bitirebilmeliydim.
+Dialogue: 20,0:15:15.50,0:15:17.40,Default,Gabimaru,0,0,0,,{\i1}Ne diye tereddüt ediyorum?
+Dialogue: 20,0:15:18.20,0:15:19.10,Default,Gabimaru,0,0,0,,{\i1}Neden?
+Dialogue: 20,0:15:20.41,0:15:24.48,Default-Alt,Yui,0,0,0,,Zorunda kalmadıkça birini \Nöldürmek istememek gayet normal bence.
+Dialogue: 20,0:15:26.51,0:15:29.24,Default-Alt,Gabimaru,0,0,0,,Saçmalık. Ruhsuzum ben.
+Dialogue: 20,0:15:29.69,0:15:31.57,Default-Alt,Gabimaru,0,0,0,,Öyle hisler kalmadı bende.
+Dialogue: 20,0:15:33.00,0:15:36.60,Default-Alt,Yui,0,0,0,,Basit bir öpücükle kızaran\N adam mı diyor bunları?
+Dialogue: 20,0:15:39.01,0:15:42.00,Default-Alt,Yui,0,0,0,,Duyguların varsa onları dinlemelisin.
+Dialogue: 20,0:15:42.41,0:15:45.91,Default-Alt,Yui,0,0,0,,Sen artık eskiden olduğunu \Nsandığın kişi değilsin.
+Dialogue: 20,0:15:48.71,0:15:52.01,Default-Alt,Yui,0,0,0,,Hakiki cesaret, duygularına \Nkarşı dürüst olmaktır.
+Dialogue: 20,0:15:52.21,0:15:55.47,Default-Alt,Yui,0,0,0,,Bunu başarabilirsen peşinden gelirim.
+Dialogue: 20,0:15:55.70,0:15:58.35,Default-Alt,Yui,0,0,0,,Köyden ayrılmak zorunda kalsak bile.
+Dialogue: 20,0:15:59.40,0:16:03.00,Default,Gabimaru,0,0,0,,{\i1}Eşimle tanıştıktan sonra duygu nedir öğrendim.
+Dialogue: 20,0:16:06.01,0:16:08.53,Default,Gabimaru,0,0,0,,{\i1}Ama nefreti de öğrendim.
+Dialogue: 20,0:16:09.30,0:16:11.00,Default-Alt,Şinobi B,0,0,0,,O herif hedef değildi.
+Dialogue: 20,0:16:12.30,0:16:15.20,Default-Alt,Gabimaru,0,0,0,,Karımı öldürüp intikam \Nalacağını falan söyledi de.
+Dialogue: 20,0:16:18.91,0:16:21.45,Default-Alt,Samuray,0,0,0,,B-Bekle, yalvarırım bağışla!
+Dialogue: 20,0:16:21.45,0:16:23.33,Default-Alt,Samuray,0,0,0,,Karım ve çocuğum var!
+Dialogue: 20,0:16:37.20,0:16:38.56,Default,Gabimaru,0,0,0,,{\i1}Zayıflığı da öğrendim.
+Dialogue: 20,0:16:50.00,0:16:52.65,Default,Gabimaru,0,0,0,,{\i1}Yine mi? Zayıflığım bu işte.
+Dialogue: 20,0:16:52.65,0:16:57.03,Default,Gabimaru,0,0,0,,{\i1}Bu gidişle bırak affedilmeyi,\N hayatta bile kalamayacağım.
+Dialogue: 20,0:17:00.00,0:17:01.79,Default,Sagiri,0,0,0,,{\i1}Karşımda tehlikeli bir idam mahkumu var.
+Dialogue: 20,0:17:01.79,0:17:05.46,Default,Sagiri,0,0,0,,{\i1}Üstelik beni öldürmeye çalışıyor.
+Dialogue: 20,0:17:09.38,0:17:12.67,Default,Gabimaru,0,0,0,,{\i1}Şu duygular harbiden tam bir baş belası.
+Dialogue: 20,0:17:13.31,0:17:16.59,Default-Alt,Şef,0,0,0,,Güçlenmediğin sürece hiçbir şeyi koruyamazsın.
+Dialogue: 20,0:17:33.03,0:17:35.03,Default,Gabimaru,0,0,0,,Direnmenin bir anlamı yok.
+Dialogue: 20,0:17:35.40,0:17:37.36,Default,Gabimaru,0,0,0,,Eminim durumun farkındasındır.
+Dialogue: 20,0:17:38.11,0:17:40.12,Default,Gabimaru,0,0,0,,Onunla beni yenemezsin.
+Dialogue: 20,0:17:41.81,0:17:46.60,Default,Gabimaru,0,0,0,,Diğer mahkumlar bir kenara,\Nseni öldürmek biraz üzücü olur.
+Dialogue: 20,0:17:47.10,0:17:49.05,Default,Gabimaru,0,0,0,,Acı çekmeden ölüp gitsen?
+Dialogue: 20,0:17:49.29,0:17:50.84,Default,Sagiri,0,0,0,,Üzülür müsün?
+Dialogue: 20,0:17:51.05,0:17:53.19,Default,Sagiri,0,0,0,,Hala o tarz duyguların var demek!
+Dialogue: 20,0:17:55.49,0:17:56.55,Default,Gabimaru,0,0,0,,Haklısın.
+Dialogue: 20,0:18:06.21,0:18:07.51,Default,Gabimaru,0,0,0,,Duygularım yok.
+Dialogue: 20,0:18:08.58,0:18:10.40,Default,Gabimaru,0,0,0,,Ben Ruhsuz Gabimaru'yum.
+Dialogue: 20,0:18:11.70,0:18:13.57,Default,Gabimaru,0,0,0,,Hayatım boyunca insan öldürdüm.
+Dialogue: 20,0:18:14.61,0:18:18.66,Default,Gabimaru,0,0,0,,Birini öldürürken bir şey hissetmem.
+Dialogue: 20,0:18:19.08,0:18:20.70,Default,Gabimaru,0,0,0,,Çünkü böyle yetiştirildim.
+Dialogue: 20,0:18:22.51,0:18:24.70,Default,Gabimaru,0,0,0,,Güçlenmediğin sürece hiçbir şeyi koruyamazsın.
+Dialogue: 20,0:18:26.40,0:18:28.99,Default,Sagiri,0,0,0,,{\i1}Düşündüğüm gibi... Bu adam tehlikeli.
+Dialogue: 20,0:18:29.85,0:18:31.17,Default,Gabimaru,0,0,0,,Duygulara ihtiyacım yok.
+Dialogue: 20,0:18:31.91,0:18:32.87,Default,Gabimaru,0,0,0,,Geber şimdi.
+Dialogue: 20,0:18:33.91,0:18:35.30,Default,Sagiri,0,0,0,,{\i1}Ama...
+Dialogue: 20,0:18:51.01,0:18:51.81,Default,Gabimaru,0,0,0,,Neden?
+Dialogue: 20,0:18:52.89,0:18:54.44,Default,Gabimaru,0,0,0,,Niçin tereddüt ediyorum?
+Dialogue: 20,0:18:55.67,0:18:57.74,Default,Gabimaru,0,0,0,,Hiçbir şey hissetmemem gerek.
+Dialogue: 20,0:18:59.20,0:19:00.61,Default,Sagiri,0,0,0,,{\i1}Tabii ya.
+Dialogue: 20,0:19:01.54,0:19:02.70,Default,Sagiri,0,0,0,,{\i1}O gün de...
+Dialogue: 20,0:19:03.12,0:19:04.33,Default,Sagiri,0,0,0,,{\i1}...o gün de...
+Dialogue: 20,0:19:04.93,0:19:06.63,Default,Sagiri,0,0,0,,{\i1}Her seferinde...
+Dialogue: 20,0:19:07.20,0:19:08.90,Default,Sagiri,0,0,0,,{\i1}...tıpkı şimdiki gibi...
+Dialogue: 20,0:19:09.91,0:19:12.56,Default,Sagiri,0,0,0,,{\i1\fad(0,150)}...melül bakışları vardı...
+Dialogue: 20,0:19:13.53,0:19:16.38,Default,Sagiri,0,0,0,,{\i1}Doğup büyüdüğü yer yüzünden bu hale geldi.
+Dialogue: 20,0:19:16.57,0:19:18.88,Default,Sagiri,0,0,0,,{\i1}Aslında duygusuz veya ruhsuz biri değil.
+Dialogue: 20,0:19:19.59,0:19:21.89,Default,Sagiri,0,0,0,,{\i1}Kanlı canlı bir insan o da.
+Dialogue: 20,0:19:22.69,0:19:28.60,Default,Sagiri,0,0,0,,{\i1}Onu gözlemlemek, kendi \Nduygularımla yüzleşmemi sağladı.
+Dialogue: 20,0:19:30.01,0:19:34.00,Default,Gabimaru,0,0,0,,Bu kadar mı... Zayıfladım ben?
+Dialogue: 20,0:19:34.62,0:19:37.52,Default,Gabimaru,0,0,0,,Bu gidişle... Hayatta kalamam.
+Dialogue: 20,0:19:38.43,0:19:42.20,Default,Gabimaru,0,0,0,,Bu kadar zayıfladıysam... Eşimi tekrar göremem.
+Dialogue: 20,0:19:43.80,0:19:45.49,Default,Sagiri,0,0,0,,Zayıflık değil bu.
+Dialogue: 20,0:19:46.65,0:19:48.08,Default,Sagiri,0,0,0,,Gerçek gücün kaynağı.
+Dialogue: 20,0:19:50.00,0:19:54.38,Default,Sagiri,0,0,0,,Hiçbir şey hissetmiyorum demekle \Nduygularından kaçmak aynı şey.
+Dialogue: 20,0:19:54.68,0:19:58.43,Default,Sagiri,0,0,0,,Gerçek kuvvetin, duygularla \Nyüzleşmek olduğunu düşünüyorum.
+Dialogue: 20,0:19:59.60,0:20:02.61,Default-Alt,Yui,0,0,0,,Hakiki cesaret, duygularına \Nkarşı dürüst olmaktır.
+Dialogue: 20,0:20:03.81,0:20:06.44,Default,Sagiri,0,0,0,,En azından bunu söylememe izin ver.
+Dialogue: 20,0:20:07.19,0:20:10.85,Default,Sagiri,0,0,0,,{\i1}Çünkü kendi duygularımla \Nsenin sayende yüzleşebildim.
+Dialogue: 20,0:20:12.56,0:20:14.59,Default,Gabimaru,0,0,0,,Böyle bir durumda söylenir mi bunlar?
+Dialogue: 20,0:20:15.20,0:20:17.20,Default,Sagiri,0,0,0,,Ellerin yerinde duruyor ama.
+Dialogue: 20,0:20:18.41,0:20:20.82,Default,Sagiri,0,0,0,,Normalde direkt idam edilmen gerekirdi ama...
+Dialogue: 20,0:20:21.11,0:20:23.20,Default,Sagiri,0,0,0,,...bu seferlik görmezden geleceğim.
+Dialogue: 20,0:20:23.60,0:20:25.91,Default,Sagiri,0,0,0,,Suçlarından tövbe edip...
+Dialogue: 20,0:20:25.91,0:20:30.20,Default,Sagiri,0,0,0,,...duygularınla yüzleşecek ve \Nyeni bir hayat için çabalayacaksan...
+Dialogue: 20,0:20:31.01,0:20:33.83,Default,Sagiri,0,0,0,,...buna şahit olmak istiyorum.
+Dialogue: 20,0:20:36.60,0:20:43.22,Default,Sagiri,0,0,0,,Lütfen senin gibi birinin bile yeni bir \Nhayata başlayıp başlayamayacağını göster bana.
+Dialogue: 20,0:20:45.23,0:20:51.23,Default,Sagiri,0,0,0,,{\i1}Daha fazla güçlenebilmek adına, \Nbenim de kendi duygularımla yüzleşmem gerek.
+Dialogue: 20,0:20:52.23,0:20:55.00,Default,Sagiri,0,0,0,,Durumumuz hala değişmedi.
+Dialogue: 20,0:20:55.24,0:20:56.56,Default,Sagiri,0,0,0,,Ama artık...
+Dialogue: 20,0:20:57.40,0:20:59.11,Default-Alt,Yui,0,0,0,,Sen artık...
+Dialogue: 20,0:21:00.40,0:21:02.99,Default,Sagiri,0,0,0,,...eskiden olduğunu sandığın kişi değilsin.
+Dialogue: 20,0:21:14.72,0:21:16.79,Default,Gantetsusai,0,0,0,,Bu ne lan böyle?
+Dialogue: 20,0:21:22.41,0:21:25.97,Default,Fuçi,0,0,0,,İnsan yapımı gibi duruyorlar.
+Dialogue: 20,0:21:44.85,0:21:46.58,Default,Fuçi,0,0,0,,Ne yapıyorsun sen?
+Dialogue: 20,0:21:48.86,0:21:50.24,Default,Fuçi,0,0,0,,N-Neden?
+Dialogue: 20,0:21:50.24,0:21:51.28,Default,Gantetsusai,0,0,0,,Bak.
+Dialogue: 20,0:21:51.71,0:21:53.64,Default,Gantetsusai,0,0,0,,İnsan yüzüne sahip bir kelebek.
+Dialogue: 20,0:21:54.11,0:21:56.46,Default,Gantetsusai,0,0,0,,Bu dünyadan değil bu.
+Dialogue: 20,0:21:59.90,0:22:00.79,Default,Fuçi,0,0,0,,İnanılmaz.
+Dialogue: 20,0:22:01.50,0:22:03.38,Default,Gantetsusai,0,0,0,,Dikkatin dağılmasın.
+Dialogue: 20,0:22:08.00,0:22:10.39,Default,Gantetsusai,0,0,0,,Bu adanın olayı ne lan?
+Dialogue: 20,0:22:10.39,0:22:13.35,Default,Gantetsusai,0,0,0,,Yoksa öbür tarafa falan mı gittik?
+Dialogue: 20,0:22:13.62,0:22:17.81,Default,Fuçi,0,0,0,,A-Aslında çok da anormal yaratıklar değil-
+Dialogue: 20,0:22:18.60,0:22:20.81,Default,Gantetsusai,0,0,0,,Sonunda ilginçleşmeye başladı.
+Dialogue: 20,0:22:35.60,0:22:36.58,Default,Gantetsusai,0,0,0,,İlginç.
+Dialogue: 20,0:22:46.60,0:22:49.72,Default,Sagiri,0,0,0,,Bu yaratık da n-ne böyle?
+Dialogue: 20,0:22:52.55,0:22:53.76,Default,Gabimaru,0,0,0,,Geride dur.
+Comment: 0,0:01:29.03,0:02:58.45,Default,,0,0,0,,{op}
+Dialogue: 0,0:01:30.45,0:01:32.28,OP,,0,0,0,,{\fad(120,100)\blur1}Özgür yanını
+Dialogue: 0,0:01:32.57,0:01:34.45,OP,,0,0,0,,{\fad(120,100)\blur1}göster bana yaşamanın
+Dialogue: 0,0:01:34.95,0:01:36.78,OP,,0,0,0,,{\fad(120,100)\blur1}Güvencesizse
+Dialogue: 0,0:01:37.58,0:01:39.08,OP,,0,0,0,,{\fad(120,100)\blur1}buruştur at çöpe
+Dialogue: 0,0:01:39.62,0:01:41.33,OP,,0,0,0,,{\fad(120,100)\blur1}Söylentiler mi?
+Dialogue: 0,0:01:41.62,0:01:43.37,OP,,0,0,0,,{\fad(120,100)\blur1}Hiç takma kafana!
+Dialogue: 0,0:01:44.21,0:01:46.09,OP,,0,0,0,,{\fad(120,100)\blur1}Hedefe ulaş da
+Dialogue: 0,0:01:46.71,0:01:48.34,OP,,0,0,0,,{\fad(120,100)\blur1}bakalım olanlara
+Dialogue: 0,0:01:48.34,0:01:50.34,OP,,0,0,0,,{\fad(120,100)\blur1}Manastırda boş beş neden
+Dialogue: 0,0:01:50.59,0:01:52.63,OP,,0,0,0,,{\fad(120,100)\blur1}beşi birden bize beden
+Dialogue: 0,0:01:52.84,0:01:57.26,OP,,0,0,0,,{\fad(120,100)\blur1}Adımı anlar ancak idrak edebilen
+Dialogue: 0,0:01:57.43,0:01:59.56,OP,,0,0,0,,{\fad(120,100)\blur1}Sen taktikle uğraşırken
+Dialogue: 0,0:01:59.81,0:02:01.89,OP,,0,0,0,,{\fad(120,100)\blur1}Yetinirim bir zarla ben
+Dialogue: 0,0:02:02.06,0:02:08.65,OP,,0,0,0,,{\fad(120,100)\blur1}Zorla istersen, başka türlü zor fark etmen
+Dialogue: 0,0:02:06.06,0:02:08.65,OP2,,0,0,0,,{\fad(120,100)\blur1}Sıkıştık kaldık, dönüp duruyoruz burada
+Dialogue: 0,0:02:08.65,0:02:10.69,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&&H2599E0&&}Etrafımız sarılı fare ve sıçanlarla
+Dialogue: 0,0:02:10.82,0:02:12.65,OP2,,0,0,0,,{\fad(120,100)\blur1}Wake up bankers, çıkın parayı!
+Dialogue: 0,0:02:12.65,0:02:15.45,OP2,,0,0,0,,{\fad(120,100)\blur1}Sözlerim vurur yüze yumruk gibi
+Dialogue: 0,0:02:15.45,0:02:17.41,OP2,,0,0,0,,{\fad(120,100)\blur1}Uyanın rüyanızdan
+Dialogue: 0,0:02:17.62,0:02:20.04,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H2C295E&}Dik durun, my fav people!
+Dialogue: 0,0:02:20.25,0:02:22.29,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H2457C2&\3c&HFFFFFF&\4c&HFFFFFF&)}Affet beni,
+Dialogue: 0,0:02:22.29,0:02:24.62,OP,,0,0,0,,{\fad(120,100)\blur1}arındır günahlarımdan!
+Dialogue: 0,0:02:24.71,0:02:26.92,OP,,0,0,0,,{\fad(120,100)\blur1}ve yargıla
+Dialogue: 0,0:02:25.83,0:02:27.21,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H86B8EA&\t(1000,1200,\3c&H00000&)}Yargıla beni
+Dialogue: 0,0:02:26.92,0:02:29.21,OP,,0,0,0,,{\fad(120,100)\blur1}Nasıl olması gerekiyorsa
+Dialogue: 0,0:02:29.21,0:02:31.46,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H79634A&\3c&HFFFFFF&\4c&HFFFFFF&)}Azarla beni
+Dialogue: 0,0:02:31.46,0:02:33.80,OP,,0,0,0,,{\fad(120,100)\blur1}Şayet affedildiysem,
+Dialogue: 0,0:02:33.80,0:02:39.85,OP,,0,0,0,,{\fad(120,100)\blur1}tadını çıkarmak istiyorum hayatın yanımda sevdiğim adamla!
+Dialogue: 0,0:02:40.06,0:02:42.14,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H275F94&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:02:42.14,0:02:43.56,OP,,0,0,0,,{\fad(0,0)\blur1}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:02:43.56,0:02:44.35,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H4779DC&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:02:44.64,0:02:45.06,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H1F69BC&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:45.06,0:02:46.56,OP,,0,0,0,,{\fad(0,0)\blur1}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:46.56,0:02:47.81,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H838DBA&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:47.81,0:02:48.90,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H92B8BB&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:49.19,0:02:50.32,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:50.32,0:02:51.44,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H7099AA&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:51.44,0:02:52.44,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:52.44,0:02:53.36,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H573C6C&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:53.74,0:02:53.95,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H573C6C&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:02:53.95,0:02:56.28,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H342560&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:02:56.28,0:02:58.45,OP,,0,0,0,,{\fad(0,380)\blur1\3c&H151742&}Doya doya yaşa, günler sayılı olsa da!
+Comment: 0,0:22:55.81,0:24:24.99,YD,,0,0,0,,{ed}
+Dialogue: 0,0:22:55.56,0:23:00.15,ed 1,,0,0,0,,{\fad(250,350)}Saklamayı denedim
+Dialogue: 0,0:23:00.74,0:23:04.07,ed 1,,0,0,0,,{\fad(250,350)}İmkansız sanmıştım
+Dialogue: 0,0:23:04.07,0:23:08.74,ed 1,,0,0,0,,{\fad(250,350)}Utancımı bahane etmiştim
+Dialogue: 0,0:23:08.74,0:23:14.04,ed 1,,0,0,0,,{\fad(150,350)}Ama sen bana akışına bırak dedin ve
+Dialogue: 0,0:23:14.71,0:23:21.67,ed 1,,0,0,0,,{\fad(250,350)}Kırgın kalbimi iyileştirdin, eski haline getirdin
+Dialogue: 0,0:23:21.67,0:23:23.76,ed 1,,0,0,0,,{\fad(250,350)}Kırdın tabuları
+Dialogue: 0,0:23:23.93,0:23:28.81,ed 2,,0,0,0,,{\fad(250,350)}Bu çıtkırıldım kalp ile
+Dialogue: 0,0:23:28.89,0:23:35.98,ed 2,,0,0,0,,{\fad(250,350)}Böyle duygulara dayanması zor
+Dialogue: 0,0:23:39.52,0:23:41.69,ed 2,,0,0,0,,{\fad(250,350)}Keşke artık
+Dialogue: 0,0:23:41.86,0:23:45.41,ed 2,,0,0,0,,{\fad(250,350)}Yarınların sonu gelse
+Dialogue: 0,0:23:45.41,0:23:49.08,ed 2,,0,0,0,,{\fad(250,350)}Rüyalarda kaybolsak keşke
+Dialogue: 0,0:23:49.08,0:23:55.96,ed 1,,0,0,0,,{\fad(250,350)}Bugün bir başkası olmasa aklında
+Dialogue: 0,0:23:55.96,0:23:59.63,ed 1,,0,0,0,,{\fad(250,350)}Yüreğimde var bir dilek
+Dialogue: 0,0:23:59.63,0:24:02.92,ed 1,,0,0,0,,{\fad(250,350)}Keşke gerçek olsa dediğim
+Dialogue: 0,0:24:03.05,0:24:09.97,ed 1,,0,0,0,,{\fad(150,350)}Bir gün sesi duyulsa, ulaşsa sana keşke
+Dialogue: 0,0:24:09.97,0:24:13.56,ed 1,,0,0,0,,{\fad(250,350)}Kaç kez incinsen de
+Dialogue: 0,0:24:13.73,0:24:17.10,ed 1,,0,0,0,,{\fad(250,350)}Korumaya çalıştığın aşk
+Dialogue: 0,0:24:17.10,0:24:24.94,ed 2,,0,0,0,,{\fad(250,350)}Bir gün kollarını dolayacak sana bile
+Comment: 0,0:03:11.83,0:03:17.76,YD,,0,0,0,,{yd}
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(759,891,761.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(761.1,891,763.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(763.2,891,765.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(765.3,891,767.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(767.4,891,769.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(769.5,891,771.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(771.6,891,773.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(773.7,891,775.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(775.8,891,777.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(777.9,891,780,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(780,891,782.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(782.1,891,784.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(784.2,891,786.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(786.3,891,788.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(788.4,891,790.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(790.5,891,792.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(792.6,891,794.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(794.7,891,796.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(796.8,891,798.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(798.9,891,801,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(801,891,803.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(803.1,891,805.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(805.2,891,807.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(807.3,891,809.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(809.4,891,811.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(811.5,891,813.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(813.6,891,815.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(815.7,891,817.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(817.8,891,819.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(819.9,891,822,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(822,891,824.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(824.1,891,826.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(826.2,891,828.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(828.3,891,830.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(830.4,891,832.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(832.5,891,834.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(834.6,891,836.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(836.7,891,838.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(838.8,891,840.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(840.9,891,843,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(843,891,845.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(845.1,891,847.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(847.2,891,849.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(849.3,891,851.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(851.4,891,853.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(853.5,891,855.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(855.6,891,857.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(857.7,891,859.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(859.8,891,861.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(861.9,891,864,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(864,891,866.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(866.1,891,868.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(868.2,891,870.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(870.3,891,872.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(872.4,891,874.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(874.5,891,876.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(876.6,891,878.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(878.7,891,880.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(880.8,891,882.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(882.9,891,885,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(885,891,887.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(887.1,891,889.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(889.2,891,891.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(891.3,891,893.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(893.4,891,895.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(895.5,891,897.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(897.6,891,899.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(899.7,891,901.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(901.8,891,903.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(903.9,891,906,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(906,891,908.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(908.1,891,910.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(910.2,891,912.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(912.3,891,914.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(914.4,891,916.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(916.5,891,918.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(918.6,891,920.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(920.7,891,922.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(922.8,891,924.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(924.9,891,927,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(927,891,929.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(929.1,891,931.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(931.2,891,933.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(933.3,891,935.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(935.4,891,937.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(937.5,891,939.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(939.6,891,941.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(941.7,891,943.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(943.8,891,945.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(945.9,891,948,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(948,891,950.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(950.1,891,952.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(952.2,891,954.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(954.3,891,956.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(956.4,891,958.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(958.5,891,960.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(960.6,891,962.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(962.7,891,964.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(964.8,891,966.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(966.9,891,969,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(969,891,971.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(971.1,891,973.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(973.2,891,975.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(975.3,891,977.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(977.4,891,979.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(979.5,891,981.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(981.6,891,983.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(983.7,891,985.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(985.8,891,987.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(987.9,891,990,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(990,891,992.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(992.1,891,994.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(994.2,891,996.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(996.3,891,998.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(998.4,891,1000.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1000.5,891,1002.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1002.6,891,1004.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1004.7,891,1006.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1006.8,891,1008.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1008.9,891,1011,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1011,891,1013.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1013.1,891,1015.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1015.2,891,1017.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1017.3,891,1019.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1019.4,891,1021.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1021.5,891,1023.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1023.6,891,1025.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1025.7,891,1027.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1027.8,891,1029.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1029.9,891,1032,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1032,891,1034.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1034.1,891,1036.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1036.2,891,1038.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1038.3,891,1040.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1040.4,891,1042.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1042.5,891,1044.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1044.6,891,1046.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1046.7,891,1048.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1048.8,891,1050.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1050.9,891,1053,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1053,891,1055.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1055.1,891,1057.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1057.2,891,1059.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1059.3,891,1061.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1061.4,891,1063.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1063.5,891,1065.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1065.6,891,1067.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1067.7,891,1069.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1069.8,891,1071.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1071.9,891,1074,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1074,891,1076.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1076.1,891,1078.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1078.2,891,1080.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1080.3,891,1082.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1082.4,891,1084.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1084.5,891,1086.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1086.6,891,1088.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1088.7,891,1090.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1090.8,891,1092.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1092.9,891,1095,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1095,891,1097.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1097.1,891,1099.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1099.2,891,1101.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1101.3,891,1103.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1103.4,891,1105.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1105.5,891,1107.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1107.6,891,1109.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1109.7,891,1111.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1111.8,891,1113.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1113.9,891,1116,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1116,891,1118.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1118.1,891,1120.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1120.2,891,1122.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1122.3,891,1124.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1124.4,891,1126.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1126.5,891,1128.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1128.6,891,1130.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1130.7,891,1132.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1132.8,891,1134.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1134.9,891,1137,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1137,891,1139.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1139.1,891,1141.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1141.2,891,1143.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1143.3,891,1145.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1145.4,891,1147.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1147.5,891,1149.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1149.6,891,1151.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1151.7,891,1153.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1153.8,891,1155.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1155.9,891,1158,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1158,891,1160.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1160.1,891,1162.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1162.2,891,1164.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1164.3,891,1166.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1166.4,891,1168.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1168.5,891,1170.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1170.6,891,1172.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1172.7,891,1174.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1174.8,891,1176.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1176.9,891,1179,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1179,891,1181.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1181.1,891,1183.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1183.2,891,1185.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1185.3,891,1187.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1187.4,891,1189.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1189.5,891,1191.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1191.6,891,1193.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1193.7,891,1195.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1195.8,891,1197.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1197.9,891,1200,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1200,891,1202.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1202.1,891,1204.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 1,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(966,1060)\1a&HFE&\blur0.5\clip(1204.2,891,1206.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(759,891,761.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(761.1,891,763.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(763.2,891,765.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(765.3,891,767.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(767.4,891,769.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(769.5,891,771.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(771.6,891,773.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(773.7,891,775.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(775.8,891,777.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(777.9,891,780,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(780,891,782.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(782.1,891,784.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(784.2,891,786.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(786.3,891,788.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(788.4,891,790.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(790.5,891,792.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(792.6,891,794.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(794.7,891,796.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(796.8,891,798.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(798.9,891,801,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(801,891,803.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(803.1,891,805.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(805.2,891,807.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.24,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(807.3,891,809.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(809.4,891,811.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(811.5,891,813.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(813.6,891,815.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(815.7,891,817.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(817.8,891,819.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(819.9,891,822,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(822,891,824.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(824.1,891,826.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(826.2,891,828.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(828.3,891,830.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(830.4,891,832.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(832.5,891,834.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(834.6,891,836.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(836.7,891,838.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(838.8,891,840.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(840.9,891,843,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(843,891,845.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(845.1,891,847.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(847.2,891,849.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(849.3,891,851.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(851.4,891,853.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(853.5,891,855.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(855.6,891,857.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(857.7,891,859.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(859.8,891,861.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(861.9,891,864,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(864,891,866.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(866.1,891,868.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(868.2,891,870.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(870.3,891,872.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(872.4,891,874.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(874.5,891,876.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(876.6,891,878.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(878.7,891,880.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(880.8,891,882.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(882.9,891,885,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(885,891,887.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(887.1,891,889.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(889.2,891,891.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.28,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(891.3,891,893.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(893.4,891,895.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(895.5,891,897.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(897.6,891,899.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(899.7,891,901.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(901.8,891,903.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(903.9,891,906,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(906,891,908.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(908.1,891,910.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(910.2,891,912.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(912.3,891,914.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(914.4,891,916.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(916.5,891,918.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(918.6,891,920.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(920.7,891,922.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(922.8,891,924.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(924.9,891,927,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(927,891,929.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(929.1,891,931.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(931.2,891,933.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(933.3,891,935.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(935.4,891,937.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(937.5,891,939.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(939.6,891,941.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(941.7,891,943.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(943.8,891,945.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(945.9,891,948,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(948,891,950.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(950.1,891,952.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(952.2,891,954.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(954.3,891,956.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(956.4,891,958.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(958.5,891,960.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(960.6,891,962.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(962.7,891,964.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(964.8,891,966.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(966.9,891,969,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(969,891,971.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(971.1,891,973.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(973.2,891,975.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.32,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(975.3,891,977.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(977.4,891,979.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(979.5,891,981.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(981.6,891,983.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(983.7,891,985.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(985.8,891,987.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(987.9,891,990,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(990,891,992.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(992.1,891,994.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(994.2,891,996.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(996.3,891,998.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(998.4,891,1000.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1000.5,891,1002.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1002.6,891,1004.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1004.7,891,1006.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1006.8,891,1008.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1008.9,891,1011,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1011,891,1013.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1013.1,891,1015.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1015.2,891,1017.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1017.3,891,1019.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1019.4,891,1021.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1021.5,891,1023.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1023.6,891,1025.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1025.7,891,1027.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1027.8,891,1029.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1029.9,891,1032,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1032,891,1034.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1034.1,891,1036.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1036.2,891,1038.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1038.3,891,1040.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1040.4,891,1042.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1042.5,891,1044.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1044.6,891,1046.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1046.7,891,1048.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1048.8,891,1050.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1050.9,891,1053,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1053,891,1055.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1055.1,891,1057.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1057.2,891,1059.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.36,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1059.3,891,1061.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1061.4,891,1063.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1063.5,891,1065.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1065.6,891,1067.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1067.7,891,1069.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1069.8,891,1071.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1071.9,891,1074,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1074,891,1076.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1076.1,891,1078.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1078.2,891,1080.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1080.3,891,1082.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1082.4,891,1084.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1084.5,891,1086.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1086.6,891,1088.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1088.7,891,1090.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1090.8,891,1092.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1092.9,891,1095,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1095,891,1097.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1097.1,891,1099.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1099.2,891,1101.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1101.3,891,1103.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1103.4,891,1105.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1105.5,891,1107.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1107.6,891,1109.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1109.7,891,1111.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1111.8,891,1113.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1113.9,891,1116,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1116,891,1118.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1118.1,891,1120.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1120.2,891,1122.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1122.3,891,1124.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1124.4,891,1126.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1126.5,891,1128.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1128.6,891,1130.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1130.7,891,1132.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1132.8,891,1134.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1134.9,891,1137,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1137,891,1139.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1139.1,891,1141.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1141.2,891,1143.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.40,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1143.3,891,1145.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1145.4,891,1147.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1147.5,891,1149.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1149.6,891,1151.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1151.7,891,1153.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1153.8,891,1155.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1155.9,891,1158,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1158,891,1160.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1160.1,891,1162.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1162.2,891,1164.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1164.3,891,1166.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1166.4,891,1168.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1168.5,891,1170.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1170.6,891,1172.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1172.7,891,1174.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1174.8,891,1176.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1176.9,891,1179,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1179,891,1181.1,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1181.1,891,1183.2,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1183.2,891,1185.3,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1185.3,891,1187.4,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1187.4,891,1189.5,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1189.5,891,1191.6,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1191.6,891,1193.7,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1193.7,891,1195.8,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 2,0:13:19.45,0:13:22.99,Orta,,0,0,0,,{\pos(964,1061)\4a&HFF&\blur0.5\clip(1195.8,891,1197.9,1016)}C{\4c&HAE79D2&}e{\4c&HAD70C0&}h{\4c&HAC68AE&}e{\4c&HAB5F9D&}n{\4c&HAA578B&}n{\4c&HA94E79&}e{\4c&HA84668&}t
+Dialogue: 0,0:02:59.07,0:03:04.28,Baslik,,0,0,0,,{\fad(985,555)}Zayıflık ve Kuvvet
