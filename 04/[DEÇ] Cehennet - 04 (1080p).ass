@@ -1,0 +1,530 @@
+﻿[Script Info]
+Title: Dantel Entel
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Commie Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H5F591720,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Default-Alt,Commie Sans,70,&H00FFFFFF,&H000000FF,&H003D0107,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: YD,Averia Libre,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,1,1,1,1
+Style: Baslik,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,3,1,115,150,1
+Style: Orta,Dry Brush,205,&H00070001,&H00FFFFFF,&H00FFFFFF,&H00AF82E4,-1,0,0,0,100,100,0,0,1,0,0,2,570,0,5,1
+Style: Maske,Averia Libre,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,1,1,1,1
+Style: ed 1,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,0.5,1,40,40,35,0
+Style: ed 2,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,3,40,40,35,0
+Style: OP,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B000000,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: OP2,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B76441A,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,2,30,30,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,İmza,0,0,0,,{Çeviri: Einherjar}{Çeviri Editörü: Vuats}{Yazı Dizimi: Vuats}{Zamanlama: Vuats}{Açılış Şarkısı: Einherjar}{Kapanış Şarkısı: Vuats}{Son Kontrol: Vuats}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:16.92,0:00:21.31,Default,Gantetsusai,0,0,0,,Kılıç Ejderi, Sekiz Vilayetin Lideri\Ngibi isimlerle nam salıp...
+Dialogue: 20,0:00:21.31,0:00:24.63,Default,Gantetsusai,0,0,0,,...çevremde benden güçlü\Nkimsenin kalmadığı bir dönemde...
+Dialogue: 20,0:00:26.35,0:00:31.00,Default,Gantetsusai,0,0,0,,...Ejder bilmem ne diye\Nbir lort bana bir iş teklifinde bulundu.
+Dialogue: 20,0:00:32.00,0:00:34.98,Default,Gantetsusai,0,0,0,,Köşküyle gurur duyan kibirli bir adamdı.
+Dialogue: 20,0:00:35.26,0:00:39.56,Default,Gantetsusai,0,0,0,##,Adı hatırına, karnımı doyurması \Nşartıyla talebini kabul ettim.
+Dialogue: 20,0:00:40.40,0:00:43.65,Default-Alt,Tatsumi,0,0,0,,Gerçekten sağlam içiyorsunuz.
+Dialogue: 20,0:00:43.65,0:00:45.94,Default-Alt,Tatsumi,0,0,0,,Harika.
+Dialogue: 20,0:00:48.02,0:00:51.00,Default-Alt,Tatsumi,0,0,0,,Fakat Usta Gantetsusai...
+Dialogue: 20,0:00:51.00,0:00:57.00,Default-Alt,Tatsumi,0,0,0,,...her ne kadar size Ejder Kılıcı deseler de,\Ngerçek bir ejderi kesemezsiniz herhalde.
+Dialogue: 20,0:00:57.50,0:00:58.16,Default-Alt,Gantetsusai,0,0,0,,Ha?
+Dialogue: 20,0:01:00.00,0:01:07.00,Default,Gantetsusai,0,0,0,,Ben de gidip köşkün kapısını ikiye böldüm. \NHerifin korkudan ödü patladı!
+Dialogue: 20,0:01:08.27,0:01:11.68,Default,Fuçi,0,0,0,,Çabuk agresifleşiyorsun. \NAnlaması zor birisin.
+Dialogue: 20,0:01:12.89,0:01:14.18,Default,Gantetsusai,0,0,0,,Katılıyorum.
+Dialogue: 20,0:01:14.61,0:01:17.88,Default,Gantetsusai,0,0,0,,Bu yüzden klan peşime düştü de \Nidama mahkum edildim zaten.
+Dialogue: 20,0:01:18.12,0:01:20.01,Default,Gantetsusai,0,0,0,,Pişman değilim gerçi.
+Dialogue: 20,0:01:20.58,0:01:23.74,Default,Genç Çobei,0,0,0,,Şu affı bi' elde etsem sicilim temizlenecek.
+Dialogue: 20,0:01:23.74,0:01:25.69,Default,Gantetsusai,0,0,0,,Ve yine kılıcıma odaklanabileceğim.
+Dialogue: 20,0:01:26.31,0:01:28.69,Default,Gantetsusai,0,0,0,,Bu sefer tüm köşkü ortadan ikiye böleceğim.
+Dialogue: 20,0:01:29.73,0:01:31.91,Default,Fuçi,0,0,0,,Seni cidden anlayamıyorum.
+Dialogue: 20,0:01:32.33,0:01:35.72,Default,Gantetsusai,0,0,0,,Asıl ben sizi anlayamıyorum.
+Dialogue: 20,0:01:35.72,0:01:39.04,Default,Gantetsusai,0,0,0,,Şu üstündekiler otopsi için, değil mi?
+Dialogue: 20,0:01:39.53,0:01:41.25,Default,Gantetsusai,0,0,0,,Rahatsız herifler.
+Dialogue: 20,0:01:41.69,0:01:45.61,Default,Gantetsusai,0,0,0,,Mahkumların kafasını keserek kazandığın\Nyemekler lezzetli mi, bilmem ne "Emon"?
+Dialogue: 20,0:01:46.64,0:01:50.56,Default,Fuçi,0,0,0,,"Asaemon." \NYamada Asaemon'u Fuçi.
+Dialogue: 20,0:01:51.35,0:01:53.88,Default,Fuçi,0,0,0,,Yamada klanının tek geçim kaynağı cellatlık değil.
+Dialogue: 20,0:01:54.09,0:01:56.35,Default,Fuçi,0,0,0,,Sınayıcılıktan ilaç üretimine...
+Dialogue: 20,0:01:56.35,0:01:59.81,Default,Fuçi,0,0,0,,Toplum için oldukça yararlıyız, senin aksine.
+Dialogue: 20,0:02:00.54,0:02:01.91,Default,Fuçi,0,0,0,,Otopsi de aynı şekilde.
+Dialogue: 20,0:02:02.27,0:02:04.18,Default,Fuçi,0,0,0,,Kadavralar üstünde yapılan araştırmalar...
+Dialogue: 20,0:02:04.18,0:02:07.32,Default,Fuçi,0,0,0,,...tıbbın gelişimine yarar \Nsağlayan asil görevlerdir!
+Dialogue: 20,0:02:13.84,0:02:15.78,Default,Fuçi,0,0,0,,Hakaret etmene izin vermem.
+Dialogue: 20,0:02:20.01,0:02:21.57,Default,Gantetsusai,0,0,0,,Öyle olsun bakalım.
+Dialogue: 20,0:02:21.83,0:02:24.12,Default,Gantetsusai,0,0,0,,Ayağıma dolaşma da...
+Dialogue: 20,0:02:22.23,0:02:23.52,Default,Fuçi,0,0,0,,{\an8}D-Dur!
+Dialogue: 20,0:02:27.11,0:02:28.55,Default,Fuçi,0,0,0,,Bir planın var mı?
+Dialogue: 20,0:02:29.29,0:02:30.88,Default,Gantetsusai,0,0,0,,Belli değil mi?
+Dialogue: 20,0:02:31.07,0:02:34.41,Default,Gantetsusai,0,0,0,,Bütün rakiplerimi ezip geçeceğim.
+Dialogue: 20,0:02:34.70,0:02:38.30,Default,Gantetsusai,0,0,0,,İksiri herkesi ortadan kaldırıp\Nrahat rahat aramak daha mantıklı.
+Dialogue: 20,0:02:38.52,0:02:41.10,Default,Gantetsusai,0,0,0,,Üstelik kılıcımı gönlümce kullanabileceğim.
+Dialogue: 20,0:02:41.76,0:02:47.11,Default,Gantetsusai,0,0,0,,Böylesine huzurlu bir dünyada, bir daha heyecan \Nverici mücadelelere katılamam sanıyordum.
+Dialogue: 20,0:02:49.09,0:02:50.61,Default,Fuçi,0,0,0,,{\i1}Mantıklı aslında.
+Dialogue: 20,0:02:51.41,0:02:54.10,Default,Fuçi,0,0,0,,{\i1}Bu görev böcek zehri üretmeye benziyor.
+Dialogue: 20,0:02:54.22,0:02:58.12,Default,Fuçi,0,0,0,,{\i1}Ne kadar vakit geçerse, geriye de\No kadar güçlü zehre sahip böcekler kalır.
+Dialogue: 20,0:02:58.53,0:03:01.62,Default,Fuçi,0,0,0,,{\i1}Ama planı düşündüğü gibi gidecek mi?
+Dialogue: 20,0:03:01.89,0:03:04.12,Default,Fuçi,0,0,0,,{\i1}Bütün böcekler henüz burada değil.
+Dialogue: 20,0:03:04.83,0:03:08.88,Default,Fuçi,0,0,0,,{\i1}Başkumandanın sabrı azalınca\Nbir sonraki böcek yığınını adaya yollayacak.
+Dialogue: 20,0:03:09.01,0:03:13.13,Default,Fuçi,0,0,0,,{\i1}Daha güçlü, daha ölümcül zehre sahip böcekleri...
+Dialogue: 20,0:03:34.01,0:03:35.01,Default,Gantetsusai,0,0,0,,İlginç...
+Dialogue: 20,0:03:47.45,0:03:49.00,Default,Gabimaru,0,0,0,,Geride dur.
+Dialogue: 20,0:05:22.50,0:05:24.85,Default,Gabimaru,0,0,0,,{\i1}Bu ne böyle? Balık mı?
+Dialogue: 20,0:05:25.28,0:05:26.89,Default,Gabimaru,0,0,0,,{\i1}Elinde tespih falan da var.
+Dialogue: 20,0:05:26.89,0:05:29.08,Default,Gabimaru,0,0,0,,{\i1}Canavar mı bu? Canlı mı ya da?
+Dialogue: 20,0:05:29.08,0:05:32.36,Default,Gabimaru,0,0,0,,{\i1}O kadar gerçek dışı ve saçma bir görünüşü var ki...
+Dialogue: 20,0:05:32.36,0:05:34.71,Default,Gabimaru,0,0,0,,{\i1}Aklımı kurcalayan tonla soru var ama...
+Dialogue: 20,0:05:34.98,0:05:38.86,Default,Gabimaru,0,0,0,##,{\i1}İçgüdülerim bana bu ada ağzına \Nkadar tehlikeyle dolu diyor.
+Dialogue: 20,0:05:40.32,0:05:41.49,Default,Gabimaru,0,0,0,,{\i1}Ne zahmetli iş...
+Dialogue: 20,0:05:52.86,0:05:53.46,Default,Sagiri,0,0,0,,Gabima-
+Dialogue: 20,0:05:57.22,0:05:58.84,Default,Gabimaru,0,0,0,,Geride dur demedim mi?
+Dialogue: 20,0:05:59.15,0:06:00.01,Default,Sagiri,0,0,0,,Peki.
+Dialogue: 20,0:06:00.59,0:06:03.00,Default,Gabimaru,0,0,0,,Canlı gibi.
+Dialogue: 20,0:06:04.02,0:06:07.36,Default-Alt,Şef,0,0,0,,{\i1}Beş numaralı şinobi kuralı:
+Dialogue: 20,0:06:07.36,0:06:11.60,Default-Alt,Şef,0,0,0,,{\i1\t(3845,4220,\c&H000000&\3c&H000000&\alpha&HFF&)}Bilmediğin bir rakiple çatışmaya girme.
+Dialogue: 20,0:06:14.17,0:06:15.36,Default,Gabimaru,0,0,0,,{\i1}Kaçmalı mıyım?
+Dialogue: 20,0:06:16.63,0:06:19.61,Default,Gabimaru,0,0,0,,{\i1}Onunla mı yoksa tek başıma mı?
+Dialogue: 20,0:06:31.50,0:06:34.50,Default,Sagiri,0,0,0,,Gabimaru! İyi misin?
+Dialogue: 20,0:06:34.82,0:06:36.63,Default,Gabimaru,0,0,0,,{\i1}Burası tehlikeli.
+Dialogue: 20,0:06:37.74,0:06:39.98,Default,Sagiri,0,0,0,,Yaralanabileceğini düşünmezdim...
+Dialogue: 20,0:06:40.14,0:06:41.13,Default,Sagiri,0,0,0,,Yani, öyle değil de...
+Dialogue: 20,0:06:41.71,0:06:43.28,Default,Gabimaru,0,0,0,,Şimdilik kaçıyoruz.
+Dialogue: 20,0:06:52.35,0:06:53.46,Default,Sagiri,0,0,0,,{\i1}Bunlar ne böyle?
+Dialogue: 20,0:06:54.93,0:06:56.24,Default,Sagiri,0,0,0,,{\i1}Gülüyorlar...
+Dialogue: 20,0:06:56.45,0:06:58.65,Default,Sagiri,0,0,0,,{\i1}Gerçek mi bunlar?
+Dialogue: 20,0:07:00.02,0:07:03.99,Default,Sagiri,0,0,0,,{\i1}Sakinleş. Kafanı topla.
+Dialogue: 20,0:07:04.31,0:07:05.53,Default,Sagiri,0,0,0,,Etrafımız sarıldı.
+Dialogue: 20,0:07:10.23,0:07:13.83,Default,Gabimaru,0,0,0,,{\i1}Yeter. Düşünmeyi bırak.
+Dialogue: 20,0:07:15.81,0:07:16.88,Default,Sagiri,0,0,0,,Gabimaru!
+Dialogue: 20,0:07:21.11,0:07:22.76,Default,Gabimaru,0,0,0,,Ninpo: Zahit Alev.
+Dialogue: 20,0:07:30.47,0:07:31.81,Default,Gabimaru,0,0,0,,{\i1}Şimdilik düşünme.
+Dialogue: 20,0:07:37.10,0:07:38.23,Default,Gabimaru,0,0,0,,{\i1}Yalnızca öldür.
+Dialogue: 20,0:07:41.10,0:07:42.36,Default,Gabimaru,0,0,0,,{\i1}Hayatta kalabilmek için...
+Dialogue: 20,0:07:43.10,0:07:46.98,Default,Gabimaru,0,0,0,,{\i1}Af hakkını elde edip bu lanet\N dünyadan kurtulabilmek için...
+Dialogue: 20,0:07:47.81,0:07:49.27,Default,Gabimaru,0,0,0,,{\i1}Yalnızca öldür.
+Dialogue: 20,0:07:50.70,0:07:53.72,Default,Sagiri,0,0,0,,{\i1}Görevin tehlikesinin farkındaydım.
+Dialogue: 20,0:07:55.00,0:07:57.71,Default,Sagiri,0,0,0,,{\i1}En azından öyleyim sanıyordum.
+Dialogue: 20,0:07:58.00,0:08:02.82,Default,Sagiri,0,0,0,,{\i1}Ama birkaç saat içinde, \Nher şey tamamen değişti.
+Dialogue: 20,0:08:09.47,0:08:11.72,Default,Sagiri,0,0,0,,{\i1}Bu manzara Dünya'ya ait olamaz.
+Dialogue: 20,0:08:13.00,0:08:16.55,Default,Sagiri,0,0,0,,{\i1}Burası cennet mi? Yoksa...
+Dialogue: 20,0:08:30.49,0:08:32.37,Default,Gabimaru,0,0,0,,{\i1}Gereksiz şeylerle meşgul olma.
+Dialogue: 20,0:08:33.18,0:08:34.90,Default-Alt,Sagiri,0,0,0,,{\i1}Zayıflık değil bu.
+Dialogue: 20,0:08:35.83,0:08:37.62,Default,Gabimaru,0,0,0,,{\i1}Sadece önündeki düşmana odaklan.
+Dialogue: 20,0:08:37.92,0:08:40.63,Default-Alt,Yui,0,0,0,,{\i1}Hakiki cesaret, duygularına \Nkarşı dürüst olmaktır.
+Dialogue: 20,0:08:40.81,0:08:42.00,Default,Gabimaru,0,0,0,,Hepsini yok et.
+Dialogue: 20,0:08:53.48,0:08:56.01,Default,Sagiri,0,0,0,,Şey, Gabimaru...
+Dialogue: 20,0:08:57.30,0:08:58.09,Default,Sagiri,0,0,0,,Minnettar-
+Dialogue: 20,0:09:02.91,0:09:06.40,Default,Yuzuriha,0,0,0,,Oha, hepsini kendi başına mı öldürdün?
+Dialogue: 20,0:09:06.40,0:09:08.00,Default,Yuzuriha,0,0,0,,Çok etkileyici, Ruhsuz!
+Dialogue: 20,0:09:08.00,0:09:10.90,Default,Yuzuriha,0,0,0,,Harika, tam olarak şöyle hissediyorum!
+Dialogue: 20,0:09:10.90,0:09:12.48,Default,Yuzuriha,0,0,0,,Müthiş!
+Dialogue: 20,0:09:12.48,0:09:14.20,Default,Yuzuriha,0,0,0,,Ben Yuzuriha.
+Dialogue: 20,0:09:14.20,0:09:16.30,Default,Yuzuriha,0,0,0,,Ben de bir ninjayım.
+Dialogue: 20,0:09:16.30,0:09:17.87,Default,Yuzuriha,0,0,0,,Tıpkı senin gibi.
+Dialogue: 20,0:09:18.40,0:09:20.50,Default,Sagiri,0,0,0,,İki cellat mı?
+Dialogue: 20,0:09:20.50,0:09:22.38,Default,Gabimaru,0,0,0,,Ne yaptığını sanıyorsun-
+Dialogue: 20,0:09:22.80,0:09:27.26,Default-Alt,Yui,0,0,0,##,{\t(3833,4334,1,\3c&HFFFFFF&\4c&HFFFFFF&)}Biri sana yardım ettiğinde "teşekkürler" demelisin.
+Dialogue: 20,0:09:29.60,0:09:32.51,Default,Gabimaru,0,0,0,,Yardımınız için teşekkürler.
+Dialogue: 20,0:09:34.01,0:09:38.14,Default,Gabimaru,0,0,0,,Ee, ne yaptığını sanıyorsun sen? Rakibiz biz.
+Dialogue: 20,0:09:38.50,0:09:40.36,Default,Gabimaru,0,0,0,,Yardım etmene gerek yoktu.
+Dialogue: 20,0:09:42.00,0:09:44.45,Default,Yuzuriha,0,0,0,,Gerginliğe gerek yok canım.
+Dialogue: 20,0:09:44.45,0:09:46.48,Default,Yuzuriha,0,0,0,,Canavar kalmadı etrafta.
+Dialogue: 20,0:09:46.48,0:09:48.78,Default,Yuzuriha,0,0,0,,Çok güvenilir birine benziyo'sun, Gabi.
+Dialogue: 20,0:09:48.94,0:09:51.58,Default,Yuzuriha,0,0,0,,Her yerin kan içinde ama hala ayaktasın.
+Dialogue: 20,0:09:51.80,0:09:54.28,Default,Yuzuriha,0,0,0,,Demin şu kızı kurtardın, di' mi?
+Dialogue: 20,0:09:58.31,0:10:01.54,Default,Yuzuriha,0,0,0,,Baksana... Birlikte çalışmaya ne dersin?
+Dialogue: 20,0:10:02.01,0:10:06.71,Default,Yuzuriha,0,0,0,,Burası çok tehlikeli. Çok korkuyorum.
+Dialogue: 20,0:10:07.00,0:10:10.30,Default,Yuzuriha,0,0,0,,Ne istersen yapacağım. Beni korur musu-
+Dialogue: 20,0:10:10.80,0:10:12.61,Default,Yuzuriha,0,0,0,,Hım? Ne?
+Dialogue: 20,0:10:12.99,0:10:14.55,Default,Yuzuriha,0,0,0,,Ah... Acıdı...
+Dialogue: 20,0:10:14.93,0:10:18.28,Default,Yuzuriha,0,0,0,,Kime diyo'z acıdı diye! N'apıyosun be?
+Dialogue: 20,0:10:18.28,0:10:20.00,Default,Gabimaru,0,0,0,,Beni ayartamazsın.
+Dialogue: 20,0:10:20.00,0:10:22.00,Default,Gabimaru,0,0,0,,Kunoiçi taktiklerine aşinayım.
+Dialogue: 20,0:10:23.19,0:10:26.03,Default,Yuzuriha,0,0,0,,Tabii, tabii. Tahmin etmiştim.
+Dialogue: 20,0:10:26.30,0:10:28.01,Default,Yuzuriha,0,0,0,,Şansımı denemek istedim.
+Dialogue: 20,0:10:28.01,0:10:31.41,Default,Yuzuriha,0,0,0,,Deneyip pişman olmak, denemediğine \Npişman olmaktan iyidir, di' mi?
+Dialogue: 20,0:10:31.41,0:10:34.28,Default,Yuzuriha,0,0,0,,Ama birlikte çalışma konusunda ciddiydim.
+Dialogue: 20,0:10:34.28,0:10:37.18,Default,Yuzuriha,0,0,0,,Beş, üçten büyüktür sonuçta.
+Dialogue: 20,0:10:37.18,0:10:38.95,Default,Sagiri,0,0,0,,Bekle biraz.
+Dialogue: 20,0:10:39.18,0:10:41.33,Default,Sagiri,0,0,0,,Neden yanında iki Asaemon var?
+Dialogue: 20,0:10:41.64,0:10:44.08,Default,Yuzuriha,0,0,0,,Bu adam, şey...
+Dialogue: 20,0:10:44.43,0:10:46.47,Default,Genji,0,0,0,,Yamada Asaemon'u Genji.
+Dialogue: 20,0:10:46.81,0:10:50.76,Default,Genji,0,0,0,,Normalde Kafir, Makiya Moro'nun gözetmeniydim.
+Dialogue: 20,0:10:51.21,0:10:54.22,Default,Genji,0,0,0,,Ama Makiya bu kadın tarafından kandırılıp öldü.
+Dialogue: 20,0:10:54.69,0:10:56.95,Default,Genji,0,0,0,,Buşidoya aykırı taktikler kullandı.
+Dialogue: 20,0:10:57.13,0:11:00.97,Default,Genji,0,0,0,,{\t(3656,3823,\3c&HFFFFFF&\4c&HFFFFFF&)}Ben de bu kadını zapt etmek için\Nbir celladın yetersiz olduğu kanaatine varıp...
+Dialogue: 20,0:11:00.97,0:11:03.60,Default,Genji,0,0,0,,...yanlarında kalmaya karar verdim.
+Dialogue: 20,0:11:05.49,0:11:07.00,Default,Gabimaru,0,0,0,,{\i1}Ayartılmış bu.
+Dialogue: 20,0:11:07.00,0:11:08.30,Default,Sagiri,0,0,0,,Anlıyorum.
+Dialogue: 20,0:11:08.30,0:11:10.80,Default,Sagiri,0,0,0,,{\i1}Kadınlar her zaman Usta Genji'nin\Nyumuşak karnı olmuştur.
+Dialogue: 20,0:11:10.80,0:11:11.73,Default,Sagiri,0,0,0,,{\i1}Oyuna gelmiş.
+Dialogue: 20,0:11:14.00,0:11:15.50,Default,Senta,0,0,0,,Ş-Şey...
+Dialogue: 20,0:11:15.50,0:11:19.08,Default,Senta,0,0,0,,Ben onun asıl gözetmeniyim, \NYamada Asaemon'u Senta.
+Dialogue: 20,0:11:19.08,0:11:20.80,Default,Yuzuriha,0,0,0,,Neyse, bilirsiniz işte.
+Dialogue: 20,0:11:20.80,0:11:26.25,Default,Yuzuriha,0,0,0,,Biz de buraya gelene kadar saçma sapan böceklerle,\Ncanavarlarla, heykellerle falan karşılaştık.
+Dialogue: 20,0:11:26.25,0:11:28.75,Default,Yuzuriha,0,0,0,,Ne kadar tehlikeli \Nolduğunun farkındayız kısacası.
+Dialogue: 20,0:11:29.00,0:11:32.00,Default,Yuzuriha,0,0,0,,İksiri en kısa sürede \Nbulabilmek de önemli, ama...
+Dialogue: 20,0:11:32.00,0:11:35.26,Default,Yuzuriha,0,0,0,,...pervasızca hareket edip yok yere\Nölmeye gerek yok ki.
+Dialogue: 20,0:11:35.79,0:11:38.54,Default,Gabimaru,0,0,0,,Bana hayal kırıklığı dememiş miydin sen?
+Dialogue: 20,0:11:38.54,0:11:41.31,Default,Yuzuriha,0,0,0,,Hı? Hatırlamıyorum ki.
+Dialogue: 20,0:11:41.90,0:11:44.60,Default,Sagiri,0,0,0,,İkiniz de onayladığınız sürece...
+Dialogue: 20,0:11:44.60,0:11:46.33,Default,Sagiri,0,0,0,,...beraber çalışmanızda problem yok.
+Dialogue: 20,0:11:46.33,0:11:48.77,Default,Yuzuriha,0,0,0,,Yaşasın! Gabimaru, seviyo'm seni!
+Dialogue: 20,0:11:48.77,0:11:51.31,Default,Yuzuriha,0,0,0,,Ay, ay, ay! N'apıyorsun be!?
+Dialogue: 20,0:11:51.31,0:11:52.80,Default,Gabimaru,0,0,0,,Daha kabul etmedim.
+Dialogue: 20,0:11:52.80,0:11:54.28,Default,Gabimaru,0,0,0,,Bir kunoiçiye güvenecek değilim.
+Dialogue: 20,0:11:55.69,0:11:58.00,Default,Yuzuriha,0,0,0,,Ne güveninden bahsediyorsun be?
+Dialogue: 20,0:11:58.00,0:11:59.41,Default,Yuzuriha,0,0,0,,Çocuk değiliz.
+Dialogue: 20,0:12:03.70,0:12:05.87,Default,Yuzuriha,0,0,0,,İkimiz de her an ihanete kalkışabiliriz.
+Dialogue: 20,0:12:06.60,0:12:10.60,Default,Yuzuriha,0,0,0,,Zaten iksiri bulsak bile\Naffı sadece birimiz alabilecek.
+Dialogue: 20,0:12:10.60,0:12:13.38,Default,Yuzuriha,0,0,0,,Birbirimizden olabildiğince\Nyararlanalım diyorum.
+Dialogue: 20,0:12:13.82,0:12:16.95,Default,Yuzuriha,0,0,0,,Yoksa benden korkuyor musun?
+Dialogue: 20,0:12:17.13,0:12:18.70,Default,Yuzuriha,0,0,0,,Şaşırtıcı derecede safsın.
+Dialogue: 20,0:12:21.33,0:12:22.94,Default,Yuzuriha,0,0,0,,Lütfen, Gabi.
+Dialogue: 20,0:12:22.94,0:12:25.18,Default,Yuzuriha,0,0,0,,Bu küçük kıza yardım etmeyecek misin?
+Dialogue: 20,0:12:25.38,0:12:27.40,Default,Gabimaru,0,0,0,,Şunlarla vaktini harcıyorsun.
+Dialogue: 20,0:12:27.56,0:12:28.56,Default,Yuzuriha,0,0,0,,Diyorsun.
+Dialogue: 20,0:12:29.38,0:12:32.03,Default,Gabimaru,0,0,0,,Birlikte çalışmamızın ne yararı olacak?
+Dialogue: 20,0:12:32.35,0:12:35.82,Default,Yuzuriha,0,0,0,,Siz gücünüzü, biz de bilgimizi ortaya koyacağız.
+Dialogue: 20,0:12:36.36,0:12:40.71,Default,Yuzuriha,0,0,0,,Örneğin, canavarları tehdit \Nolarak görüyor olabilirsiniz ama...
+Dialogue: 20,0:12:40.71,0:12:43.45,Default,Yuzuriha,0,0,0,,...buradaki asıl tehditler böcekler.
+Dialogue: 20,0:12:43.82,0:12:45.37,Default,Yuzuriha,0,0,0,,İnsan suratlı kelebekler.
+Dialogue: 20,0:12:45.61,0:12:49.46,Default,Yuzuriha,0,0,0,,Canavarların etrafında uçuyorlar\Nama ne yuvaları ne amaçları belli.
+Dialogue: 20,0:12:50.01,0:12:53.24,Default,Yuzuriha,0,0,0,,İğnelerinde halüsinojen ve zehir var.
+Dialogue: 20,0:12:53.56,0:12:55.46,Default,Gabimaru,0,0,0,,Bunu nereden biliyorsun?
+Dialogue: 20,0:12:58.32,0:12:59.63,Default,Yuzuriha,0,0,0,,Makiya Moro sayesinde.
+Dialogue: 20,0:13:00.01,0:13:02.44,Default,Yuzuriha,0,0,0,,Biraz yakınlaşıp onu ikna ettim...
+Dialogue: 20,0:13:02.44,0:13:04.18,Default,Yuzuriha,0,0,0,,...sonra da üstünde denedim.
+Dialogue: 20,0:13:04.31,0:13:07.03,Default,Yuzuriha,0,0,0,,Kırkayaklar iğrenç ama \Nonları görmezden gelebilirsiniz.
+Dialogue: 20,0:13:07.19,0:13:08.91,Default,Yuzuriha,0,0,0,,Tek yaptıkları leş yemek.
+Dialogue: 20,0:13:09.10,0:13:10.51,Default,Gabimaru,0,0,0,,Nereden biliyorsun?
+Dialogue: 20,0:13:10.71,0:13:12.00,Default,Yuzuriha,0,0,0,,Makiya'da denedim.
+Dialogue: 20,0:13:12.31,0:13:16.77,Default,Yuzuriha,0,0,0,,Başka böcekler de vardı ama\Nhiçbiri yaklaşmadıkça saldırmadı.
+Dialogue: 20,0:13:17.00,0:13:18.42,Default,Yuzuriha,0,0,0,,Makiya'da denedim.
+Dialogue: 20,0:13:18.61,0:13:20.32,Default,Gabimaru,0,0,0,,Ona n'oldu peki?
+Dialogue: 20,0:13:20.78,0:13:23.83,Default,Yuzuriha,0,0,0,,Ölü taklidi yapıp gardını düşürmesini\Nbekledim, sonra da öldürdüm.
+Dialogue: 20,0:13:24.14,0:13:31.58,Default,Senta,0,0,0,,Canavarların taktıkları eşyaların çoğu \NBudist veya Taocu tasarımlara sahip.
+Dialogue: 20,0:13:31.88,0:13:34.59,Default,Senta,0,0,0,,Budizm ve Taoizm birbirinden çok farklı dinler...
+Dialogue: 20,0:13:34.59,0:13:37.09,Default,Senta,0,0,0,,İkisini bir arada görmek oldukça tuhaf.
+Dialogue: 20,0:13:37.30,0:13:39.49,Default,Senta,0,0,0,,Budist heykeller de fazlasıyla acayip.
+Dialogue: 20,0:13:39.49,0:13:43.85,Default,Senta,0,0,0,,Buranın cennet olduğuna pek inanasım gelmiyor.
+Dialogue: 20,0:13:44.17,0:13:45.21,Default,Sagiri,0,0,0,,Katılıyorum.
+Dialogue: 20,0:13:46.28,0:13:48.87,Default,Sagiri,0,0,0,,Gizem deyip geçiştirmek kolay ama...
+Dialogue: 20,0:13:48.87,0:13:53.48,Default,Sagiri,0,0,0,,...kılıcımdan aldığım hissiyata göre kas\Nyapıları ve dokuları canlılara oldukça yakın.
+Dialogue: 20,0:13:53.69,0:13:56.39,Default,Yuzuriha,0,0,0,,Gördün mü? Daha bilmediğimiz birçok şey var.
+Dialogue: 20,0:13:56.51,0:13:59.49,Default,Yuzuriha,0,0,0,,Birlikte çalışıp bilgi toplamalıyız işte.
+Dialogue: 20,0:13:59.81,0:14:03.21,Default,Yuzuriha,0,0,0,,Şu ana kadar öğrendiğimiz \Nne varsa anlatacağım hem.
+Dialogue: 20,0:14:03.48,0:14:05.77,Default,Gabimaru,0,0,0,,Niye bilgini paylaşmaya bu kadar isteklisin?
+Dialogue: 20,0:14:05.93,0:14:08.12,Default,Gabimaru,0,0,0,,Hayatta kalmayı bu kadar çok mu istiyorsun?
+Dialogue: 20,0:14:10.01,0:14:12.37,Default,Yuzuriha,0,0,0,,Küçük bir kız kardeşim var.
+Dialogue: 20,0:14:13.30,0:14:17.38,Default,Yuzuriha,0,0,0,,Tedavisi olmayan bir hastalığı var.\Nİlaç alacak paramız da yok.
+Dialogue: 20,0:14:17.81,0:14:20.38,Default,Yuzuriha,0,0,0,,Para kazanmak için şinobi oldum.
+Dialogue: 20,0:14:20.82,0:14:23.59,Default,Yuzuriha,0,0,0,,Kasumi Vadisi'nde, Kai klanının\Nkorkunç eğitimlerine katlandım.
+Dialogue: 20,0:14:23.59,0:14:25.11,Default,Gabimaru,0,0,0,,Kai şinobileri Mizore Vadisi'nde.
+Dialogue: 20,0:14:26.31,0:14:27.18,Default,Yuzuriha,0,0,0,,Haklısın.
+Dialogue: 20,0:14:27.60,0:14:32.31,Default,Yuzuriha,0,0,0,,Neyse işte, şey... Köyün şefi, ııı...
+Dialogue: 20,0:14:32.31,0:14:34.67,Default,Yuzuriha,0,0,0,,"Böyle olmaz" falan dedi.
+Dialogue: 20,0:14:34.85,0:14:36.56,Default,Yuzuriha,0,0,0,,Sonra da bana ihanet ettiler.
+Dialogue: 20,0:14:37.27,0:14:39.00,Default,Gabimaru,0,0,0,,Yalan söylerken detaya girilmez.
+Dialogue: 20,0:14:39.80,0:14:41.16,Default,Yuzuriha,0,0,0,,Anladın mı ya?
+Dialogue: 20,0:14:41.40,0:14:45.09,Default,Yuzuriha,0,0,0,,Hayatta kalmayı istemek için \Nbir sebebe gerek var mı?
+Dialogue: 20,0:14:45.47,0:14:48.28,Default,Yuzuriha,0,0,0,,İlla ardında yatan \Nderin bir sebep mi olmalı?
+Dialogue: 20,0:14:48.79,0:14:51.00,Default,Yuzuriha,0,0,0,,Bende yok öyle şeyler.
+Dialogue: 20,0:14:51.21,0:14:54.50,Default,Yuzuriha,0,0,0,,Yalnızca hayatta kalıp\Ngeri dönebilmeyi istiyorum.
+Dialogue: 20,0:14:54.50,0:14:57.37,Default,Yuzuriha,0,0,0,,Bu gencecik yaşımda ölmek istemiyorum.
+Dialogue: 20,0:14:57.37,0:14:58.42,Default,Yuzuriha,0,0,0,,Hepsi bu.
+Dialogue: 20,0:14:58.71,0:15:02.35,Default,Yuzuriha,0,0,0,,Gerçi siz samuraylar bunu anlayamayabilirsiniz.
+Dialogue: 20,0:15:02.35,0:15:05.89,Default,Yuzuriha,0,0,0,,Sonuçta sırf Başkumandan\Nistedi diye hayatınızı riske atıp...
+Dialogue: 20,0:15:05.89,0:15:08.69,Default,Yuzuriha,0,0,0,,...sorgusuz sualsiz emirleri uygulayan tiplersiniz.
+Dialogue: 20,0:15:09.51,0:15:12.28,Default,Gabimaru,0,0,0,,Bir sorum daha var.
+Dialogue: 20,0:15:13.80,0:15:18.01,Default,Gabimaru,0,0,0,,Makiya Moro denen \Nadama tam olarak ne yaptın?
+Dialogue: 20,0:15:22.41,0:15:24.70,Default,Yuzuriha,0,0,0,,Hiçbir şey yapmadım yahu.
+Dialogue: 20,0:15:25.32,0:15:28.66,Default,Yuzuriha,0,0,0,,Başkalarının hayatını umursar mısın?
+Dialogue: 20,0:15:29.00,0:15:31.48,Default,Yuzuriha,0,0,0,,Böyle yaparsan ölürsün bak.
+Dialogue: 20,0:15:33.71,0:15:34.91,Default,Gabimaru,0,0,0,,Aman, neyse.
+Dialogue: 20,0:15:35.30,0:15:37.14,Default,Gabimaru,0,0,0,,Öyleyse bilgi istiyorum.
+Dialogue: 20,0:15:37.14,0:15:39.48,Default,Gabimaru,0,0,0,,Madem ortak bir mücadele \Nortaya koyacağız...
+Dialogue: 20,0:15:39.48,0:15:41.55,Default,Yuzuriha,0,0,0,,Yaşasın! Harikasın, Gabicik!
+Dialogue: 20,0:15:41.55,0:15:44.47,Default,Yuzuriha,0,0,0,,Ay, ay, ay! Azıcık heyecanlanıverdim ya!
+Dialogue: 20,0:15:44.47,0:15:45.76,Default,Yuzuriha,0,0,0,,Ne yapıyorsun hemen?!
+Dialogue: 20,0:15:45.76,0:15:47.30,Default,Gabimaru,0,0,0,,Eşim var benim.
+Dialogue: 20,0:15:47.69,0:15:49.52,Default,Senta,0,0,0,,Öyleyse bildiklerimizi paylaşalım.
+Dialogue: 20,0:15:49.52,0:15:52.48,Default,Yuzuriha,0,0,0,,Olmaz öyle, bekle biraz.\N Anlaşmaya vardık artık.
+Dialogue: 20,0:15:52.48,0:15:54.31,Default,Yuzuriha,0,0,0,,Başka bir şey söylememize gerek yok.
+Dialogue: 20,0:15:54.71,0:15:57.68,Default,Gabimaru,0,0,0,,Bi' dediğin bi' dediğini tutmuyor.
+Dialogue: 20,0:15:57.90,0:16:00.51,Default,Yuzuriha,0,0,0,,Şaka be, dalga geçiyorum sadece.
+Dialogue: 20,0:16:01.41,0:16:05.20,Default,Sagiri,0,0,0,,{\i1}Bu adaya geldiğimizden beri ne yaptım?
+Dialogue: 20,0:16:06.68,0:16:10.62,Default,Sagiri,0,0,0,,{\i1}Canavarlar karşısında ne yapacağımı \Nşaşırıp, soğukkanlı kalamadım.
+Dialogue: 20,0:16:10.97,0:16:15.11,Default,Sagiri,0,0,0,,{\i1}Onca yıldır bilediğim bu kılıç ne işime yaradı?
+Dialogue: 20,0:16:15.39,0:16:18.37,Default,Sagiri,0,0,0,,{\i1}Ne kadar zayıfım...
+Dialogue: 20,0:16:26.26,0:16:28.22,Default,Toma,0,0,0,,{\i1}Değişim kuvvettir.
+Dialogue: 20,0:16:30.13,0:16:32.82,Default-Alt,Öğrenci,0,0,0,,Daha ilk ayında temsilci mi olacak?
+Dialogue: 20,0:16:32.82,0:16:34.35,Default-Alt,Eizen,0,0,0,,Etkileyiciydi, Toma.
+Dialogue: 20,0:16:34.84,0:16:38.74,Default-Alt,Eizen,0,0,0,,Geriye bir mahkumu infaz etmen kaldı,\Nardından adını listeye yazdırabiliriz.
+Dialogue: 20,0:16:39.01,0:16:40.86,Default-Alt,Eizen,0,0,0,,Hangi idam bölgesi uygundur acaba?
+Dialogue: 20,0:16:43.67,0:16:46.11,Default-Alt,Toma,0,0,0,,Bir talebim var.
+Dialogue: 20,0:16:52.61,0:16:54.31,Default-Alt,Toma,0,0,0,,Beklettiğim için üzgünüm.
+Dialogue: 20,0:16:54.59,0:16:57.01,Default-Alt,Toma,0,0,0,,Seni kurtarmaya geldim, abi.
+Dialogue: 20,0:16:57.75,0:16:59.40,Default-Alt,Çobei,0,0,0,,Ne sürdü be.
+Dialogue: 20,0:16:59.54,0:17:03.14,Default-Alt,Toma,0,0,0,,Yamadalar'a sızıp bir ayda\Nburaya kadar gelen kardeşine...
+Dialogue: 20,0:17:03.14,0:17:04.63,Default-Alt,Toma,0,0,0,,...bir teşekkür bile yok mu?
+Dialogue: 20,0:17:05.00,0:17:08.75,Default-Alt,Çobei,0,0,0,,Bir aydır biz de işkencevari \Nsorgulara dayanıyoruz burada.
+Dialogue: 20,0:17:08.75,0:17:10.77,Default-Alt,Toma,0,0,0,,Yeni faça izleri yakışmış ama.
+Dialogue: 20,0:17:11.00,0:17:13.01,Default-Alt,Çobei,0,0,0,,Ee, nasıl kaçıyoruz?
+Dialogue: 20,0:17:13.01,0:17:15.01,Default-Alt,Çobei,0,0,0,,Yargıcın elemanları taşaklı.
+Dialogue: 20,0:17:15.82,0:17:19.27,Default-Alt,Toma,0,0,0,,Peşimizden gelmelerini\Nengelleyecek bir yöntem varmış.
+Dialogue: 20,0:17:21.37,0:17:22.62,Default-Alt,Çobei,0,0,0,,Varım.
+Dialogue: 20,0:17:23.10,0:17:26.53,Default,Toma,0,0,0,,{\i1}Değişim, adaptasyon demektir.
+Dialogue: 20,0:17:27.59,0:17:28.43,Default,Toma,0,0,0,,Abi...
+Dialogue: 20,0:17:28.84,0:17:32.03,Default,Toma,0,0,0,,{\i1}Durumu hızlıca kavrayıp, değerlendirmek demektir.
+Dialogue: 20,0:17:32.40,0:17:34.91,Default,Çobei,0,0,0,,Canlı mı bu şeyler?
+Dialogue: 20,0:17:35.15,0:17:38.33,Default,Toma,0,0,0,,{\i1}Bazı durumları kavramak zor olabilir ama...
+Dialogue: 20,0:17:41.32,0:17:43.38,Default,Çobei,0,0,0,,O zaman gebertebiliriz!
+Dialogue: 20,0:17:43.79,0:17:47.88,Default,Toma,0,0,0,,{\i1}...abim her durumu kolayca \Nkavrayabilme yeteneğine sahip!
+Dialogue: 20,0:17:48.15,0:17:49.73,Default,Toma,0,0,0,,{\i1}Küçüklüğünden beri böyle.
+Dialogue: 20,0:17:50.10,0:17:51.89,Default,Toma,0,0,0,,{\i1}Babamızın itaat ettiği lort,
+Dialogue: 20,0:17:51.89,0:17:54.92,Default-Alt,Memur A,0,0,0,,{\an8}Lordun suçu, vasalının da suçudur!
+Dialogue: 20,0:17:52.32,0:17:57.27,Default,Toma,0,0,0,,{\i1}Edo Kalesinde isyan çıkarıp klanımızın\N dağılmasına yol açtığı sırada bile...
+Dialogue: 20,0:17:59.87,0:18:02.99,Default,Toma,0,0,0,,{\i1}Sefalet içinde yaşarken\N annemizi kaybettiğimizde bile...
+Dialogue: 20,0:18:04.02,0:18:09.53,Default-Alt,Çavuş,0,0,0,,Efendilerinin intikamı adına\N47 roninin tamamı idam edilecek.
+Dialogue: 20,0:18:10.98,0:18:15.78,Default,Toma,0,0,0,,{\i1}Lordunun intikamı adına\Nbabamız idam edildiğinde bile...
+Dialogue: 20,0:18:23.71,0:18:25.84,Default,Toma,0,0,0,,{\i1}Haydutların saldırısına uğradığımızda bile...
+Dialogue: 20,0:18:26.38,0:18:31.73,Default,Toma,0,0,0,,{\i1}Durumu hızlıca kavrayıp, \Nnihayetinde haydutların başına geçti.
+Dialogue: 20,0:18:32.56,0:18:35.22,Default-Alt,Yargıç,0,0,0,,Etrafın sarıldı, Haydut Kral Çobei!
+Dialogue: 20,0:18:35.64,0:18:37.97,Default-Alt,Yargıç,0,0,0,,Çık dışarı ve teslim ol!
+Dialogue: 20,0:18:38.55,0:18:40.79,Default-Alt,Çobei,0,0,0,,Toma, sen kaç.
+Dialogue: 20,0:18:41.00,0:18:41.50,Default-Alt,Toma,0,0,0,,Abi.
+Dialogue: 20,0:18:41.50,0:18:43.35,Default-Alt,Çobei,0,0,0,,Sonra da beni kurtarmaya gel.
+Dialogue: 20,0:18:44.66,0:18:46.36,Default-Alt,Çobei,0,0,0,,Sana inancım tam.
+Dialogue: 20,0:18:49.00,0:18:51.99,Default,Toma,0,0,0,,{\i1}Bu dünyada, "Güçlü, zayıfı ezer." kuralı geçerli değil.
+Dialogue: 20,0:18:52.81,0:18:54.34,Default,Toma,0,0,0,,{\i1}Uyum sağlayan hayatta kalır.
+Dialogue: 20,0:18:54.44,0:18:56.74,Default,Toma,0,0,0,,{\i1\t(1780,2322,\c&H000000&\alpha&H60&)}Gerçek güç, adapte olabilmektir.
+Dialogue: 20,0:19:00.93,0:19:01.31,Default,Toma,0,0,0,,Abi...
+Dialogue: 20,0:19:01.31,0:19:02.17,Default,Çobei,0,0,0,,Toma!
+Dialogue: 20,0:19:02.17,0:19:04.00,Default,Çobei,0,0,0,,Canavarların arasından sıyrılalım.
+Dialogue: 20,0:19:04.30,0:19:05.12,Default,Toma,0,0,0,,Tamam.
+Dialogue: 20,0:19:06.29,0:19:10.44,Default,Toma,0,0,0,,{\i1}Kavrayamadığın bir durumdan \Nkaçmak da yine doğru bir karar olabilir.
+Dialogue: 20,0:19:11.47,0:19:13.88,Default,Toma,0,0,0,,{\i1}Konu değişim olunca abim tam bir dahi.
+Dialogue: 20,0:19:14.47,0:19:16.76,Default,Toma,0,0,0,,{\i1}Değişmeyen tek şey...
+Dialogue: 20,0:19:22.86,0:19:24.14,Default,Toma,0,0,0,,Abi...
+Dialogue: 20,0:19:28.29,0:19:30.33,Default,Toma,0,0,0,,{\i1}Değişebilmek kuvvettir.
+Dialogue: 20,0:19:32.67,0:19:36.78,Default,Toma,0,0,0,,{\i1}Değişemeyenlere ihtiyaç yok bu dünyada.
+Dialogue: 20,0:19:38.01,0:19:42.50,Default,Toma,0,0,0,,{\i1}Abimi güçlü kılan da tam olarak bu işte.
+Dialogue: 20,0:19:43.47,0:19:44.75,Default,Toma,0,0,0,,Kodumun canavarları!
+Dialogue: 20,0:19:44.75,0:19:46.83,Default,Toma,0,0,0,,Beni geçemezsiniz!
+Dialogue: 20,0:19:53.21,0:19:56.54,Default,Çobei,0,0,0,,Canavarlara en layık silah da \Ncanavarların silahı oluyor ya.
+Dialogue: 20,0:19:56.54,0:19:57.60,Default,Toma,0,0,0,,Abi...
+Dialogue: 20,0:19:57.60,0:20:01.51,Default,Çobei,0,0,0,,Sayende şunlardan birinin\Nsilahını kapacak vakit kazandım.
+Dialogue: 20,0:20:03.73,0:20:04.99,Default,Toma,0,0,0,,Abi!
+Dialogue: 20,0:20:05.88,0:20:06.46,Default,Toma,0,0,0,,Abi! {\alpha&HFF&}Abi! Abi! Abi!
+Dialogue: 20,0:20:06.46,0:20:06.88,Default,Toma,0,0,0,,Abi! Abi! {\alpha&HFF&}Abi! Abi!
+Dialogue: 20,0:20:06.88,0:20:07.70,Default,Toma,0,0,0,,Abi! Abi! Abi! {\alpha&HFF&}Abi!
+Dialogue: 20,0:20:07.70,0:20:08.76,Default,Toma,0,0,0,,Abi! Abi! Abi! Abi!
+Dialogue: 20,0:20:11.81,0:20:13.57,Default,Kamagami,0,0,0,,Cinayet günahtır.
+Dialogue: 20,0:20:15.88,0:20:18.43,Default,Kamagami,0,0,0,,Böceklerin de canı var.
+Dialogue: 20,0:20:18.43,0:20:20.05,Default,Kamagami,0,0,0,,Balıkların da var.
+Dialogue: 20,0:20:20.24,0:20:22.04,Default,Kamagami,0,0,0,,{\an8}Canlarını yakmamalısın.
+Dialogue: 20,0:20:21.01,0:20:22.99,Default,Çobei,0,0,0,,Konuşabiliyo' mu lan bunlar?
+Dialogue: 20,0:20:22.36,0:20:24.01,Default,Kamagami,0,0,0,,{\an8}Cinayet günahtır.
+Dialogue: 20,0:20:23.62,0:20:27.57,Default,Toma,0,0,0,,Abi, bunlar gerçekten tanrı mı yoksa?
+Dialogue: 20,0:20:27.83,0:20:31.67,Default,Toma,0,0,0,,Burası cennet değil de... Cehennem olmasın?
+Dialogue: 20,0:20:31.99,0:20:34.80,Default,Toma,0,0,0,,Günahkarların ilahi cezaya \Nçarptırıldıkları yerde miyiz?..
+Dialogue: 20,0:20:38.01,0:20:40.64,Default-Alt,Memur A,0,0,0,,Lordun suçu, vasalının da suçudur!
+Dialogue: 20,0:20:41.01,0:20:42.39,Default-Alt,Çavuş,0,0,0,,Hepsi idam edilmeli!
+Dialogue: 20,0:20:42.39,0:20:44.97,Default-Alt,Yargıç,0,0,0,,Suçlu Çobei'yi yakalayın!
+Dialogue: 20,0:20:47.53,0:20:51.73,Default,Çobei,0,0,0,,Kafamı şişirdiniz ulan!\NGünah, günah, günah...
+Dialogue: 20,0:20:54.00,0:20:55.19,Default,Çobei,0,0,0,,Şeytanmış, günahmış!
+Dialogue: 20,0:20:55.36,0:20:56.99,Default,Çobei,0,0,0,,Çok da sikimde!
+Dialogue: 20,0:20:56.99,0:20:59.11,Default,Çobei,0,0,0,,Hepsine siz karar vermiyor musunuz sanki!?
+Dialogue: 20,0:20:59.88,0:21:02.49,Default,Çobei,0,0,0,,Doğrunun köpeği olmuşsunuz siz!
+Dialogue: 20,0:21:02.49,0:21:05.62,Default,Çobei,0,0,0,,Arzusu bile olmayan kuklalarsınız siz!
+Dialogue: 20,0:21:06.39,0:21:08.72,Default,Çobei,0,0,0,,Bu yaştan sonra sizden emir falan almam ben.
+Dialogue: 20,0:21:09.00,0:21:11.79,Default,Çobei,0,0,0,,Keyfim ne istiyorsa onu yapacağım!
+Dialogue: 20,0:21:13.58,0:21:15.59,Default,Çobei,0,0,0,,Ben kendimin lorduyum!
+Dialogue: 20,0:21:16.01,0:21:18.86,Default,Çobei,0,0,0,,Ben kendimin tanrısıyım!
+Dialogue: 20,0:21:19.73,0:21:21.84,Default,Toma,0,0,0,,{\i1}Abimin gücü değişim.
+Dialogue: 20,0:21:22.17,0:21:26.10,Default,Toma,0,0,0,,{\i1}Değişebildiği için insanların gözüne batar.
+Dialogue: 20,0:21:26.71,0:21:29.14,Default,Toma,0,0,0,,{\i1}Asla bükülmeyen o benliği sayesinde...
+Dialogue: 20,0:21:29.58,0:21:32.36,Default-Alt,Genç Toma,0,0,0,,Anne, baba...
+Dialogue: 20,0:21:33.01,0:21:35.36,Default-Alt,Genç Toma,0,0,0,,Köşke dönmek istiyorum.
+Dialogue: 20,0:21:36.42,0:21:39.72,Default-Alt,Genç Toma,0,0,0,,Samuray çocuklarıyken birdenbire haydut olduk.
+Dialogue: 20,0:21:40.72,0:21:45.37,Default-Alt,Genç Toma,0,0,0,,Artık doğruyla yanlışı ayırt edemiyorum.
+Dialogue: 20,0:21:51.16,0:21:52.77,Default-Alt,Genç Çobei,0,0,0,,Ağlama, Toma!
+Dialogue: 20,0:21:52.77,0:21:54.50,Default-Alt,Genç Çobei,0,0,0,,Zayıflığını gösterirsen ölürsün!
+Dialogue: 20,0:21:54.87,0:21:57.76,Default-Alt,Genç Çobei,0,0,0,,Neyin doğru olduğunu \Nbilmiyorsan, bana güven yeter.
+Dialogue: 20,0:21:58.34,0:21:59.89,Default-Alt,Genç Çobei,0,0,0,,Ben abinim senin.
+Dialogue: 20,0:21:59.89,0:22:02.00,Default-Alt,Genç Çobei,0,0,0,,Abiler, kardeşlerine yol gösterir.
+Dialogue: 20,0:22:02.34,0:22:04.26,Default-Alt,Genç Çobei,0,0,0,,Ben her zaman haklıyımdır.
+Dialogue: 20,0:22:07.93,0:22:12.27,Default,Çobei,0,0,0,,Böyle canavarlar var olduğuna göre\Niksir de gerçektir herhalde.
+Dialogue: 20,0:22:13.00,0:22:14.00,Default,Çobei,0,0,0,,Güzel.
+Dialogue: 20,0:22:14.56,0:22:15.85,Default,Çobei,0,0,0,,Kararımı verdim.
+Dialogue: 20,0:22:15.85,0:22:19.02,Default,Çobei,0,0,0,,Canavarları da mahkumları da katledeceğiz.
+Dialogue: 20,0:22:19.02,0:22:22.28,Default,Çobei,0,0,0,,Bu sayede kimse iksiri ararken bize karışamaz.
+Dialogue: 20,0:22:22.71,0:22:25.55,Default,Çobei,0,0,0,,İksiri bulup kendimiz içeceğiz.
+Dialogue: 20,0:22:25.86,0:22:31.29,Default,Çobei,0,0,0,,Hayatımıza artık ölüm bile karışamayacak.
+Dialogue: 20,0:22:35.47,0:22:37.66,Default,Toma,0,0,0,,O kadar kolay olacak mı ki?
+Dialogue: 20,0:22:37.88,0:22:38.50,Default,Çobei,0,0,0,,Ne?
+Dialogue: 20,0:22:39.15,0:22:41.01,Default,Toma,0,0,0,,Burası tehlikeli bir ada.
+Dialogue: 20,0:22:41.36,0:22:45.76,Default,Toma,0,0,0,,Bundan sonra önümüze çıkanlar, \Nbu tehlikeleri atlatanlar olacak.
+Dialogue: 20,0:22:46.41,0:22:49.02,Default,Toma,0,0,0,,İşte bu yüzden tehlikeli.
+Dialogue: 20,0:22:50.47,0:22:54.01,Default,Toma,0,0,0,,{\fad(0,400)}Zayıflar çoktan ayıklanmıştır bile.
+Comment: 0,0:03:49.04,0:05:18.46,Default,,0,0,0,,{op}
+Dialogue: 0,0:03:50.46,0:03:52.30,OP,,0,0,0,,{\fad(120,100)\blur1}Özgür yanını
+Dialogue: 0,0:03:52.59,0:03:54.46,OP,,0,0,0,,{\fad(120,100)\blur1}göster bana yaşamanın
+Dialogue: 0,0:03:54.96,0:03:56.80,OP,,0,0,0,,{\fad(120,100)\blur1}Güvencesizse
+Dialogue: 0,0:03:57.59,0:03:59.09,OP,,0,0,0,,{\fad(120,100)\blur1}buruştur at çöpe
+Dialogue: 0,0:03:59.64,0:04:01.35,OP,,0,0,0,,{\fad(120,100)\blur1}Söylentiler mi?
+Dialogue: 0,0:04:01.64,0:04:03.39,OP,,0,0,0,,{\fad(120,100)\blur1}Hiç takma kafana!
+Dialogue: 0,0:04:04.22,0:04:06.10,OP,,0,0,0,,{\fad(120,100)\blur1}Hedefe ulaş da
+Dialogue: 0,0:04:06.73,0:04:08.35,OP,,0,0,0,,{\fad(120,100)\blur1}bakalım olanlara
+Dialogue: 0,0:04:08.35,0:04:10.36,OP,,0,0,0,,{\fad(120,100)\blur1}Manastırda boş beş neden
+Dialogue: 0,0:04:10.61,0:04:12.65,OP,,0,0,0,,{\fad(120,100)\blur1}beşi birden bize beden
+Dialogue: 0,0:04:12.86,0:04:17.28,OP,,0,0,0,,{\fad(120,100)\blur1}Adımı anlar ancak idrak edebilen
+Dialogue: 0,0:04:17.45,0:04:19.57,OP,,0,0,0,,{\fad(120,100)\blur1}Sen taktikle uğraşırken
+Dialogue: 0,0:04:19.82,0:04:21.91,OP,,0,0,0,,{\fad(120,100)\blur1}Yetinirim bir zarla ben
+Dialogue: 0,0:04:22.08,0:04:28.67,OP,,0,0,0,,{\fad(120,100)\blur1}Zorla istersen, başka türlü zor fark etmen
+Dialogue: 0,0:04:26.08,0:04:28.67,OP2,,0,0,0,,{\fad(120,100)\blur1}Sıkıştık kaldık, dönüp duruyoruz burada
+Dialogue: 0,0:04:28.67,0:04:30.71,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&&H2599E0&&}Etrafımız sarılı fare ve sıçanlarla
+Dialogue: 0,0:04:30.83,0:04:32.67,OP2,,0,0,0,,{\fad(120,100)\blur1}Wake up bankers, çıkın parayı!
+Dialogue: 0,0:04:32.67,0:04:35.46,OP2,,0,0,0,,{\fad(120,100)\blur1}Sözlerim vurur yüze yumruk gibi
+Dialogue: 0,0:04:35.46,0:04:37.42,OP2,,0,0,0,,{\fad(120,100)\blur1}Uyanın rüyanızdan
+Dialogue: 0,0:04:37.63,0:04:40.05,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H2C295E&}Dik durun, my fav people!
+Dialogue: 0,0:04:40.26,0:04:42.30,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H2457C2&\3c&HFFFFFF&\4c&HFFFFFF&)}Affet beni,
+Dialogue: 0,0:04:42.30,0:04:44.64,OP,,0,0,0,,{\fad(120,100)\blur1}arındır günahlarımdan!
+Dialogue: 0,0:04:44.72,0:04:46.93,OP,,0,0,0,,{\fad(120,100)\blur1}ve yargıla
+Dialogue: 0,0:04:45.85,0:04:47.23,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H86B8EA&\t(1000,1200,\3c&H00000&)}Yargıla beni
+Dialogue: 0,0:04:46.93,0:04:49.23,OP,,0,0,0,,{\fad(120,100)\blur1}Nasıl olması gerekiyorsa
+Dialogue: 0,0:04:49.23,0:04:51.48,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H79634A&\3c&HFFFFFF&\4c&HFFFFFF&)}Azarla beni
+Dialogue: 0,0:04:51.48,0:04:53.82,OP,,0,0,0,,{\fad(120,100)\blur1}Şayet affedildiysem,
+Dialogue: 0,0:04:53.82,0:04:59.86,OP,,0,0,0,,{\fad(120,100)\blur1}tadını çıkarmak istiyorum hayatın yanımda sevdiğim adamla!
+Dialogue: 0,0:05:00.07,0:05:02.16,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H275F94&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:05:02.16,0:05:03.58,OP,,0,0,0,,{\fad(0,0)\blur1}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:05:03.58,0:05:04.37,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H4779DC&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:05:04.66,0:05:05.08,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H1F69BC&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:05:05.08,0:05:06.58,OP,,0,0,0,,{\fad(0,0)\blur1}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:05:06.58,0:05:07.83,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H838DBA&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:05:07.83,0:05:08.91,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H92B8BB&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:05:09.21,0:05:10.33,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:05:10.33,0:05:11.46,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H7099AA&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:05:11.46,0:05:12.46,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:05:12.46,0:05:13.38,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H573C6C&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:05:13.75,0:05:13.96,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H573C6C&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:05:13.96,0:05:16.30,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H342560&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:05:16.30,0:05:18.46,OP,,0,0,0,,{\fad(0,380)\blur1\3c&H151742&}Doya doya yaşa, günler sayılı olsa da!
+Comment: 0,0:22:55.81,0:24:24.99,YD,,0,0,0,,{ed}
+Dialogue: 0,0:22:55.56,0:23:00.15,ed 1,,0,0,0,,{\fad(250,350)}Saklamayı denedim
+Dialogue: 0,0:23:00.74,0:23:04.07,ed 1,,0,0,0,,{\fad(250,350)}İmkansız sanmıştım
+Dialogue: 0,0:23:04.07,0:23:08.74,ed 1,,0,0,0,,{\fad(250,350)}Utancımı bahane etmiştim
+Dialogue: 0,0:23:08.74,0:23:14.04,ed 1,,0,0,0,,{\fad(150,350)}Ama sen bana akışına bırak dedin ve
+Dialogue: 0,0:23:14.71,0:23:21.67,ed 1,,0,0,0,,{\fad(250,350)}Kırgın kalbimi iyileştirdin, eski haline getirdin
+Dialogue: 0,0:23:21.67,0:23:23.76,ed 1,,0,0,0,,{\fad(250,350)}Kırdın tabuları
+Dialogue: 0,0:23:23.93,0:23:28.81,ed 2,,0,0,0,,{\fad(250,350)}Bu çıtkırıldım kalp ile
+Dialogue: 0,0:23:28.89,0:23:35.98,ed 2,,0,0,0,,{\fad(250,350)}Böyle duygulara dayanması zor
+Dialogue: 0,0:23:39.52,0:23:41.69,ed 2,,0,0,0,,{\fad(250,350)}Keşke artık
+Dialogue: 0,0:23:41.86,0:23:45.41,ed 2,,0,0,0,,{\fad(250,350)}Yarınların sonu gelse
+Dialogue: 0,0:23:45.41,0:23:49.08,ed 2,,0,0,0,,{\fad(250,350)}Rüyalarda kaybolsak keşke
+Dialogue: 0,0:23:49.08,0:23:55.96,ed 1,,0,0,0,,{\fad(250,350)}Bugün bir başkası olmasa aklında
+Dialogue: 0,0:23:55.96,0:23:59.63,ed 1,,0,0,0,,{\fad(250,350)}Yüreğimde var bir dilek
+Dialogue: 0,0:23:59.63,0:24:02.92,ed 1,,0,0,0,,{\fad(250,350)}Keşke gerçek olsa dediğim
+Dialogue: 0,0:24:03.05,0:24:09.97,ed 1,,0,0,0,,{\fad(150,350)}Bir gün sesi duyulsa, ulaşsa sana keşke
+Dialogue: 0,0:24:09.97,0:24:13.56,ed 1,,0,0,0,,{\fad(250,350)}Kaç kez incinsen de
+Dialogue: 0,0:24:13.73,0:24:17.10,ed 1,,0,0,0,,{\fad(250,350)}Korumaya çalıştığın aşk
+Dialogue: 0,0:24:17.10,0:24:24.94,ed 2,,0,0,0,,{\fad(250,350)}Bir gün kollarını dolayacak sana bile
+Comment: 0,0:00:00.00,0:00:00.02,YD,,0,0,0,,{yd}
+Dialogue: 0,0:05:19.47,0:05:26.47,Baslik,,0,0,0,,{\fad(517,477)\blur0.5}Cennet ve Cehennem
+Dialogue: 0,0:16:20.96,0:16:24.96,Orta,,0,0,0,,{\blur0.7}Cehennet
+Dialogue: 0,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur1.5\pos(960,540)\c&H2F3433&\p1}m 634.87 302.92 l 1182.17 302.92 1182.17 698.01 634.87 698.01
+Dialogue: 1,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur0.8\pos(1595,723)\c&&HEBECE9&&\p1}m -0.12 119.82 l 521.66 119.82 521.66 489.9 -0.12 489.9
+Dialogue: 2,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur0.8\fnHiraginoGyoDSTR\fs54\pos(1595,723)\c&H3C3D3E&\1a&HFE\4c&H507B53&\yshad-1}Kademe 9 Sınayıcı,
+Dialogue: 2,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur0.8\fnHiraginoGyoDSTR\fs54\pos(1595,811)\c&H3C3D3E&\1a&HFE\4c&H507B53&\yshad-1}Yamada Asaemon'u
+Dialogue: 2,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur0.8\fnHiraginoGyoDSTR\fs94\pos(1595,918.2)\c&H3C3D3E&\1a&HFE\4c&H507B53&\yshad-1}Fuçi
+Dialogue: 3,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur0.8\fnHiraginoGyoDSTR\fs54\pos(1595,723)\c&H3C3D3E&}Kademe 9 Sınayıcı,
+Dialogue: 3,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur0.8\fnHiraginoGyoDSTR\fs54\pos(1595,811)\c&H3C3D3E&}Yamada Asaemon'u
+Dialogue: 3,0:01:48.25,0:01:51.35,YD,,0,0,0,,{\fad(250,250)\blur0.8\fnHiraginoGyoDSTR\fs94\pos(1595,918.2)\c&H3C3D3E&}Fuçi
+Dialogue: 0,0:10:43.96,0:10:47.59,YD,,0,0,0,,{\fad(300,200)\blur2.5\pos(960,540)\p1}m 657.2 341.71 l 1130 341.71 1130 682.73 657.2 682.73
+Dialogue: 1,0:10:43.96,0:10:47.59,YD,,0,0,0,,{\fad(300,200)\blur1.2\pos(960,540)\p1\c&HEBECE9&}m 657.59 342.15 l 1109.43 342.15 1109.43 663.01 657.59 663.01
+Dialogue: 3,0:10:43.96,0:10:47.59,YD,,0,0,0,,{\fad(300,200)\blur0.8\fnHiraginoGyoDSTR\fs41.58\c&H3C3D3E&)\pos(1619,786.3)}Kademe 8 Sınayıcı,
+Dialogue: 3,0:10:43.96,0:10:47.59,YD,,0,0,0,,{\fad(300,200)\blur0.8\fnHiraginoGyoDSTR\fs41.58\c&H3C3D3E&\pos(1619,838.21)}Yamada Asaemon'u
+Dialogue: 3,0:10:43.96,0:10:47.59,YD,,0,0,0,,{\fad(300,200)\blur0.8\fnHiraginoGyoDSTR\fs72.38\c&H3C3D3E&\pos(1619,939.53)}Genji
+Dialogue: 0,0:11:18.58,0:11:18.99,YD,,0,0,0,,{\fad(300,0)\blur1.5\pos(960,540)\c&H2F3433&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 1,0:11:18.58,0:11:18.99,YD,,0,0,0,,{\fad(300,0)\blur1.2\pos(960,540)\p1\c&&HEBECE9&&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 3,0:11:18.58,0:11:18.99,YD,,0,0,0,,{\fad(300,0)\blur1\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1506,595)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:18.58,0:11:18.99,YD,,0,0,0,,{\fad(300,0)\blur1\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1506,691)}Yamada Asaemon'u
+Dialogue: 3,0:11:18.58,0:11:18.99,YD,,0,0,0,,{\fad(300,0)\blur1\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1506,841.4)}Senta
+Dialogue: 0,0:11:18.99,0:11:19.08,YD,,0,0,0,,{\blur1.5\pos(960,540)\c&H2F3433&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 1,0:11:18.99,0:11:19.08,YD,,0,0,0,,{\blur1.2\pos(960,540)\p1\c&&HEBECE9&&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 3,0:11:18.99,0:11:19.08,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1506,595)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:18.99,0:11:19.08,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1506,691)}Yamada Asaemon'u
+Dialogue: 3,0:11:18.99,0:11:19.08,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1506,841.4)}Senta
+Dialogue: 0,0:11:19.08,0:11:19.16,YD,,0,0,0,,{\blur1.5\pos(960,540)\c&H2F3433&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 1,0:11:19.08,0:11:19.16,YD,,0,0,0,,{\blur1.2\pos(960,540)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 3,0:11:19.08,0:11:19.16,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1506,595)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:19.08,0:11:19.16,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1506,691)}Yamada Asaemon'u
+Dialogue: 3,0:11:19.08,0:11:19.16,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1506,841.4)}Senta
+Dialogue: 0,0:11:19.16,0:11:19.87,YD,,0,0,0,,{\blur1.5\pos(960,540)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 1,0:11:19.16,0:11:19.87,YD,,0,0,0,,{\blur1.2\pos(960,540)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 3,0:11:19.16,0:11:19.87,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1506,595)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:19.16,0:11:19.87,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1506,691)}Yamada Asaemon'u
+Dialogue: 3,0:11:19.16,0:11:19.87,YD,,0,0,0,,{\blur0.8\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1506,841.4)}Senta
+Dialogue: 0,0:11:19.86,0:11:19.90,YD,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\blur1.5\pos(960,540)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:19.90,0:11:19.95,YD,,0,0,0,,{\fscy98.13\frz0\fscx98.13\alpha&H00&\blur1.47\pos(953.26,540.18)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:19.95,0:11:19.99,YD,,0,0,0,,{\fscy91.43\frz0\fscx91.43\alpha&H00&\blur1.37\pos(929.13,541.97)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:19.99,0:11:20.03,YD,,0,0,0,,{\fscy80.73\frz0\fscx80.73\alpha&H00&\blur1.21\pos(890.64,544.02)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.03,0:11:20.07,YD,,0,0,0,,{\fscy68.71\frz0\fscx68.71\alpha&H00&\blur1.03\pos(847.37,545.95)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.07,0:11:20.11,YD,,0,0,0,,{\fscy59.47\frz0\fscx59.47\alpha&H09&\blur0.89\pos(814.08,547.62)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.11,0:11:20.15,YD,,0,0,0,,{\fscy54.23\frz0\fscx54.23\alpha&H2B&\blur0.81\pos(795.2,548.68)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.15,0:11:20.20,YD,,0,0,0,,{\fscy51.83\frz0\fscx51.83\alpha&H4D&\blur0.78\pos(786.55,548.76)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.20,0:11:20.24,YD,,0,0,0,,{\fscy50.89\frz0\fscx50.89\alpha&H77&\blur0.76\pos(783.19,548.52)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.24,0:11:20.28,YD,,0,0,0,,{\fscy50.29\frz0\fscx50.29\alpha&H99&\blur0.75\pos(781.03,548.74)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.28,0:11:20.32,YD,,0,0,0,,{\fscy50.3\frz0\fscx50.3\alpha&HBB&\blur0.75\pos(781.02,547.9)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 0,0:11:20.32,0:11:20.36,YD,,0,0,0,,{\fscy49.68\frz0\fscx49.68\alpha&HDD&\blur0.75\pos(778.85,548.55)\c&H1A1B16&\p1}m 545.28 189.18 l 1273.49 189.18 1273.49 713.19 545.28 713.19
+Dialogue: 1,0:11:19.86,0:11:19.90,YD,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\blur1.2\pos(960,540)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:19.90,0:11:19.95,YD,,0,0,0,,{\fscy98.13\frz0\fscx98.13\alpha&H00&\blur1.18\pos(953.26,540.18)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:19.95,0:11:19.99,YD,,0,0,0,,{\fscy91.43\frz0\fscx91.43\alpha&H00&\blur1.1\pos(929.13,541.97)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:19.99,0:11:20.03,YD,,0,0,0,,{\fscy80.73\frz0\fscx80.73\alpha&H00&\blur0.97\pos(890.64,544.02)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.03,0:11:20.07,YD,,0,0,0,,{\fscy68.71\frz0\fscx68.71\alpha&H00&\blur0.82\pos(847.37,545.95)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.07,0:11:20.11,YD,,0,0,0,,{\fscy59.47\frz0\fscx59.47\alpha&H09&\blur0.71\pos(814.08,547.62)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.11,0:11:20.15,YD,,0,0,0,,{\fscy54.23\frz0\fscx54.23\alpha&H2B&\blur0.65\pos(795.2,548.68)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.15,0:11:20.20,YD,,0,0,0,,{\fscy51.83\frz0\fscx51.83\alpha&H4D&\blur0.62\pos(786.55,548.76)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.20,0:11:20.24,YD,,0,0,0,,{\fscy50.89\frz0\fscx50.89\alpha&H77&\blur0.61\pos(783.19,548.52)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.24,0:11:20.28,YD,,0,0,0,,{\fscy50.29\frz0\fscx50.29\alpha&H99&\blur0.6\pos(781.03,548.74)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.28,0:11:20.32,YD,,0,0,0,,{\fscy50.3\frz0\fscx50.3\alpha&HBB&\blur0.6\pos(781.02,547.9)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 1,0:11:20.32,0:11:20.36,YD,,0,0,0,,{\fscy49.68\frz0\fscx49.68\alpha&HDD&\blur0.6\pos(778.85,548.55)\p1\c&HEBECE9&}m 545.29 189.58 l 1241 189.58 1241 681.52 545.29 681.52
+Dialogue: 3,0:11:19.86,0:11:19.90,YD,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1506,595)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:19.90,0:11:19.95,YD,,0,0,0,,{\fscy98.13\frz0\fscx98.13\alpha&H00&\blur0.79\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1489.04,594.15)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:19.95,0:11:19.99,YD,,0,0,0,,{\fscy91.43\frz0\fscx91.43\alpha&H00&\blur0.73\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1428.33,592.25)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:19.99,0:11:20.03,YD,,0,0,0,,{\fscy80.73\frz0\fscx80.73\alpha&H00&\blur0.65\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1331.42,588.42)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.03,0:11:20.07,YD,,0,0,0,,{\fscy68.71\frz0\fscx68.71\alpha&H00&\blur0.55\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1222.54,583.74)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.07,0:11:20.11,YD,,0,0,0,,{\fscy59.47\frz0\fscx59.47\alpha&H09&\blur0.48\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1138.76,580.32)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.11,0:11:20.15,YD,,0,0,0,,{\fscy54.23\frz0\fscx54.23\alpha&H2B&\blur0.43\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1091.3,578.51)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.15,0:11:20.20,YD,,0,0,0,,{\fscy51.83\frz0\fscx51.83\alpha&H4D&\blur0.41\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1069.53,577.27)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.20,0:11:20.24,YD,,0,0,0,,{\fscy50.89\frz0\fscx50.89\alpha&H77&\blur0.41\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1061.07,576.51)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.24,0:11:20.28,YD,,0,0,0,,{\fscy50.29\frz0\fscx50.29\alpha&H99&\blur0.4\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1055.6,576.4)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.28,0:11:20.32,YD,,0,0,0,,{\fscy50.3\frz0\fscx50.3\alpha&HBB&\blur0.4\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1055.64,575.56)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:20.32,0:11:20.36,YD,,0,0,0,,{\fscy49.68\frz0\fscx49.68\alpha&HDD&\blur0.4\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&)\pos(1050.12,575.87)}Kademe 5 Sınayıcı,
+Dialogue: 3,0:11:19.86,0:11:19.90,YD,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\blur0.8\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1506,691)}Yamada Asaemon'u
+Dialogue: 3,0:11:19.90,0:11:19.95,YD,,0,0,0,,{\fscy98.13\frz0\fscx98.13\alpha&H00&\blur0.79\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1489.04,688.35)}Yamada Asaemon'u
+Dialogue: 3,0:11:19.95,0:11:19.99,YD,,0,0,0,,{\fscy91.43\frz0\fscx91.43\alpha&H00&\blur0.73\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1428.33,680.02)}Yamada Asaemon'u
+Dialogue: 3,0:11:19.99,0:11:20.03,YD,,0,0,0,,{\fscy80.73\frz0\fscx80.73\alpha&H00&\blur0.65\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1331.42,665.92)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.03,0:11:20.07,YD,,0,0,0,,{\fscy68.71\frz0\fscx68.71\alpha&H00&\blur0.55\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1222.54,649.71)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.07,0:11:20.11,YD,,0,0,0,,{\fscy59.47\frz0\fscx59.47\alpha&H09&\blur0.48\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1138.76,637.41)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.11,0:11:20.15,YD,,0,0,0,,{\fscy54.23\frz0\fscx54.23\alpha&H2B&\blur0.43\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1091.3,630.57)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.15,0:11:20.20,YD,,0,0,0,,{\fscy51.83\frz0\fscx51.83\alpha&H4D&\blur0.41\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1069.53,627.02)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.20,0:11:20.24,YD,,0,0,0,,{\fscy50.89\frz0\fscx50.89\alpha&H77&\blur0.41\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1061.07,625.37)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.24,0:11:20.28,YD,,0,0,0,,{\fscy50.29\frz0\fscx50.29\alpha&H99&\blur0.4\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1055.6,624.68)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.28,0:11:20.32,YD,,0,0,0,,{\fscy50.3\frz0\fscx50.3\alpha&HBB&\blur0.4\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1055.64,623.85)}Yamada Asaemon'u
+Dialogue: 3,0:11:20.32,0:11:20.36,YD,,0,0,0,,{\fscy49.68\frz0\fscx49.68\alpha&HDD&\blur0.4\fnHiraginoGyoDSTR\fs65\c&H3C3D3E&\pos(1050.12,623.57)}Yamada Asaemon'u
+Dialogue: 3,0:11:19.86,0:11:19.90,YD,,0,0,0,,{\fscy100\frz0\fscx100\alpha&H00&\blur0.8\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1506,841.4)}Senta
+Dialogue: 3,0:11:19.90,0:11:19.95,YD,,0,0,0,,{\fscy98.13\frz0\fscx98.13\alpha&H00&\blur0.79\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1489.04,835.93)}Senta
+Dialogue: 3,0:11:19.95,0:11:19.99,YD,,0,0,0,,{\fscy91.43\frz0\fscx91.43\alpha&H00&\blur0.73\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1428.33,817.53)}Senta
+Dialogue: 3,0:11:19.99,0:11:20.03,YD,,0,0,0,,{\fscy80.73\frz0\fscx80.73\alpha&H00&\blur0.65\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1331.42,787.34)}Senta
+Dialogue: 3,0:11:20.03,0:11:20.07,YD,,0,0,0,,{\fscy68.71\frz0\fscx68.71\alpha&H00&\blur0.55\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1222.54,753.05)}Senta
+Dialogue: 3,0:11:20.07,0:11:20.11,YD,,0,0,0,,{\fscy59.47\frz0\fscx59.47\alpha&H09&\blur0.48\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1138.76,726.85)}Senta
+Dialogue: 3,0:11:20.11,0:11:20.15,YD,,0,0,0,,{\fscy54.23\frz0\fscx54.23\alpha&H2B&\blur0.43\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1091.3,712.13)}Senta
+Dialogue: 3,0:11:20.15,0:11:20.20,YD,,0,0,0,,{\fscy51.83\frz0\fscx51.83\alpha&H4D&\blur0.41\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1069.53,704.97)}Senta
+Dialogue: 3,0:11:20.20,0:11:20.24,YD,,0,0,0,,{\fscy50.89\frz0\fscx50.89\alpha&H77&\blur0.41\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1061.07,701.91)}Senta
+Dialogue: 3,0:11:20.24,0:11:20.28,YD,,0,0,0,,{\fscy50.29\frz0\fscx50.29\alpha&H99&\blur0.4\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1055.6,700.31)}Senta
+Dialogue: 3,0:11:20.28,0:11:20.32,YD,,0,0,0,,{\fscy50.3\frz0\fscx50.3\alpha&HBB&\blur0.4\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1055.64,699.49)}Senta
+Dialogue: 3,0:11:20.32,0:11:20.36,YD,,0,0,0,,{\fscy49.68\frz0\fscx49.68\alpha&HDD&\blur0.4\fnHiraginoGyoDSTR\fs88\c&H3C3D3E&\pos(1050.12,698.29)}Senta
