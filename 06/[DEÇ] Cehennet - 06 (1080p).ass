@@ -1,0 +1,687 @@
+﻿[Script Info]
+Title: Dantel Entel
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Commie Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H5F591720,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Default-Alt,Commie Sans,70,&H00FFFFFF,&H000000FF,&H003D0107,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: ed 1,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,0.5,1,40,40,35,0
+Style: ed 2,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,3,40,40,35,0
+Style: OP,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B000000,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: OP2,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B76441A,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,2,30,30,30,1
+Style: YD,Averia Libre,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,1,1,1,1
+Style: Maske,Averia Libre,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,1,1,1,1
+Style: Baslik,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,3,1,60,150,1
+Style: Orta,Dry Brush,205,&H00070001,&H00FFFFFF,&H00FFFFFF,&H00AF82E4,-1,0,0,0,100,100,0,0,1,0,0,2,570,0,5,1
+Style: Ninpo,High Fighter,77,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,5,1,1,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,İmza,0,0,0,,{Çeviri: Einherjar}{Çeviri Editörü: Vuats}{Yazı Dizimi: Vuats}{Zamanlama: Vuats}{Açılış Şarkısı: Einherjar}{Kapanış Şarkısı: Vuats}{Son Kontrol: Fei}{https://github.com/DantelEntel}
+Dialogue: 20,0:01:47.37,0:01:50.72,Default-Alt,Baba,0,0,0,,Ne de güzel yiyor, aferin oğluma.
+Dialogue: 20,0:01:51.39,0:01:53.75,Default-Alt,Anne,0,0,0,,Koca adam olasın, Rokurota.
+Dialogue: 20,0:01:55.76,0:01:58.84,Default-Alt,Anne,0,0,0,,Bak sen, atıştırmalıklar \Nbitti diye oynamaya mı başlamış?
+Dialogue: 20,0:02:18.54,0:02:20.24,Default,Genji,0,0,0,,Geri çekil, Sagiri!
+Dialogue: 20,0:02:33.26,0:02:34.46,Default,Sagiri,0,0,0,,Usta Genji!
+Dialogue: 20,0:02:38.22,0:02:39.63,Default,Sagiri,0,0,0,,Acil ilk yardım gerek.
+Dialogue: 20,0:02:40.30,0:02:42.72,Default,Genji,0,0,0,,Kaç, Sagiri.
+Dialogue: 20,0:02:43.76,0:02:46.00,Default,Genji,0,0,0,,Benim için çok geç...
+Dialogue: 20,0:02:46.83,0:02:49.52,Default,Genji,0,0,0,,Çabuk... Kaç...
+Dialogue: 20,0:03:04.30,0:03:05.37,Default,Sagiri,0,0,0,,Gabimaru...
+Dialogue: 20,0:03:05.37,0:03:09.79,Default,Gabimaru,0,0,0,,Bu herif mahkum mu? \NYoksa canavar mı?
+Dialogue: 20,0:03:10.58,0:03:12.25,Default,Gabimaru,0,0,0,,Hiç etki etmemiş resmen.
+Dialogue: 20,0:03:12.69,0:03:16.92,Default,Sagiri,0,0,0,,O Bizen'in Devi, Rokurota.
+Dialogue: 20,0:03:17.39,0:03:19.05,Default,Sagiri,0,0,0,,Gözetmeni...
+Dialogue: 20,0:03:20.97,0:03:22.38,Default,Sagiri,0,0,0,,Usta Eizen'di.
+Dialogue: 20,0:03:26.40,0:03:28.97,Default,Gabimaru,0,0,0,,{\i1}Tıpkı avına kitlenen bir \Nyırtıcının gözlerine benziyor.
+Dialogue: 20,0:03:29.56,0:03:32.19,Default,Gabimaru,0,0,0,,{\i1}Birlikte kaçmamız zor olacak.
+Dialogue: 20,0:03:33.19,0:03:34.48,Default,Gabimaru,0,0,0,,Başka çarem yok o zaman.
+Dialogue: 20,0:03:35.31,0:03:36.57,Default,Gabimaru,0,0,0,,Öldüreceğim.
+Dialogue: 20,0:03:37.65,0:03:39.57,Default,Gabimaru,0,0,0,,{\i1}Gerçi, nasıl?
+Dialogue: 20,0:03:40.02,0:03:44.57,Default,Gabimaru,0,0,0,,{\i1}Deminki tekme etki etmediyse, \Nen az Saklı Taş'takiler kadar dayanıklıdır.
+Dialogue: 20,0:03:45.53,0:03:48.83,Default-Alt,Şef,0,0,0,,Dokuz numaralı şinobi kuralı:
+Dialogue: 20,0:03:48.83,0:03:53.63,Default-Alt,Şef,0,0,0,,{\i1\t(4278,4779,\c&H000000&\3c&H000000&\4c&H000000&)}Rakibinin yeteneklerini düzgünce analiz et.
+Dialogue: 20,0:03:54.04,0:03:56.46,Default,Gabimaru,0,0,0,,{\i1}Önce ne kadar güçlüymüş onu bi' görelim.
+Dialogue: 20,0:04:03.15,0:04:03.97,Default,Gabimaru,0,0,0,,Ha?
+Dialogue: 20,0:04:13.68,0:04:15.15,Default,Gabimaru,0,0,0,,Geri çekilmezsen öleceksin.
+Dialogue: 20,0:04:15.44,0:04:16.52,Default,Sagiri,0,0,0,,Ama...
+Dialogue: 20,0:04:17.19,0:04:19.02,Default,Gabimaru,0,0,0,,{\i1}Fiziksel açıdan beni aşar.
+Dialogue: 20,0:04:19.40,0:04:21.90,Default,Gabimaru,0,0,0,,Daha ne kadar izlemeyi düşünüyorsun, Yuzuriha?
+Dialogue: 20,0:04:22.36,0:04:23.40,Default,Gabimaru,0,0,0,,El at.
+Dialogue: 20,0:04:23.65,0:04:25.74,Default,Gabimaru,0,0,0,,Ninja teknikleri biliyorsundur herhalde.
+Dialogue: 20,0:04:25.74,0:04:27.78,Default,Gabimaru,0,0,0,,Sözleştiğimiz gibi yanımda savaş.
+Dialogue: 20,0:04:27.78,0:04:29.49,Default,Yuzuriha,0,0,0,,Tamam, tamam.
+Dialogue: 20,0:04:29.49,0:04:31.29,Default,Yuzuriha,0,0,0,,Sözümden dönecek değilim.
+Dialogue: 20,0:04:33.04,0:04:36.67,Default,Yuzuriha,0,0,0,,Siz gücünüzü, biz de bilgimizi \Nortaya koyuyorduk, di' mi?
+Dialogue: 20,0:04:37.54,0:04:39.25,Default,Yuzuriha,0,0,0,,Yaparsın sen, Gabimaru.
+Dialogue: 20,0:04:39.25,0:04:41.05,Default,Yuzuriha,0,0,0,,Kaybedeyim deme, Gabimaru.
+Dialogue: 20,0:04:41.05,0:04:42.92,Default,Yuzuriha,0,0,0,,Hadi, hadi. Hallet şunu.
+Dialogue: 20,0:04:42.92,0:04:44.72,Default,Yuzuriha,0,0,0,,Güçlüsün sen, Gabimaru.
+Dialogue: 20,0:04:44.72,0:04:46.05,Default,Yuzuriha,0,0,0,,Kolay gelsin!
+Dialogue: 20,0:04:48.72,0:04:50.37,Default,Gabimaru,0,0,0,,{\i1}Saldırı biçimi gayet basit.
+Dialogue: 20,0:04:50.37,0:04:52.68,Default,Gabimaru,0,0,0,,{\i1}Yıkıcı yumruklarına dikkat edersem...
+Dialogue: 20,0:05:03.11,0:05:04.99,Default,Gabimaru,0,0,0,,{\i1}Hareketleri ve refleksleri hızlı.
+Dialogue: 20,0:05:05.49,0:05:07.16,Default,Gabimaru,0,0,0,,{\i1}Ama kolayca sezebiliyorum.
+Dialogue: 20,0:05:07.61,0:05:09.33,Default,Gabimaru,0,0,0,,{\i1}Yumruklarına karşı koyamam.
+Dialogue: 20,0:05:09.33,0:05:10.66,Default,Gabimaru,0,0,0,,{\i1}Kaçınamazsam ölürüm.
+Dialogue: 20,0:05:10.99,0:05:11.79,Default,Gabimaru,0,0,0,,{\i1}Öyleyse...
+Dialogue: 20,0:05:12.41,0:05:14.62,Default,Gabimaru,0,0,0,,Ninpo: Taş Fırtınası
+Dialogue: 20,0:05:24.80,0:05:27.05,Default,Gabimaru,0,0,0,,{\i1}Uzak mesafe saldırıları etkisiz.
+Dialogue: 20,0:05:29.93,0:05:31.56,Default,Gabimaru,0,0,0,,{\i1}Ninpo: Esnek Kılıç
+Dialogue: 20,0:05:34.18,0:05:37.19,Default,Gabimaru,0,0,0,,{\i1}Çelik kadar sert olan Biçimsiz Kılıç\Nbile etki etmedi demek.
+Dialogue: 20,0:05:39.61,0:05:40.94,Default,Gabimaru,0,0,0,,{\i1}Başka ne yapabilirim?
+Dialogue: 20,0:05:41.27,0:05:44.19,Default,Gabimaru,0,0,0,,{\i1}Hangi uzak mesafe teknik işime yarar?
+Dialogue: 20,0:05:47.00,0:05:48.07,Default,Genji,0,0,0,,Yeter.
+Dialogue: 20,0:05:48.61,0:05:49.82,Default,Genji,0,0,0,,Anlamı yok.
+Dialogue: 20,0:05:50.41,0:05:54.08,Default,Genji,0,0,0,,Çabuk... Kaç, Sagiri.
+Dialogue: 20,0:05:54.33,0:05:55.83,Default,Sagiri,0,0,0,,Pes etmeyin lütfen.
+Dialogue: 20,0:05:55.83,0:05:58.33,Default,Sagiri,0,0,0,,Kanamayı durdurursak kurtulabilirsiniz.
+Dialogue: 20,0:05:59.31,0:06:01.17,Default,Genji,0,0,0,,Tuhaf bir kızsın.
+Dialogue: 20,0:06:02.17,0:06:06.47,Default,Genji,0,0,0,,Daha demin, esip gürlerken tıpkı bir erkek gibiydin.
+Dialogue: 20,0:06:07.84,0:06:11.10,Default,Genji,0,0,0,,Şimdiyse bir kadının şefkatine sahipsin.
+Dialogue: 20,0:06:11.10,0:06:13.47,Default,Sagiri,0,0,0,,Şu an konumuz erkeklik ya da kadınlık değil.
+Dialogue: 20,0:06:13.47,0:06:16.56,Default,Sagiri,0,0,0,,Yalnızca ustamın öğrencilerinden \Nbirinin ölmesini istemiyorum!
+Dialogue: 20,0:06:21.40,0:06:24.02,Default,Genji,0,0,0,,Seçtiğin hayat bu demek.
+Dialogue: 20,0:06:25.15,0:06:29.53,Default,Genji,0,0,0,,Kadın ya da erkek, zayıf ya da güçlü demeksizin...
+Dialogue: 20,0:06:30.07,0:06:33.87,Default,Genji,0,0,0,,...bütün karşıt kavramları\Nbir parçan olarak kabul ediyorsun.
+Dialogue: 20,0:06:34.37,0:06:36.62,Default,Genji,0,0,0,,Tam ortada olmak.
+Dialogue: 20,0:06:36.62,0:06:38.87,Default,Genji,0,0,0,,Demek inancın bu.
+Dialogue: 20,0:06:40.17,0:06:43.25,Default,Genji,0,0,0,,Sonunda... Anlayabildim.
+Dialogue: 20,0:06:46.39,0:06:48.64,Default,Genji,0,0,0,,Kılıç dediğin savaşçının ruhudur.
+Dialogue: 20,0:06:49.36,0:06:51.34,Default,Genji,0,0,0,,Ruhum sana emanet.
+Dialogue: 20,0:06:52.58,0:06:56.93,Default,Genji,0,0,0,,Rokurota muhtemelen Usta Eizen'i öldürdü.
+Dialogue: 20,0:07:00.70,0:07:05.65,Default,Genji,0,0,0,,Madem samuraysın, bundan böyle kaç demeyeceğim.
+Dialogue: 20,0:07:07.00,0:07:09.65,Default,Genji,0,0,0,,Rokurota'yı öldür...
+Dialogue: 20,0:07:11.53,0:07:15.03,Default,Genji,0,0,0,,...Yamada Asaemon'u Sagiri!
+Dialogue: 20,0:07:20.54,0:07:24.00,Default,Gabimaru,0,0,0,,{\i1}Yakın mesafede durmak tehlikeli.\NUzak mesafe saldırıları etkisiz.
+Dialogue: 20,0:07:25.04,0:07:27.30,Default,Gabimaru,0,0,0,,{\i1}Zahit Alev'i kullanabilecek\Nbir açık yakalayabilsem...
+Dialogue: 20,0:07:31.97,0:07:35.35,Default,Gabimaru,0,0,0,,{\i1}En azından bir kişi daha yardım etseydi, \Nkör noktasını bulabilirdim.
+Dialogue: 20,0:07:39.85,0:07:44.73,Default,Sagiri,0,0,0,,Kılıcını gergin kasların, tendonların \Nve kemiklerin arasından geçirirsen...
+Dialogue: 20,0:07:45.31,0:07:47.73,Default,Sagiri,0,0,0,,...her eti kesebilirsin.
+Dialogue: 20,0:07:48.01,0:07:52.49,Default,Sagiri,0,0,0,,Karşındaki ne kadar tuhaf biri olursa olsun\Nkelle kesme taktiği hep aynıdır.
+Dialogue: 20,0:07:52.49,0:07:56.08,Default,Sagiri,0,0,0,,Bedenin yapısını kavrayıp \Naralardaki boşlukları hedeflersin.
+Dialogue: 20,0:07:56.83,0:07:59.95,Default,Sagiri,0,0,0,,Yamada Asaemon'u stili budur işte.
+Dialogue: 20,0:08:01.50,0:08:02.54,Default,Sagiri,0,0,0,,Gabimaru.
+Dialogue: 20,0:08:03.00,0:08:06.25,Default,Gabimaru,0,0,0,,Güzel zamanlama. \NBen de tam yardım bekliyordum.
+Dialogue: 20,0:08:07.21,0:08:09.14,Default,Sagiri,0,0,0,,{\pos(1440,1020)}Bana destek ol.
+Dialogue: 20,0:08:07.21,0:08:09.14,Default,Gabimaru,0,0,0,,{\pos(480,1020)}Bana destek ol.
+Dialogue: 20,0:08:09.80,0:08:13.34,Default,Senta,0,0,0,,Şey, dostumun yaralarıyla \Nilgilenmek istiyorum da...
+Dialogue: 20,0:08:13.34,0:08:16.14,Default,Yuzuriha,0,0,0,,Ne? Onun işi bitti canım ya.
+Dialogue: 20,0:08:16.51,0:08:20.02,Default,Yuzuriha,0,0,0,,Ayrıca sen o tip biri değilsin, di' mi?
+Dialogue: 20,0:08:21.70,0:08:26.15,Default,Yuzuriha,0,0,0,,Onu boş ver de, bu kadar gürültüye \Nrağmen hiçbir canavarın ortaya çıktığı yok.
+Dialogue: 20,0:08:26.44,0:08:29.07,Default,Yuzuriha,0,0,0,,Onları gözlemlemek daha yararlı olmaz mıydı?
+Dialogue: 20,0:08:29.40,0:08:33.32,Default,Yuzuriha,0,0,0,,Onlar öldüğü gibi kaçarız, olur biter.
+Dialogue: 20,0:08:34.22,0:08:35.95,Default,Sagiri,0,0,0,,Kanaması durdu bile.
+Dialogue: 20,0:08:36.50,0:08:39.79,Default,Gabimaru,0,0,0,,Çok da büyük hasar vermemişiz anlaşılan.
+Dialogue: 20,0:08:40.26,0:08:42.08,Default,Gabimaru,0,0,0,,Tek darbede işini bitirmemiz lazım.
+Dialogue: 20,0:08:42.21,0:08:45.01,Default,Gabimaru,0,0,0,,Kemikleri arasındaki boşluğa \Nodaklanıp kafasını kesmeliyiz.
+Dialogue: 20,0:08:45.01,0:08:46.88,Default,Sagiri,0,0,0,,Ama ensesi çok yukarıda.
+Dialogue: 20,0:08:47.43,0:08:49.09,Default,Gabimaru,0,0,0,,O yüzden ayrılacağız.
+Dialogue: 20,0:08:49.63,0:08:52.26,Default,Gabimaru,0,0,0,,Kör noktasından bacaklarını \Nkesip diz çökmesini sağla.
+Dialogue: 20,0:08:52.26,0:08:53.92,Default,Sagiri,0,0,0,,Söylemesi çok kolay.
+Dialogue: 20,0:08:53.92,0:08:54.88,Default,Gabimaru,0,0,0,,Ha?
+Dialogue: 20,0:08:56.30,0:08:58.26,Default,Gabimaru,0,0,0,,Yapabilirsin ama, di' mi?
+Dialogue: 20,0:09:01.40,0:09:02.98,Default,Gabimaru,0,0,0,,Saldırılarını bana bırak.
+Dialogue: 20,0:09:14.85,0:09:15.40,Default,Sagiri,0,0,0,,Ne?
+Dialogue: 20,0:09:22.00,0:09:22.95,Default,Gabimaru,0,0,0,,İyi misin?
+Dialogue: 20,0:09:23.14,0:09:23.99,Default,Sagiri,0,0,0,,Evet.
+Dialogue: 20,0:09:25.00,0:09:28.13,Default,Sagiri,0,0,0,,{\i1}Hem bir idam mahkumu,\N hem de üstlerimden birinin katili.
+Dialogue: 20,0:09:30.45,0:09:33.55,Default,Sagiri,0,0,0,,{\i1}Fakat öfkeyle hareket etmek kılıcıma zarar verir.
+Dialogue: 20,0:09:34.32,0:09:35.51,Default,Sagiri,0,0,0,,{\i1}Sakin kalmalıyım.
+Dialogue: 20,0:09:35.88,0:09:38.93,Default,Sagiri,0,0,0,,{\i1}Duygularımı bir kenara bırakıp,\N mantığa yönelmeliyim.
+Dialogue: 20,0:09:42.34,0:09:44.06,Default,Gabimaru,0,0,0,,Geliyor. Tekrar.
+Dialogue: 20,0:09:48.01,0:09:49.40,Default,Gabimaru,0,0,0,,{\i1}Bacağım...
+Dialogue: 20,0:09:49.57,0:09:51.86,Default,Gabimaru,0,0,0,,{\i1}Saldırısını karşılamanın etkisi olmalı.
+Dialogue: 20,0:09:52.19,0:09:54.44,Default,Gabimaru,0,0,0,,{\i1}Tüm saldırılarından kaçınmak\N fazla meşakkatli.
+Dialogue: 20,0:09:55.21,0:09:57.47,Default,Sagiri,0,0,0,,{\i1}En basit darbeleri bile gülle gibi hissettiriyor.
+Dialogue: 20,0:09:57.87,0:09:59.41,Default,Sagiri,0,0,0,,{\i1}Sakin kalmalıyım.
+Dialogue: 20,0:09:59.41,0:10:01.42,Default,Sagiri,0,0,0,,{\i1}Yediğim tek bir darbe her şeyi bitirir.
+Dialogue: 20,0:10:05.37,0:10:08.79,Default,Sagiri,0,0,0,,Bu kadar hareketliyken kemiklerini \Nkolay kolay kesemeyiz.
+Dialogue: 20,0:10:08.79,0:10:12.09,Default,Sagiri,0,0,0,,Hareket ettiği için kemik boşlukları \Nkapanıyor ve kılıç etkisiz kalıyor.
+Dialogue: 20,0:10:12.09,0:10:15.71,Default,Sagiri,0,0,0,,Normal şartlarda kişinin boynu\Naşağı eğiliyken kellesi alınır.
+Dialogue: 20,0:10:16.24,0:10:19.09,Default,Sagiri,0,0,0,,İşini tek darbede bitirebilmemiz \Niçin boynunu eğmemiz gerek.
+Dialogue: 20,0:10:19.54,0:10:22.31,Default,Gabimaru,0,0,0,,Ama kılıçlarımız uzuvlarına etki etmediği sürece...
+Dialogue: 20,0:10:22.31,0:10:25.60,Default,Gabimaru,0,0,0,,...dizlerinin üstüne çökmesini bile sağlayamayız.
+Dialogue: 20,0:10:27.63,0:10:29.44,Default,Gabimaru,0,0,0,,Durum iyi görünmüyor.
+Dialogue: 20,0:10:33.00,0:10:35.07,Default,Gabimaru,0,0,0,,Karnı mı gurulduyor?
+Dialogue: 20,0:10:41.01,0:10:42.49,Default,Yuzuriha,0,0,0,,N'oluyo be!?
+Dialogue: 20,0:10:44.06,0:10:45.45,Default,Gabimaru,0,0,0,,Ne ses ama...
+Dialogue: 20,0:10:58.30,0:10:59.26,Default,Sagiri,0,0,0,,Gabimaru!
+Dialogue: 20,0:11:03.21,0:11:06.00,Default,Gabimaru,0,0,0,,{\i1}İnsanüstü gücüne karşı dikkatli davranıyordum oysa...
+Dialogue: 20,0:11:06.65,0:11:08.52,Default,Gabimaru,0,0,0,,{\i1}Neyse ki bu kadarına dayanabilirim.
+Dialogue: 20,0:11:08.89,0:11:10.56,Default,Gabimaru,0,0,0,,{\i1}Bir şekilde...
+Dialogue: 20,0:11:15.74,0:11:16.66,Default,Sagiri,0,0,0,,Olamaz!
+Dialogue: 20,0:11:18.99,0:11:22.13,Default,Gabimaru,0,0,0,,{\i1}Siktir... Hemen ayağa kalkmalıyım.
+Dialogue: 20,0:11:22.13,0:11:23.52,Default,Gabimaru,0,0,0,,{\i1}Ölümcül bir darbe değildi.
+Dialogue: 20,0:11:23.52,0:11:24.78,Default,Gabimaru,0,0,0,,{\i1}Ayağa kalk!
+Dialogue: 20,0:11:31.29,0:11:32.25,Default,Sagiri,0,0,0,,{\i1}Ölüm.
+Dialogue: 20,0:11:33.29,0:11:36.50,Default,Sagiri,0,0,0,,{\i1}Sakinleş. Sakin kalmam gerek.
+Dialogue: 20,0:11:36.88,0:11:40.01,Default,Sagiri,0,0,0,,{\i1}Duygularını bastır. Mantıklı düşün.
+Dialogue: 20,0:11:40.42,0:11:41.72,Default,Sagiri,0,0,0,,{\i1}Sakinleş.
+Dialogue: 20,0:11:41.72,0:11:45.01,Default,Sagiri,0,0,0,,{\i1}Tutkunu terk et, sakin kal.
+Dialogue: 20,0:11:45.01,0:11:48.89,Default-Alt,Genji,0,0,0,,Tam ortada olmak... Demek inancın bu.
+Dialogue: 20,0:11:49.52,0:11:55.48,Default,Sagiri,0,0,0,,{\i1}İkiye ayırmak yerine bütün karşıt \Nkavramları olduğu gibi kabullen.
+Dialogue: 20,0:11:58.49,0:12:00.65,Default,Sagiri,0,0,0,,{\i1}Duyguları da, mantığı da.
+Dialogue: 20,0:12:14.84,0:12:16.88,Default,Sagiri,0,0,0,,{\i1}Duygularını güce çevir.
+Dialogue: 20,0:12:16.88,0:12:19.30,Default,Sagiri,0,0,0,,{\i1}Hedefi kaçırmamak için mantığını kullan.
+Dialogue: 20,0:12:19.55,0:12:21.80,Default,Sagiri,0,0,0,,{\i1}Ne sakinlik, ne de tutku.
+Dialogue: 20,0:12:22.90,0:12:23.80,Default,Sagiri,0,0,0,,{\i1}Tam ortası!
+Dialogue: 20,0:12:30.56,0:12:31.56,Default,Yuzuriha,0,0,0,,Harika.
+Dialogue: 20,0:12:31.86,0:12:35.31,Default,Senta,0,0,0,,Sınayıcı kademesi 12 ama...
+Dialogue: 20,0:12:35.49,0:12:39.40,Default,Senta,0,0,0,,...Yamada'da kademeler\N saf yetenekle belirlenmiyor.
+Dialogue: 20,0:12:39.86,0:12:43.12,Default,Senta,0,0,0,,İleride klanı yönetme \Nyeterliliklerine göre sıralanıyorlar.
+Dialogue: 20,0:12:43.31,0:12:45.86,Default,Senta,0,0,0,,Sırf kadın olduğu için bile çok puan kaybediyor.
+Dialogue: 20,0:12:46.24,0:12:49.41,Default,Senta,0,0,0,,Saf yetenek açısından...
+Dialogue: 20,0:12:49.87,0:12:53.87,Default,Genji,0,0,0,,{\i1}Sagiri'nin savaş alanında pek tecrübesi yok.
+Dialogue: 20,0:12:54.43,0:12:59.38,Default,Genji,0,0,0,,{\i1}Fakat kalbi ve hedefi göreviyle örtüşüp...
+Dialogue: 20,0:12:59.80,0:13:01.38,Default,Genji,0,0,0,,{\i1}...endişelerinden kurtulursa...
+Dialogue: 20,0:13:02.09,0:13:05.26,Default,Genji,0,0,0,,{\i1}...yetenekleri kademe 1'i bile aşıyor.
+Dialogue: 20,0:13:08.91,0:13:11.89,Default,Genji,0,0,0,,Adadaki canavarlardan korksa da...
+Dialogue: 20,0:13:11.89,0:13:17.02,Default,Genji,0,0,0,,...Asaemon olarak, bir mahkum \Nkarşısında korkusunu göstermiyor.
+Dialogue: 20,0:13:18.61,0:13:20.90,Default,Genji,0,0,0,,Ne inatçı biri.
+Dialogue: 20,0:13:21.44,0:13:23.99,Default,Gabimaru,0,0,0,,{\i1}Öngörüm doğru çıktı.
+Dialogue: 20,0:13:24.53,0:13:26.41,Default,Gabimaru,0,0,0,,{\i1}Onu ilk gördüğüm zaman hissettiğim gibi...
+Dialogue: 20,0:13:26.86,0:13:29.58,Default,Gabimaru,0,0,0,,{\i1}O... Güçlü.
+Dialogue: 20,0:13:37.07,0:13:40.92,Default,Sagiri,0,0,0,,{\i1}Alçak ve eğik bir boyun...
+Dialogue: 20,0:13:52.02,0:13:53.98,Default,Gabimaru,0,0,0,,Pek de kolay değil gibi.
+Dialogue: 20,0:13:54.49,0:13:57.52,Default,Sagiri,0,0,0,,Boynunu eğik tutabilmemizin bir yolu yok mu?
+Dialogue: 20,0:13:58.64,0:13:59.90,Default,Gabimaru,0,0,0,,Bi' fikrim var ama...
+Dialogue: 20,0:14:00.01,0:14:00.82,Default,Sagiri,0,0,0,,Hı?
+Dialogue: 20,0:14:01.49,0:14:03.23,Default,Gabimaru,0,0,0,,Biraz abartı olabilir.
+Dialogue: 20,0:14:10.13,0:14:11.83,Default,Gabimaru,0,0,0,,{\i1}Bizen'in Devi.
+Dialogue: 20,0:14:11.83,0:14:15.41,Default,Gabimaru,0,0,0,,{\i1}Yakın mesafeden saldırılar tehlikeli.\NUzak mesafe saldırılar etkisiz.
+Dialogue: 20,0:14:16.29,0:14:20.00,Default,Gabimaru,0,0,0,,{\i1}Tek seçeneğimiz boynundaki kemik \Nboşluklarına ulaşıp kafasını kesebilmek.
+Dialogue: 20,0:14:20.88,0:14:24.13,Default,Gabimaru,0,0,0,,{\i1}Bunun için de üst düzey yeteneğe ihtiyacımız var.
+Dialogue: 20,0:14:25.30,0:14:29.30,Default,Gabimaru,0,0,0,,{\i1}Cellatlık konusunda uzman bir Yamada\N Asaemonu'nun yeteneklerine ihtiyacımız var.
+Dialogue: 20,0:14:31.43,0:14:33.93,Default,Gabimaru,0,0,0,,{\i1}Ama devasa cüssesi ve\Nreflekslerinin hızını düşününce...
+Dialogue: 20,0:14:33.93,0:14:36.02,Default,Gabimaru,0,0,0,,{\i1}...basit saldırılarla bu işi başaramayız.
+Dialogue: 20,0:14:36.23,0:14:37.23,Default,Gabimaru,0,0,0,,{\i1}O halde...
+Dialogue: 20,0:14:44.35,0:14:45.03,Default,Yuzuriha,0,0,0,,Siktir.
+Dialogue: 20,0:14:45.38,0:14:45.90,Default,Senta,0,0,0,,Hı?
+Dialogue: 20,0:14:45.90,0:14:47.53,Default,Yuzuriha,0,0,0,,Kaçıyoruz, Senta.
+Dialogue: 20,0:14:47.90,0:14:51.28,Default,Gabimaru,0,0,0,,{\i1}Ninpo: Zahit Alevli Taş Fırtınası
+Dialogue: 20,0:14:54.41,0:14:57.50,Default,Gabimaru,0,0,0,,{\i1}Ninpo: Zahit Alevli Rüzgar Örgüsü
+Dialogue: 20,0:14:58.16,0:15:00.75,Default,Gabimaru,0,0,0,,{\i1}Ninpo: Zahit Alevli Kocataş
+Dialogue: 20,0:15:02.54,0:15:05.80,Default,Gabimaru,0,0,0,,{\i1}Ninpo: Zahit Alevli Diken Örtüsü
+Dialogue: 20,0:15:15.01,0:15:16.89,Default,Sagiri,0,0,0,,Daha fazla zorlama kendini.
+Dialogue: 20,0:15:17.35,0:15:20.14,Default,Sagiri,0,0,0,,Ayrıca bu kadarı yeterli.
+Dialogue: 20,0:15:25.41,0:15:27.15,Default,Senta,0,0,0,,Daha ne kadar koşacağız?
+Dialogue: 20,0:15:27.34,0:15:29.57,Default,Yuzuriha,0,0,0,,Koşabildiğimiz kadar işte. \NDurma sakın, dört göz!
+Dialogue: 20,0:15:29.75,0:15:32.57,Default,Yuzuriha,0,0,0,,Hedefleri yalnızca Rokurota'yı öldürmek değil.
+Dialogue: 20,0:15:33.17,0:15:35.28,Default,Yuzuriha,0,0,0,,Bütün bölgeyi aleve vermeyi planlıyorlar.
+Dialogue: 20,0:15:37.07,0:15:38.16,Default,Senta,0,0,0,,Yoksa?..
+Dialogue: 20,0:15:38.24,0:15:39.04,Default,Yuzuriha,0,0,0,,Duman işte.
+Dialogue: 20,0:15:39.43,0:15:41.67,Default,Yuzuriha,0,0,0,,Ağaçların üreteceği devasa miktardaki duman...
+Dialogue: 20,0:15:42.01,0:15:45.09,Default,Yuzuriha,0,0,0,,Dalları ve yaprakları ateşe vererek...
+Dialogue: 20,0:15:45.09,0:15:48.51,Default,Yuzuriha,0,0,0,,...bölgenin üst tabakasını\N tamamen dumanla kaplayacaklar.
+Dialogue: 20,0:15:48.67,0:15:50.28,Default,Yuzuriha,0,0,0,,Yine delirip ağlamaya başlarsa...
+Dialogue: 20,0:15:50.28,0:15:52.93,Default,Yuzuriha,0,0,0,,...nefessiz kalacak ve \Nbol miktarda duman soluyacak.
+Dialogue: 20,0:15:54.69,0:15:55.80,Default,Gabimaru,0,0,0,,Alevle idam tarzı.
+Dialogue: 20,0:15:56.50,0:15:58.57,Default,Gabimaru,0,0,0,,Fazla soluyunca bilinç \Nkaybına neden olan duman...
+Dialogue: 20,0:15:58.57,0:16:01.14,Default,Gabimaru,0,0,0,,...alev ya da ürettiği ısıdan \Nçok daha zararlı bir zehir.
+Dialogue: 20,0:16:01.14,0:16:02.06,Default,Sagiri,0,0,0,,Zehir mi?
+Dialogue: 20,0:16:02.06,0:16:04.56,Default,Anlatıcı,0,0,0,,{\i1}Diğer adıyla karbonmonoksit.
+Dialogue: 20,0:16:05.00,0:16:11.00,Default,Anlatıcı,0,0,0,,{\i1}Kandaki hemoglobine bağlanır ve tüm vücudun\N hızla oksijen kaybetmesine neden olur.
+Dialogue: 20,0:16:11.28,0:16:14.20,Default,Anlatıcı,0,0,0,,{\i1}Karbonmonoksit zehirlenmesi olarak da bilinir.
+Dialogue: 20,0:16:14.77,0:16:16.53,Default,Gabimaru,0,0,0,,Beni de zorlayan bir durumdu ama...
+Dialogue: 20,0:16:16.53,0:16:18.83,Default,Gabimaru,0,0,0,,...çömeldiğin sürece dumanı\N solumana gerek kalmıyor.
+Dialogue: 20,0:16:19.10,0:16:20.25,Default,Gabimaru,0,0,0,,Sıkıntı yok.
+Dialogue: 20,0:16:20.25,0:16:21.83,Default,Sagiri,0,0,0,,Yanarak ölebilirim.
+Dialogue: 20,0:16:23.81,0:16:25.67,Default,Sagiri,0,0,0,,İlk biz mi limitimize ulaşacağız...
+Dialogue: 20,0:16:26.00,0:16:28.67,Default,Sagiri,0,0,0,,...yoksa o mu boynunu eğecek?
+Dialogue: 20,0:16:49.72,0:16:51.11,Default,Gabimaru,0,0,0,,Boynunu kesmenin tam sırası!
+Dialogue: 20,0:16:51.11,0:16:53.11,Default,Gabimaru,0,0,0,,Çok uzun süre tutamam!
+Dialogue: 20,0:17:01.95,0:17:03.25,Default,Sagiri,0,0,0,,{\i1}Sakince.
+Dialogue: 20,0:17:05.58,0:17:06.71,Default,Sagiri,0,0,0,,{\i1}Şiddetle.
+Dialogue: 20,0:17:22.02,0:17:23.73,Default-Alt,Rokurota,0,0,0,,{\i1}Acıktım.
+Dialogue: 20,0:17:22.60,0:17:23.98,Default-Alt,Rokurota,0,0,0,,{\an8\i1}Oyun istiyo'm.
+Dialogue: 20,0:17:23.98,0:17:25.56,Default-Alt,Rokurota,0,0,0,,{\i1}Oyun istiyo'm. Oyun istiyo'm.
+Dialogue: 20,0:17:25.56,0:17:29.23,Default-Alt,Rokurota,0,0,0,,{\i1}Acıktım. Acıktım.
+Dialogue: 20,0:17:29.80,0:17:32.47,Default-Alt,Rokurota,0,0,0,,{\i1}Niye karnım hiç doymuyor?
+Dialogue: 20,0:17:32.85,0:17:35.15,Default-Alt,Rokurota,0,0,0,,{\i1}Niye kimse benimle oynamıyor?
+Dialogue: 20,0:17:37.04,0:17:39.74,Default,Sagiri,0,0,0,,Kendini fena kaybettin.
+Dialogue: 20,0:17:40.42,0:17:43.62,Default,Sagiri,0,0,0,,Korkmuş olmalısın. Üzgünüm.
+Dialogue: 20,0:17:43.81,0:17:45.71,Default,Sagiri,0,0,0,,Hepsi tecrübesizliğim yüzünden.
+Dialogue: 20,0:17:48.01,0:17:49.59,Default,Sagiri,0,0,0,,Ama hepsi geçti artık.
+Dialogue: 20,0:17:50.45,0:17:52.76,Default,Sagiri,0,0,0,,Kimse senden nefret etmiyor.
+Dialogue: 20,0:17:53.26,0:17:55.42,Default,Sagiri,0,0,0,,Artık senden nefret eden kimse yok.
+Dialogue: 20,0:17:57.45,0:18:02.01,Default,Sagiri,0,0,0,,Sen de tıpkı onlar gibi huzur içinde yat.
+Dialogue: 20,0:18:07.47,0:18:09.27,Default,Gabimaru,0,0,0,,Alevler güçlenmeye başladı.
+Dialogue: 20,0:18:09.65,0:18:11.69,Default,Gabimaru,0,0,0,,Canavarlar gelebilir.
+Dialogue: 20,0:18:11.69,0:18:13.53,Default,Gabimaru,0,0,0,,Yavaştan kaçalım buradan.
+Dialogue: 20,0:18:22.01,0:18:22.99,Default,Sagiri,0,0,0,,Usta Genji...
+Dialogue: 20,0:18:24.75,0:18:26.41,Default,Gabimaru,0,0,0,,Acele etmezsek yanarak öleceğiz.
+Dialogue: 20,0:18:36.18,0:18:40.22,Default,Sagiri,0,0,0,,{\i1}Mahkumlar bir kenara, dostlarımın ölümü\N için bile yas tutamadığım bir adadayım.
+Dialogue: 20,0:18:41.10,0:18:43.93,Default,Sagiri,0,0,0,,{\i1}Güçlü olmalıyım.
+Dialogue: 20,0:18:47.22,0:18:48.27,Default,Sagiri,0,0,0,,{\i1}Güçlü...
+Dialogue: 20,0:18:50.42,0:18:52.27,Default-Alt,Genji,0,0,0,,{\i1}Zayıf ya da güçlü demeksizin...
+Dialogue: 20,0:18:52.27,0:18:54.77,Default-Alt,Genji,0,0,0,,{\i1}...karşıt kavramları bir parçan \Nolarak kabul ediyorsun.
+Dialogue: 20,0:18:55.19,0:18:57.90,Default-Alt,Genji,0,0,0,,{\i1}Demek inancın bu.
+Dialogue: 20,0:19:11.01,0:19:12.63,Default,Gabimaru,0,0,0,,Düşündüğüm gibi, geldiler.
+Dialogue: 20,0:19:12.82,0:19:15.21,Default,Sagiri,0,0,0,,Alevlere doğru ilerliyorlar.
+Dialogue: 20,0:19:15.89,0:19:20.22,Default,Sagiri,0,0,0,,Fakat normal şartlarda hayvanlar\Niçgüdüsel olarak alevden kaçar.
+Dialogue: 20,0:19:20.76,0:19:23.72,Default,Gabimaru,0,0,0,,Gitgide daha yapay görünmeye başladılar.
+Dialogue: 20,0:19:26.01,0:19:27.15,Default,Gabimaru,0,0,0,,Başka seçeneğimiz yok.
+Dialogue: 20,0:19:27.50,0:19:29.85,Default,Gabimaru,0,0,0,,Canavarların geldiği yöne gidelim bari.
+Dialogue: 20,0:19:30.01,0:19:31.10,Default,Sagiri,0,0,0,,Tehlikeli olmaz mı?
+Dialogue: 20,0:19:31.59,0:19:34.86,Default,Gabimaru,0,0,0,,Yani, evet ama başka şansımız yok.
+Dialogue: 20,0:19:35.00,0:19:38.44,Default,Gabimaru,0,0,0,,Canavarların ekolojisi\Nİksirle alakalı tek ipucumuz.
+Dialogue: 20,0:19:39.70,0:19:42.53,Default,Gabimaru,0,0,0,,Deminki savaşın etkilerini hala hissediyorum.
+Dialogue: 20,0:19:42.73,0:19:45.28,Default,Gabimaru,0,0,0,,Mola istiyorum. Yorucuydu.
+Dialogue: 20,0:19:46.45,0:19:48.00,Default,Sagiri,0,0,0,,İstersen hiç bulaşmayalım.
+Dialogue: 20,0:19:48.00,0:19:48.83,Default,Gabimaru,0,0,0,,Yok.
+Dialogue: 20,0:19:49.31,0:19:53.33,Default,Gabimaru,0,0,0,,Tehlikeli olsun ya da olmasın, bir ipucu için \Nküçücük ihtimallerin peşinden gideceğim.
+Dialogue: 20,0:19:53.33,0:19:57.96,Default,Gabimaru,0,0,0,,En kısa sürede İksiri bulup, en yakın \Nzamanda karımı tekrar göreceğim.
+Dialogue: 20,0:19:58.92,0:20:02.97,Default,Gabimaru,0,0,0,,Sen kendine bak, dostlarının güvenliği\N konusunda endişeli değil misin?
+Dialogue: 20,0:20:08.00,0:20:09.06,Default,Sagiri,0,0,0,,Hayır.
+Dialogue: 20,0:20:09.06,0:20:12.23,Default,Sagiri,0,0,0,,Hepsi ölümü kabullenerek buraya geldiler.
+Dialogue: 20,0:20:12.73,0:20:14.98,Default,Sagiri,0,0,0,,Onlar adına endişelenmek saygısızlık olur.
+Dialogue: 20,0:20:15.90,0:20:17.67,Default,Sagiri,0,0,0,,Onlar adına endişeleniyorsam...
+Dialogue: 20,0:20:17.67,0:20:22.86,Default,Sagiri,0,0,0,,...en kısa sürede İksiri bulup, herkesi bu\N adadan kurtarmam çok daha mantıklı olur.
+Dialogue: 20,0:20:25.01,0:20:26.74,Default,Gabimaru,0,0,0,,Çıkarlarımız örtüşmeye başladı.
+Dialogue: 20,0:20:27.12,0:20:29.62,Default,Sagiri,0,0,0,,Hala gözetmeninim ama.
+Dialogue: 20,0:20:37.58,0:20:38.46,Default,Sagiri,0,0,0,,Şunlar...
+Dialogue: 20,0:20:38.88,0:20:42.68,Default,Gabimaru,0,0,0,,Dişi tilki ve rakun köpeği \Nburaya kadar gelmiş demek.
+Dialogue: 20,0:20:48.61,0:20:51.23,Default,Gabimaru,0,0,0,,Hani birlikte savaşacaktık?
+Dialogue: 20,0:20:53.69,0:20:58.11,Default,Sagiri,0,0,0,,Burası... Bir köy mü sanki?
+Dialogue: 20,0:20:59.53,0:21:01.86,Default,Yuzuriha,0,0,0,,Başka bir şeye benzemiyor.
+Dialogue: 20,0:21:02.57,0:21:06.49,Default,Senta,0,0,0,,Eğer burası gerçekten Şinsekyoysa...
+Dialogue: 20,0:21:06.78,0:21:10.37,Default,Senta,0,0,0,,...bu köyde de keşişler mi yaşıyor yani?
+Dialogue: 20,0:21:24.47,0:21:25.97,Default,Çobei,0,0,0,,Iyy, berbat bu.
+Dialogue: 20,0:21:25.97,0:21:28.18,Default,Çobei,0,0,0,,Dişimin kovuğuna yetmiyor.
+Dialogue: 20,0:21:28.18,0:21:31.52,Default,Toma,0,0,0,,Bunların yenebildiğine emin misin?
+Dialogue: 20,0:21:31.52,0:21:34.10,Default,Çobei,0,0,0,,Yemiyo'm be, içiyo'm.
+Dialogue: 20,0:21:34.10,0:21:37.40,Default,Çobei,0,0,0,,Dağlarda hayvanların vücut sıvılarını\N su niyetine içmiyor muyuz zaten?
+Dialogue: 20,0:21:39.69,0:21:44.95,Default,Çobei,0,0,0,,Onu geç de, demin bahsettiğin \Nşu keşişler ne iş?
+Dialogue: 20,0:21:44.95,0:21:48.03,Default,Toma,0,0,0,,Yani... Farazi varlıklar.
+Dialogue: 20,0:21:48.32,0:21:51.45,Default,Toma,0,0,0,,Antik bir Çin felsefesine göre \Ninsanüstü varlıklara denir.
+Dialogue: 20,0:21:51.45,0:21:54.96,Default,Toma,0,0,0,,Çoğunun yaşlı adamlara benzediği\Nve gizemli büyüler kullandığı söylenir.
+Dialogue: 20,0:21:54.96,0:21:56.67,Default,Toma,0,0,0,,Ölümsüz oldukları da denir.
+Dialogue: 20,0:21:57.01,0:21:59.54,Default,Toma,0,0,0,,Burada olmaları da olası.
+Dialogue: 20,0:21:59.54,0:22:04.55,Default,Toma,0,0,0,,Normal şartlarda Şinsenkyo'da yaşaması\N gerekenler canavarlar değil, keşişler olmalı.
+Dialogue: 20,0:22:04.84,0:22:06.93,Default,Çobei,0,0,0,,Saçmalık.
+Dialogue: 20,0:22:06.93,0:22:09.35,Default,Çobei,0,0,0,,Morukları öldür geç işte.
+Dialogue: 20,0:22:09.35,0:22:11.56,Default,Çobei,0,0,0,,Belki açlığımı dindirirler.
+Dialogue: 20,0:22:12.64,0:22:14.06,Default,Toma,0,0,0,,Şaka yapıyorsun, değil mi?
+Dialogue: 20,0:22:17.48,0:22:18.44,Default,Toma,0,0,0,,Abi?
+Dialogue: 20,0:22:19.11,0:22:20.90,Default,Çobei,0,0,0,,Bi' şey var sanki.
+Dialogue: 20,0:22:23.07,0:22:25.57,Default,Çobei,0,0,0,,Bunlar leziz çıksa iyi olur.
+Comment: 0,0:00:15.04,0:01:44.46,YD,,0,0,0,,{op}
+Dialogue: 0,0:00:16.45,0:00:18.29,OP,,0,0,0,,{\fad(120,100)\blur1}Özgür yanını
+Dialogue: 0,0:00:18.58,0:00:20.46,OP,,0,0,0,,{\fad(120,100)\blur1}göster bana yaşamanın
+Dialogue: 0,0:00:20.96,0:00:22.79,OP,,0,0,0,,{\fad(120,100)\blur1}Güvencesizse
+Dialogue: 0,0:00:23.59,0:00:25.09,OP,,0,0,0,,{\fad(120,100)\blur1}buruştur at çöpe
+Dialogue: 0,0:00:25.63,0:00:27.34,OP,,0,0,0,,{\fad(120,100)\blur1}Söylentiler mi?
+Dialogue: 0,0:00:27.63,0:00:29.38,OP,,0,0,0,,{\fad(120,100)\blur1}Hiç takma kafana!
+Dialogue: 0,0:00:30.22,0:00:32.10,OP,,0,0,0,,{\fad(120,100)\blur1}Hedefe ulaş da
+Dialogue: 0,0:00:32.72,0:00:34.35,OP,,0,0,0,,{\fad(120,100)\blur1}bakalım olanlara
+Dialogue: 0,0:00:34.35,0:00:36.35,OP,,0,0,0,,{\fad(120,100)\blur1}Manastırda boş beş neden
+Dialogue: 0,0:00:36.60,0:00:38.64,OP,,0,0,0,,{\fad(120,100)\blur1}beşi birden bize beden
+Dialogue: 0,0:00:38.85,0:00:43.27,OP,,0,0,0,,{\fad(120,100)\blur1}Adımı anlar ancak idrak edebilen
+Dialogue: 0,0:00:43.44,0:00:45.57,OP,,0,0,0,,{\fad(120,100)\blur1}Sen taktikle uğraşırken
+Dialogue: 0,0:00:45.82,0:00:47.90,OP,,0,0,0,,{\fad(120,100)\blur1}Yetinirim bir zarla ben
+Dialogue: 0,0:00:48.07,0:00:54.66,OP,,0,0,0,,{\fad(120,100)\blur1}Zorla istersen, başka türlü zor fark etmen
+Dialogue: 0,0:00:52.07,0:00:54.66,OP2,,0,0,0,,{\fad(120,100)\blur1}Sıkıştık kaldık, dönüp duruyoruz burada
+Dialogue: 0,0:00:54.66,0:00:56.70,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&&H2599E0&&}Etrafımız sarılı fare ve sıçanlarla
+Dialogue: 0,0:00:56.83,0:00:58.66,OP2,,0,0,0,,{\fad(120,100)\blur1}Wake up bankers, çıkın parayı!
+Dialogue: 0,0:00:58.66,0:01:01.46,OP2,,0,0,0,,{\fad(120,100)\blur1}Sözlerim vurur yüze yumruk gibi
+Dialogue: 0,0:01:01.46,0:01:03.42,OP2,,0,0,0,,{\fad(120,100)\blur1}Uyanın rüyanızdan
+Dialogue: 0,0:01:03.63,0:01:06.05,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H2C295E&}Dik durun, my fav people!
+Dialogue: 0,0:01:06.25,0:01:08.30,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H2457C2&\3c&HFFFFFF&\4c&HFFFFFF&)}Affet beni,
+Dialogue: 0,0:01:08.30,0:01:10.63,OP,,0,0,0,,{\fad(120,100)\blur1}arındır günahlarımdan!
+Dialogue: 0,0:01:10.72,0:01:12.93,OP,,0,0,0,,{\fad(120,100)\blur1}ve yargıla
+Dialogue: 0,0:01:11.84,0:01:13.22,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H86B8EA&\t(1000,1200,\3c&H00000&)}Yargıla beni
+Dialogue: 0,0:01:12.93,0:01:15.22,OP,,0,0,0,,{\fad(120,100)\blur1}Nasıl olması gerekiyorsa
+Dialogue: 0,0:01:15.22,0:01:17.47,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H79634A&\3c&HFFFFFF&\4c&HFFFFFF&)}Azarla beni
+Dialogue: 0,0:01:17.47,0:01:19.81,OP,,0,0,0,,{\fad(120,100)\blur1}Şayet affedildiysem,
+Dialogue: 0,0:01:19.81,0:01:25.86,OP,,0,0,0,,{\fad(120,100)\blur1}tadını çıkarmak istiyorum hayatın yanımda sevdiğim adamla!
+Dialogue: 0,0:01:26.07,0:01:28.15,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H275F94&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:01:28.15,0:01:29.57,OP,,0,0,0,,{\fad(0,0)\blur1}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:01:29.57,0:01:30.36,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H4779DC&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:01:30.65,0:01:31.07,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H1F69BC&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:01:31.07,0:01:32.57,OP,,0,0,0,,{\fad(0,0)\blur1}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:01:32.57,0:01:33.82,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H838DBA&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:01:33.82,0:01:34.91,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H92B8BB&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:01:35.20,0:01:36.33,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:01:36.33,0:01:37.45,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H7099AA&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:01:37.45,0:01:38.45,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:01:38.45,0:01:39.37,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H573C6C&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:01:39.75,0:01:39.95,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H573C6C&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:01:39.95,0:01:42.29,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H342560&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:01:42.29,0:01:44.46,OP,,0,0,0,,{\fad(0,380)\blur1\3c&H151742&}Doya doya yaşa, günler sayılı olsa da!
+Comment: 0,0:22:55.77,0:24:24.94,YD,,0,0,0,,{ed}
+Dialogue: 0,0:22:55.52,0:23:00.11,ed 1,,0,0,0,,{\fad(250,350)}Saklamayı denedim
+Dialogue: 0,0:23:00.69,0:23:04.03,ed 1,,0,0,0,,{\fad(250,350)}İmkansız sanmıştım
+Dialogue: 0,0:23:04.03,0:23:08.70,ed 1,,0,0,0,,{\fad(250,350)}Utancımı bahane etmiştim
+Dialogue: 0,0:23:08.70,0:23:14.00,ed 1,,0,0,0,,{\fad(150,350)}Ama sen bana akışına bırak dedin ve
+Dialogue: 0,0:23:14.67,0:23:21.63,ed 1,,0,0,0,,{\fad(250,350)}Kırgın kalbimi iyileştirdin, eski haline getirdin
+Dialogue: 0,0:23:21.63,0:23:23.72,ed 1,,0,0,0,,{\fad(250,350)}Kırdın tabuları
+Dialogue: 0,0:23:23.88,0:23:28.76,ed 2,,0,0,0,,{\fad(250,350)}Bu çıtkırıldım kalp ile
+Dialogue: 0,0:23:28.85,0:23:35.94,ed 2,,0,0,0,,{\fad(250,350)}Böyle duygulara dayanması zor
+Dialogue: 0,0:23:39.48,0:23:41.65,ed 2,,0,0,0,,{\fad(250,350)}Keşke artık
+Dialogue: 0,0:23:41.82,0:23:45.36,ed 2,,0,0,0,,{\fad(250,350)}Yarınların sonu gelse
+Dialogue: 0,0:23:45.36,0:23:49.03,ed 2,,0,0,0,,{\fad(250,350)}Rüyalarda kaybolsak keşke
+Dialogue: 0,0:23:49.03,0:23:55.92,ed 1,,0,0,0,,{\fad(250,350)}Bugün bir başkası olmasa aklında
+Dialogue: 0,0:23:55.92,0:23:59.59,ed 1,,0,0,0,,{\fad(250,350)}Yüreğimde var bir dilek
+Dialogue: 0,0:23:59.59,0:24:02.88,ed 1,,0,0,0,,{\fad(250,350)}Keşke gerçek olsa dediğim
+Dialogue: 0,0:24:03.01,0:24:09.93,ed 1,,0,0,0,,{\fad(150,350)}Bir gün sesi duyulsa, ulaşsa sana keşke
+Dialogue: 0,0:24:09.93,0:24:13.52,ed 1,,0,0,0,,{\fad(250,350)}Kaç kez incinsen de
+Dialogue: 0,0:24:13.68,0:24:17.06,ed 1,,0,0,0,,{\fad(250,350)}Korumaya çalıştığın aşk
+Dialogue: 0,0:24:17.06,0:24:24.90,ed 2,,0,0,0,,{\fad(250,350)}Bir gün kollarını dolayacak sana bile
+Comment: 0,0:01:45.50,0:01:50.47,YD,,0,0,0,,{yd}
+Dialogue: 0,0:01:45.50,0:01:50.51,Baslik,,0,0,0,,{\fad(523,483)\pos(1714.69,948.16)}Kalp ve Mantık
+Dialogue: 0,0:14:04.99,0:14:09.00,Orta,,0,0,0,,{\blur0.7}Cehennet
+Dialogue: 1,0:05:34.22,0:05:37.61,Ninpo,,0,0,0,,{\blur1\frx14\fry0\move(952,923,953.48,939.26,1,3368)\c&H262422&\alpha&HFF\t(1,450,\alpha&H00)}Ninpo: Esnek Kılıç
+Dialogue: 1,0:05:37.61,0:05:37.65,Ninpo,,0,0,0,,{\blur3\frx14\fry0\c&H777573&\pos(953.48,939.26)\alpha&H50&}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.61,0:05:37.65,Ninpo,,0,0,0,,{\blur1\frx14\fry0\c&H797775&\pos(953.48,939.26)}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.65,0:05:37.69,Ninpo,,0,0,0,,{\blur1\frx14\fry0\c&HFAFAFA&\pos(953.48,946.12)\yshad1\1a&HFE&\4c&HA18A68&\4a&HAA&}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.65,0:05:37.69,Ninpo,,0,0,0,,{\blur1\frx14\fry0\c&HFAFAFA&\pos(953.48,946.12)\yshad-3\1a&HFE&\4c&H7682D9&\4a&HAA&}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.65,0:05:37.69,Ninpo,,0,0,0,,{\blur1.5\frx14\fry0\c&HB4B3B3&\pos(953.48,939.26)}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.65,0:05:37.69,Ninpo,,0,0,0,,{\blur1.5\frx14\fry0\c&HB4B3B3&\pos(953.48,939.26)}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.69,0:05:38.57,Ninpo,,0,0,0,,{\blur1\frx14\fry0\c&HFAFAFA&\pos(953.48,946.12)\yshad1\1a&HFE&\4c&HA18A68&\4a&HAA&\t(23,444,1,\blur55)}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.69,0:05:38.57,Ninpo,,0,0,0,,{\blur1\frx14\fry0\c&HFAFAFA&\pos(953.48,946.12)\yshad-3\1a&HFE&\4c&H7682D9&\4a&HAA&\t(23,444,1,\blur55)}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.69,0:05:38.57,Ninpo,,0,0,0,,{\blur3\frx14\fry0\c&HBDBDBD&\alpha&H80&\pos(940.51,938.9)\t(23,444,1,\blur55)}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.69,0:05:38.57,Ninpo,,0,0,0,,{\blur3\frx14\fry0\c&HBDBDBD&\pos(956.46,939.62)\alpha&H80&\t(23,444,1,\blur55)}Ninpo: Esnek Kılıç
+Dialogue: 2,0:05:37.69,0:05:38.57,Ninpo,,0,0,0,,{\blur1.5\frx14\fry0\c&HFAFAFA&\pos(953.48,939.26)\t(23,444,1,\blur55)}Ninpo: Esnek Kılıç
+Dialogue: 0,0:05:38.61,0:05:38.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HE0&\blur1\c&H17110D&\frx4\fry354\pos(422.29,447.12)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.65,0:05:38.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HC6&\blur1\c&H17110D&\frx4\fry354\pos(422.64,454.28)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.69,0:05:38.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H8E&\blur1\c&H17110D&\frx4\fry354\pos(422.74,461.81)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.73,0:05:38.77,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H55&\blur1\c&H17110D&\frx4\fry354\pos(422.88,469.4)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.77,0:05:38.81,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H1C&\blur1\c&H17110D&\frx4\fry354\pos(422.97,477.21)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.81,0:05:38.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.02,485.34)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.86,0:05:38.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.07,493.54)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.90,0:05:38.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.11,501.86)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.94,0:05:38.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.16,510.29)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:38.98,0:05:39.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.21,518.71)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.02,0:05:39.06,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.26,527.36)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.06,0:05:39.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.33,536.01)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.11,0:05:39.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.4,544.64)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.15,0:05:39.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.44,553.47)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.19,0:05:39.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.49,562.26)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.23,0:05:39.27,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.54,571.2)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.27,0:05:39.31,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.59,580.1)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.31,0:05:39.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.65,589.04)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.36,0:05:39.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.71,598.02)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.40,0:05:39.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.78,607.01)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.44,0:05:39.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.84,616)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.48,0:05:39.52,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.87,625.1)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.52,0:05:39.56,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.91,634.17)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.56,0:05:39.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.95,643.24)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.61,0:05:39.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(423.99,652.31)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.65,0:05:39.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(424.03,661.38)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.69,0:05:39.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(424.06,670.45)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.73,0:05:39.77,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(424.14,679.58)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.77,0:05:39.81,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(424.2,688.69)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.81,0:05:39.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(424.27,697.8)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.86,0:05:39.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx4\fry354\pos(424.4,706.75)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.90,0:05:39.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H4E4B4E&\frx4\fry354\pos(424.53,715.58)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.94,0:05:39.98,Ninpo,,0,0,0,,{\bord1\fscx100\fscy100\alpha&H00&\blur1.5\c&H908E90&\frx4\fry354\pos(424.7,724.37)\frz24.24\1a&HFE&\3c&H000000&\3a&HC7&\yshad-0.8\4c&H000000&\4a&HC8&}Ninpo: Vahşi Kafa
+Dialogue: 1,0:05:39.94,0:05:39.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H908E90&\frx4\fry354\pos(424.7,724.37)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:39.98,0:05:40.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\c&HC8C7C7&\frx4\fry354\pos(424.76,733.23)\frz24.24\1a&HFE&\4c&H000000&\yshad-0.4\3c&HFFFFFF&\3a&H4C&\4a&H66&}Ninpo: Vahşi Kafa
+Dialogue: 1,0:05:39.98,0:05:40.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur2.5\c&HC8C7C7&\frx4\fry354\pos(424.76,733.23)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.02,0:05:40.06,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\c&H17110D&\frx4\fry354\pos(424.92,742.03)\frz24.24\1a&HFE&\4c&H000000&\yshad-0.4}Ninpo: Vahşi Kafa
+Dialogue: 1,0:05:40.02,0:05:40.06,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur2.5\c&HF8F8F8&\frx4\fry354\pos(424.92,742.03)\frz24.24}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.06,0:05:40.11,Ninpo,,0,0,0,,{\alpha&H00&\blur6\c&HF8F8F8&\frx4\fry354\pos(425.05,750.8)\frz24.24\fscx87\fscy97}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.11,0:05:40.15,Ninpo,,0,0,0,,{\alpha&H00&\blur8\c&HF8F8F8&\frx4\fry354\pos(425.18,759.62)\frz24.24\fscx81\fscy100}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.15,0:05:40.19,Ninpo,,0,0,0,,{\alpha&H00&\blur10\c&HF8F8F8&\frx4\fry354\pos(425.26,768.43)\frz24.24\fscx46\fscy100}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.19,0:05:40.23,Ninpo,,0,0,0,,{\alpha&H00&\blur12\c&HF8F8F8&\frx4\fry354\pos(425.39,777.15)\frz24.24\fscx35\fscy100}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.23,0:05:40.27,Ninpo,,0,0,0,,{\alpha&H00&\blur14\c&HF8F8F8&\frx4\fry354\pos(425.51,785.96)\frz24.24\fscx35\fscy100}Ninpo: Vahşi Kafa
+Comment: 0,0:05:39.61,0:05:39.65,Ninpo,,0,0,0,,b
+Dialogue: 0,0:05:39.61,0:05:39.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HE8&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.15,138.91)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.65,0:05:39.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HC6&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.3,148.37)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.69,0:05:39.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H8E&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1625.9,157.86)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.73,0:05:39.77,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H55&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1625.8,167.29)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.77,0:05:39.81,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H1C&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1625.86,176.69)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.81,0:05:39.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1625.99,186.1)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.86,0:05:39.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.06,195.46)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.90,0:05:39.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.14,204.87)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.94,0:05:39.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.25,214.26)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.98,0:05:40.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.33,223.6)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.02,0:05:40.06,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.43,233)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.06,0:05:40.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.51,242.35)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.11,0:05:40.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.6,251.69)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.15,0:05:40.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.7,261.01)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.19,0:05:40.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.8,270.33)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.23,0:05:40.27,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.89,279.65)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.27,0:05:40.32,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.96,288.95)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.32,0:05:40.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.05,298.2)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.36,0:05:40.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.15,307.53)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.40,0:05:40.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.25,316.73)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.44,0:05:40.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.34,326.04)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.48,0:05:40.52,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.4,335.18)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.52,0:05:40.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.5,344.45)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.57,0:05:40.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.51,353.62)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.61,0:05:40.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.57,362.83)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.65,0:05:40.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.6,371.97)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.69,0:05:40.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.59,381.17)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.73,0:05:40.77,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.51,390.28)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.77,0:05:40.82,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.36,399.49)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.82,0:05:40.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1627.07,408.64)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.86,0:05:40.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz30.08\pos(1626.74,417.9)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.90,0:05:40.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H484644&\frz30.08\pos(1622.83,422.18)\yshad-2.4\1a&HF9&\4c&H444444&\4a&HA3&}Ninpo: Su Bombası
+Dialogue: 1,0:05:40.90,0:05:40.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\frx14\fry0\c&H484644&\frz30.08\pos(1626.83,426.18)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.94,0:05:40.98,Ninpo,,0,0,0,,{\bord1\fscx100\1a&HFE&\fscy100\blur1.5\frx14\fry0\c&H8D8B8D&\frz30.08\pos(1626.9,434.41)\3c&H000000&\3a&H9C&}Ninpo: Su Bombası
+Dialogue: 1,0:05:40.94,0:05:40.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur2\frx14\fry0\c&H8D8B8D&\frz30.08\pos(1626.9,434.41)}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.98,0:05:41.02,Ninpo,,0,0,0,,{\fscx100\fscy100\1a&HFE&\blur3\frx14\yshad-0.3\fry0\c&HCACACA&\frz30.08\pos(1627.02,442.66)\4c&H000000&\4a&H44&}Ninpo: Su Bombası
+Dialogue: 0,0:05:40.98,0:05:41.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur3\frx14\fry0\c&HCACACA&\frz30.08\pos(1627.02,442.66)}Ninpo: Su Bombası
+Dialogue: 0,0:05:41.02,0:05:41.07,Ninpo,,0,0,0,,{\an7\org(1627.08,450.9)\alpha&H00&\blur4\frx14\fry0\c&HF9F9F9&\frz30.08\pos(1435.42,412.4)\fscx87\fscy100}Ninpo: Su Bombası
+Dialogue: 0,0:05:41.07,0:05:41.11,Ninpo,,0,0,0,,{\an7\org(1627.18,459.06)\alpha&H00&\blur6\frx14\fry0\c&HF9F9F9&\frz30.08\fscx72\fscy100\pos(1425.92,418.96)}Ninpo: Su Bombası
+Dialogue: 0,0:05:41.11,0:05:41.15,Ninpo,,0,0,0,,{\an7\org(1627.28,467.2)\alpha&H00&\blur6\frx14\fry0\c&HF9F9F9&\frz30.08\fscx48\fscy100\pos(1427.62,417.5)}Ninpo: Su Bombası
+Dialogue: 0,0:05:41.15,0:05:41.19,Ninpo,,0,0,0,,{\an7\org(1627.37,475.3)\alpha&H00&\blur8\frx14\fry0\c&HF9F9F9&\frz30.08\fscx26\fscy100\pos(1413.31,422.4)}Ninpo: Su Bombası
+Dialogue: 0,0:05:41.20,0:05:41.24,Ninpo,,0,0,0,,{\an7\org(1627.37,475.3)\alpha&H00&\blur8\frx14\fry0\c&HF9F9F9&\frz30.08\fscx26\fscy100\pos(1408.51,433.6)}Ninpo: Su Bombası
+Dialogue: 0,0:05:41.24,0:05:41.28,Ninpo,,0,0,0,,{\an7\org(1627.37,475.3)\alpha&H00&\blur8\frx14\fry0\c&HF9F9F9&\frz30.08\fscx26\fscy100\pos(1398.91,440)}Ninpo: Su Bombası
+Dialogue: 0,0:05:39.86,0:05:39.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HE0&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(550.84,426.27)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:39.90,0:05:39.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HBB&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(550.86,434.85)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:39.94,0:05:39.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H77&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(550.89,443.5)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:39.98,0:05:40.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H33&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(550.89,452.06)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.02,0:05:40.06,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(550.92,460.68)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.06,0:05:40.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(550.99,469.32)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.11,0:05:40.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551,477.85)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.15,0:05:40.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.02,486.41)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.19,0:05:40.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.04,494.98)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.23,0:05:40.27,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.06,503.53)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.27,0:05:40.32,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.13,512.02)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.32,0:05:40.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.13,520.51)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.36,0:05:40.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.13,529.02)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.40,0:05:40.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.23,537.43)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.44,0:05:40.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.24,545.94)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.48,0:05:40.52,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.26,554.31)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.52,0:05:40.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.33,562.74)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.57,0:05:40.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.38,571)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.61,0:05:40.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.41,579.51)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.65,0:05:40.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.45,587.82)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.69,0:05:40.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.45,596.18)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.73,0:05:40.77,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.45,604.44)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.77,0:05:40.82,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.52,612.72)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.82,0:05:40.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.52,620.95)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.86,0:05:40.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.55,629.2)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.90,0:05:40.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.58,637.45)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.94,0:05:40.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.64,645.55)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.98,0:05:41.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.69,653.7)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.02,0:05:41.07,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.71,661.82)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.07,0:05:41.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.78,669.89)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.11,0:05:41.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H17110D&\frx0\fry356\frz20.72\pos(551.85,677.9)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.15,0:05:41.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H444444&\frx0\fry356\frz20.72\pos(551.85,685.9)\1a&HFE&\4c&H444444&\4a&HAF&\yshad-4\xshad-4}Ninpo: Diken Örtüsü
+Dialogue: 1,0:05:41.15,0:05:41.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\fs46\c&H444444&\frx0\fry356\frz20.72\pos(551.85,685.9)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.19,0:05:41.23,Ninpo,,0,0,0,,{\fscx100\fscy100\blur1\fs46\c&H8D8E8B&\frx0\fry356\frz20.72\pos(551.88,693.88)\yshad-0.5\1a&HFE&\4c&H000000&\4a&H85&}Ninpo: Diken Örtüsü
+Dialogue: 1,0:05:41.19,0:05:41.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\fs46\c&H8D8E8B&\frx0\fry356\frz20.72\pos(551.88,693.88)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.23,0:05:41.27,Ninpo,,0,0,0,,{\fscx100\fscy100\blur1\fs46\c&HC2C1C1&\frx0\fry356\frz20.72\pos(551.93,701.84)\1a&HFE&\yshad-0.5\4c&H000000&\4a&H68&}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.23,0:05:41.27,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\fs46\c&HC2C1C1&\frx0\fry356\frz20.72\pos(551.93,701.84)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.27,0:05:41.32,Ninpo,,0,0,0,,{\alpha&H00&\blur4\fs46\c&HF7F7F7&\frx0\fry356\frz20.72\fscx82\fscy100\pos(574.37,701.82)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.32,0:05:41.36,Ninpo,,0,0,0,,{\alpha&H00&\blur4\fs46\c&HF7F7F7&\frx0\fry356\frz20.72\fscx74\fscy100\pos(580.43,708.92)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.36,0:05:41.40,Ninpo,,0,0,0,,{\alpha&H00&\blur5\fs46\c&HF7F7F7&\frx0\fry356\frz20.72\pos(579.24,714.29)\fscx64\fscy100}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.40,0:05:41.45,Ninpo,,0,0,0,,{\alpha&H00&\blur5\fs46\c&HF7F7F7&\frx0\fry356\frz20.72\fscx52\fscy100\pos(574.44,722.29)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.45,0:05:41.49,Ninpo,,0,0,0,,{\alpha&H00&\blur5\fs46\c&HF7F7F7&\frx0\fry356\frz20.72\pos(571.2,728)\fscx45\fscy100}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.49,0:05:41.53,Ninpo,,0,0,0,,{\alpha&H00&\blur5\fs46\c&HF7F7F7&\frx0\fry356\frz22.71\fscx33\fscy100\pos(572.8,732.8)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.53,0:05:41.57,Ninpo,,0,0,0,,{\alpha&H00&\blur6\fs46\c&HF7F7F7&\frx0\fry356\frz22.71\fscx30\fscy100\pos(572.8,739.2)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:41.57,0:05:41.61,Ninpo,,0,0,0,,{\alpha&H00&\blur6\fs46\c&HF7F7F7&\frx0\fry356\frz22.71\fscx30\fscy100\pos(574.4,745.6)}Ninpo: Diken Örtüsü
+Dialogue: 0,0:05:40.36,0:05:40.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HE0&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1407.83,150.35)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.40,0:05:40.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HC6&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1407.83,158.85)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.44,0:05:40.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H8E&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1407.96,167.33)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.48,0:05:40.52,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H55&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1407.94,175.8)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.52,0:05:40.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H1C&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1407.96,184.08)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.57,0:05:40.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.03,192.6)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.61,0:05:40.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.07,200.89)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.65,0:05:40.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.13,209.36)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.69,0:05:40.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.12,217.59)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.73,0:05:40.77,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.15,225.9)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.77,0:05:40.82,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.16,234.2)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.82,0:05:40.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.25,242.49)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.86,0:05:40.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.31,250.76)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.90,0:05:40.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.33,258.97)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.94,0:05:40.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.36,267.16)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:40.98,0:05:41.02,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.38,275.3)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.02,0:05:41.07,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.43,283.41)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.07,0:05:41.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.51,291.5)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.11,0:05:41.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.56,299.58)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.15,0:05:41.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.57,307.61)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.19,0:05:41.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.57,315.6)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.23,0:05:41.27,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.61,323.54)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.27,0:05:41.32,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.64,331.46)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.32,0:05:41.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.66,339.38)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.36,0:05:41.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.65,347.28)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.40,0:05:41.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.74,355.19)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.44,0:05:41.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.76,362.95)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.48,0:05:41.52,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.81,370.69)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.52,0:05:41.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.82,378.45)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.57,0:05:41.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.82,386.1)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.61,0:05:41.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\frx14\fry0\c&H17110D&\frz23.89\pos(1408.86,393.75)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.65,0:05:41.69,Ninpo,,0,0,0,,{\fscx100\fscy100\1a&HFE&\blur1.5\yshad-4\xshad-5\frx14\fry0\c&H4B4A4C&\frz23.89\4c&H4B4A4C&\4a&H79&\pos(1411.97,400.23)}Ninpo: Vahşi Kafa
+Dialogue: 1,0:05:41.65,0:05:41.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\frx14\fry0\c&H4B4A4C&\frz23.89\pos(1408.91,401.34)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.69,0:05:41.73,Ninpo,,0,0,0,,{\fscx100\fscy100\1a&HFE&\bord2\blur1\frx14\fry0\c&H8C9095&\frz23.89\pos(1407.9,407.91)\3c&H000000&\3a&HCB&}Ninpo: Vahşi Kafa
+Dialogue: 1,0:05:41.69,0:05:41.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\frx14\fry0\c&H8C9095&\frz23.89\pos(1408.9,408.91)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.73,0:05:41.77,Ninpo,,0,0,0,,{\alpha&H00&\blur2.5\frx14\fry0\c&HC5C6C7&\frz23.89\pos(1408.96,416.43)\fscx90\fscy100}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.77,0:05:41.82,Ninpo,,0,0,0,,{\alpha&H00&\blur3.5\frx14\fry0\c&HF6F8FA&\frz23.89\pos(1408.95,423.91)\fscx76\fscy100}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.82,0:05:41.86,Ninpo,,0,0,0,,{\alpha&H00&\blur6\frx14\fry0\c&HF6F8FA&\frz23.89\pos(1409,431.38)\fscx61\fscy100}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.86,0:05:41.90,Ninpo,,0,0,0,,{\alpha&H00&\blur8.5\frx14\fry0\c&HF6F8FA&\frz23.89\fscx36\fscy100\pos(1394.58,429.1)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.90,0:05:41.94,Ninpo,,0,0,0,,{\alpha&H00&\blur11\frx14\fry0\c&HF6F8FA&\frz23.89\fscx21\fscy100\pos(1383.49,406.13)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.94,0:05:41.98,Ninpo,,0,0,0,,{\alpha&H00&\blur13.5\frx14\fry0\c&HF6F8FA&\frz23.89\fscx18\fscy100\pos(1377.07,410.2)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.98,0:05:42.03,Ninpo,,0,0,0,,{\alpha&H00&\blur16\frx14\fry0\c&HF6F8FA&\frz23.89\pos(1377.6,401.6)\fscx13\fscy100}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:41.11,0:05:41.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HEF&\blur1\c&H17110D&\frx0\fry0\pos(557.74,381.72)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.15,0:05:41.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HC6&\blur1\c&H17110D&\frx0\fry0\pos(557.78,389.72)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.19,0:05:41.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H8E&\blur1\c&H17110D&\frx0\fry0\pos(557.82,397.71)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.23,0:05:41.27,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H55&\blur1\c&H17110D&\frx0\fry0\pos(557.83,405.66)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.27,0:05:41.32,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H1C&\blur1\c&H17110D&\frx0\fry0\pos(557.87,413.6)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.32,0:05:41.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(557.93,421.52)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.36,0:05:41.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(557.96,429.35)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.40,0:05:41.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558,437.2)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.44,0:05:41.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.05,445)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.48,0:05:41.52,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.06,452.75)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.52,0:05:41.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.12,460.47)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.57,0:05:41.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.15,468.16)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.61,0:05:41.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.21,475.78)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.65,0:05:41.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.21,483.39)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.69,0:05:41.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.28,490.94)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.73,0:05:41.77,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.29,498.47)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.77,0:05:41.82,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.32,505.93)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.82,0:05:41.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.34,513.4)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.86,0:05:41.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.42,520.69)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.90,0:05:41.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.47,528.06)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.94,0:05:41.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.5,535.36)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.98,0:05:42.03,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.57,542.56)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.03,0:05:42.07,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.56,549.82)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.07,0:05:42.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.62,556.98)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.11,0:05:42.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.65,564.18)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.15,0:05:42.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.65,571.22)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.19,0:05:42.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.7,578.24)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.23,0:05:42.28,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.74,585.18)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.28,0:05:42.32,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.8,592.08)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.32,0:05:42.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.86,598.98)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.36,0:05:42.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frx0\fry0\pos(558.89,605.77)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.40,0:05:42.44,Ninpo,,0,0,0,,{\yshad-3\xshad-4\fscx100\fscy100\1a&HFE&\blur1.2\c&H474544&\frx0\fry0\pos(560.92,622.53)\frz29.9\4c&H4E4B4C&\4a&H9D&}Ninpo: Rüzgar Örgüsü
+Dialogue: 1,0:05:42.40,0:05:42.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\c&H474544&\frx0\fry0\pos(558.92,612.53)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.44,0:05:42.48,Ninpo,,0,0,0,,{\bord1\fscx100\fscy100\1a&HFE&\blur1\c&H919193&\frx0\fry0\pos(558.91,619.24)\frz29.9\4c&H000000&\3c&H000000&\3a&HBD&}Ninpo: Rüzgar Örgüsü
+Dialogue: 1,0:05:42.44,0:05:42.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur2\c&H919193&\frx0\fry0\pos(558.91,619.24)\frz29.9}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.48,0:05:42.53,Ninpo,,0,0,0,,{\1a&HFE&\bord2\blur1\c&HCCCCCC&\frx0\fry0\pos(548.02,628.91)\frz29.9\fscx87\fscy100\3c&H000000&\3a&HBE&}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.48,0:05:42.53,Ninpo,,0,0,0,,{\alpha&H00&\blur3\c&HCCCCCC&\frx0\fry0\pos(548.02,628.91)\frz29.9\fscx87\fscy100}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.53,0:05:42.57,Ninpo,,0,0,0,,{\alpha&H00&\blur4\c&HFCFBFB&\frx0\fry0\pos(548.02,628.91)\frz29.9\fscx67\fscy100}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.57,0:05:42.61,Ninpo,,0,0,0,,{\alpha&H00&\blur4\c&HFCFBFB&\frx0\fry0\frz29.9\fscx32\fscy100\pos(546.42,622.51)}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.61,0:05:42.66,Ninpo,,0,0,0,,{\alpha&H00&\blur4\c&HFCFBFB&\frx0\fry0\frz29.9\fscx23\fscy100\pos(546.42,614.51)}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.66,0:05:42.70,Ninpo,,0,0,0,,{\alpha&H00&\blur4\c&HFCFBFB&\frx0\fry0\frz29.9\fscx14\fscy100\pos(543.22,609.71)}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:42.70,0:05:42.74,Ninpo,,0,0,0,,{\alpha&H00&\blur4\c&HFCFBFB&\frx0\fry0\frz29.9\pos(535.22,584.11)\fscx11\fscy100}Ninpo: Rüzgar Örgüsü
+Dialogue: 0,0:05:41.86,0:05:41.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HE0&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1571.08,209.4)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:41.90,0:05:41.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HC6&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1572.37,216.6)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:41.94,0:05:41.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H8E&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1572.13,224.02)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:41.98,0:05:42.03,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H55&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1572.79,231.31)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.03,0:05:42.07,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H0E&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1573.18,238.96)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.07,0:05:42.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1573.43,246.6)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.11,0:05:42.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1573.72,254.27)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.15,0:05:42.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1573.97,261.87)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.19,0:05:42.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1574.24,269.39)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.23,0:05:42.28,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1574.52,276.87)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.28,0:05:42.32,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1574.81,284.31)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.32,0:05:42.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1575.09,291.72)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.36,0:05:42.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1575.34,299.02)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.40,0:05:42.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1575.61,306.28)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.44,0:05:42.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1575.91,313.49)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.48,0:05:42.53,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1576.18,320.68)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.53,0:05:42.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1576.46,327.79)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.57,0:05:42.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1576.75,334.84)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.61,0:05:42.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1577.02,341.83)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.65,0:05:42.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1577.3,348.76)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.69,0:05:42.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1577.6,355.62)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.73,0:05:42.78,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1577.86,362.4)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.78,0:05:42.82,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1578.16,369.18)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.82,0:05:42.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1578.45,375.88)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.86,0:05:42.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1578.76,382.48)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.90,0:05:42.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1579.06,389.01)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.94,0:05:42.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1579.35,395.53)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.98,0:05:43.03,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1579.65,401.91)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.03,0:05:43.07,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1579.94,408.3)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.07,0:05:43.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1580.2,414.53)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.11,0:05:43.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz28.38\frx6\fry352\pos(1580.7,420.92)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.15,0:05:43.19,Ninpo,,0,0,0,,{\fscx100\fscy100\1a&HFE&\blur1\c&H474843&\bord4\frz28.38\frx6\fry352\pos(1583.54,430.03)\3c&H3C3E35&\3a&HAD&}Ninpo: Yaylı Vahşet
+Dialogue: 1,0:05:43.15,0:05:43.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\c&H474843&\frz28.38\frx6\fry352\pos(1581.54,428.03)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.19,0:05:43.23,Ninpo,,0,0,0,,{\fscx100\fscy100\1a&HFE&\blur1.2\c&H8E8D8B&\bord1\frz28.38\frx6\fry352\yshad6\pos(1581.28,430.28)\4c&H7C7F78&\4a&H74&\3c&HFFFFFF&\3a&HB4&}Ninpo: Yaylı Vahşet
+Dialogue: 1,0:05:43.19,0:05:43.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H8E8D8B&\frz28.38\frx6\fry352\pos(1581.28,433.28)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.24,0:05:43.28,Ninpo,,0,0,0,,{\bord0.6\fscx100\fscy100\1a&HFE&\blur1\yshad0\c&HC6C5C6&\frz28.38\frx6\fry352\pos(1582.28,434.28)\4c&HC6C5C6&\4a&HA0&\3c&HC6C5C6&\3a&H8F&}Ninpo: Yaylı Vahşet
+Dialogue: 1,0:05:43.24,0:05:43.28,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur2\c&HC6C5C6&\frz28.38\frx6\fry352\pos(1581.28,433.28)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.28,0:05:43.32,Ninpo,,0,0,0,,{\alpha&H00&\blur5\c&HFAFAFA&\frz28.38\frx6\fry352\pos(1581.28,433.28)\fscx83\fscy100}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.32,0:05:43.36,Ninpo,,0,0,0,,{\alpha&H00&\blur8\c&HFAFAFA&\frz28.38\frx6\fry352\fscx48\fscy88\pos(1563.28,433.28)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.36,0:05:43.41,Ninpo,,0,0,0,,{\alpha&H00&\blur10\c&HFAFAFA&\frz28.38\frx6\fry352\fscx41\fscy81\pos(1549.28,435.28)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.41,0:05:43.45,Ninpo,,0,0,0,,{\alpha&H00&\blur12\c&HFAFAFA&\frz28.38\frx6\fry352\fscx28\fscy77\pos(1551.28,421.28)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:43.45,0:05:43.49,Ninpo,,0,0,0,,{\alpha&H00&\blur14\c&HFAFAFA&\frz28.38\frx6\fry352\fscx19\fscy72\pos(1541.28,435.28)}Ninpo: Yaylı Vahşet
+Dialogue: 0,0:05:42.36,0:05:42.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HE0&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1145.7,345.85)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.40,0:05:42.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&HC6&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1145.77,352.74)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.44,0:05:42.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H8E&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1145.87,359.7)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.48,0:05:42.53,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H55&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146,366.62)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.53,0:05:42.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H0E&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.13,373.61)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.57,0:05:42.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.26,380.48)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.61,0:05:42.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.39,387.35)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.65,0:05:42.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.49,394.01)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.69,0:05:42.73,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.6,400.73)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.73,0:05:42.78,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.71,407.25)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.78,0:05:42.82,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.82,413.83)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.82,0:05:42.86,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1146.94,420.37)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.86,0:05:42.90,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.09,426.72)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.90,0:05:42.94,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.21,433.03)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.94,0:05:42.98,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.34,439.34)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:42.98,0:05:43.03,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.45,445.52)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.03,0:05:43.07,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.57,451.68)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.07,0:05:43.11,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.68,457.72)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.11,0:05:43.15,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.83,463.76)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.15,0:05:43.19,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1147.96,469.65)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.19,0:05:43.23,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.07,475.5)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.23,0:05:43.28,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.19,481.25)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.28,0:05:43.32,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.31,487)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.32,0:05:43.36,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.44,492.61)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.36,0:05:43.40,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.57,498.18)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.40,0:05:43.44,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.7,503.62)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.44,0:05:43.48,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.82,509)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.48,0:05:43.53,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1148.96,514.31)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.53,0:05:43.57,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1149.07,519.49)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.57,0:05:43.61,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1149.2,524.63)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.61,0:05:43.65,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1\c&H17110D&\frz29.19\frx0\fry4\pos(1149.53,529.82)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.65,0:05:43.69,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.2\c&H4A4D4A&\frz29.19\frx0\fry4\pos(1149.89,534.69)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.70,0:05:43.74,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur1.5\c&H94928F&\frz29.19\frx0\fry4\pos(1149.65,538.83)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.74,0:05:43.78,Ninpo,,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur2.5\c&HD5D6D8&\frz29.19\frx0\fry4\pos(1149.27,542.68)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.78,0:05:43.82,Ninpo,,0,0,0,,{\alpha&H00&\blur5\c&HFEFEFE&\frz29.19\frx0\fry4\fscx92\fscy100\pos(1146.62,540.43)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.82,0:05:43.87,Ninpo,,0,0,0,,{\alpha&H00&\blur6\c&HFEFEFE&\frz29.19\frx0\fry4\fscx81\fscy96\pos(1143.48,543.02)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.87,0:05:43.91,Ninpo,,0,0,0,,{\alpha&H00&\blur8\c&HFEFEFE&\frz29.19\frx0\fry4\fscx72\fscy100\pos(1137.78,534.2)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.91,0:05:43.95,Ninpo,,0,0,0,,{\alpha&H00&\blur10\c&HFEFEFE&\frz29.19\frx0\fry4\fscx61\fscy100\pos(1134.9,533.26)}Ninpo: Vahşi Kafa
+Dialogue: 0,0:05:43.95,0:05:43.99,Ninpo,,0,0,0,,{\alpha&H00&\blur12\c&HFEFEFE&\frz29.19\frx0\fry4\fscx33\fscy100\pos(1125.62,529.28)}Ninpo: Vahşi Kafa
