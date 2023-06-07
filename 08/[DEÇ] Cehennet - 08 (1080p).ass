@@ -1,0 +1,551 @@
+﻿[Script Info]
+Title: Dantel Entel
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Commie Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H5F591720,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Default-Alt,Commie Sans,70,&H00FFFFFF,&H000000FF,&H003D0107,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: ed 1,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,0.5,8,40,40,35,0
+Style: ed 2,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,3,40,40,35,0
+Style: OP,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B000000,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: OP2,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B76441A,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,2,30,30,30,1
+Style: YD,Averia Libre,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,1,1,1,1
+Style: Maske,Averia Libre,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,1,1,1,1
+Style: Baslik,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,1,116,150,1
+Style: Orta,Dry Brush,205,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00AF82E4,-1,0,0,0,100,100,0,0,1,0,0,2,570,0,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,İmza,0,0,0,,{Çeviri: Einherjar}{Çeviri Editörü: Vuats}{Yazı Dizimi: Vuats}{Zamanlama: Vuats}{Açılış Şarkısı: Einherjar}{Kapanış Şarkısı: Vuats}{Son Kontrol: Fei?}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:27.61,0:00:31.68,Default,Tenza,0,0,0,,{\i1}Kendimi bildim bileli, insanlardan\Nsürekli aynı şeyleri duydum.
+Dialogue: 20,0:00:33.56,0:00:34.31,Default-Alt,Köylü A,0,0,0,,Çöp.
+Dialogue: 20,0:00:34.41,0:00:35.76,Default-Alt,Köylü B,0,0,0,,İşe yaramaz.
+Dialogue: 20,0:00:35.76,0:00:36.76,Default-Alt,Köylü C,0,0,0,,Ezik.
+Dialogue: 20,0:00:39.61,0:00:41.43,Default,Tenza,0,0,0,,{\i1}Kenar bir mahallede doğup büyüdüm.
+Dialogue: 20,0:00:42.34,0:00:46.03,Default,Tenza,0,0,0,,{\i1}Ailemin bir boğazı daha \Nbesleyecek takati ve isteği yoktu.
+Dialogue: 20,0:00:54.03,0:00:56.91,Default,Tenza,0,0,0,,{\i1}Doymak için çalar, gasp ederdim...
+Dialogue: 20,0:00:57.48,0:00:59.44,Default,Tenza,0,0,0,,{\i1}Öldürmek dışında her yol mubahtı.
+Dialogue: 20,0:01:05.01,0:01:06.85,Default,Tenza,0,0,0,,{\i1}Uyumak istediğimde uyudum.
+Dialogue: 20,0:01:08.13,0:01:09.68,Default,Tenza,0,0,0,,{\i1}Uyanmak istediğimde uyandım.
+Dialogue: 20,0:01:14.55,0:01:16.09,Default,Tenza,0,0,0,,{\i1}Özgürdüm bir nevi.
+Dialogue: 20,0:01:18.34,0:01:19.13,Default-Alt,Tenza,0,0,0,,Hay...
+Dialogue: 20,0:01:19.86,0:01:21.77,Default-Alt,Tenza,0,0,0,,Önüne baksana lan!
+Dialogue: 20,0:01:21.88,0:01:22.85,Default-Alt,Samuray A,0,0,0,,Sokak çocuğu.
+Dialogue: 20,0:01:23.19,0:01:24.08,Default-Alt,Samuray A,0,0,0,,Çöp.
+Dialogue: 20,0:01:32.60,0:01:34.86,Default-Alt,Samuray A,0,0,0,,Lütfen, merhamet et.
+Dialogue: 20,0:01:40.89,0:01:42.52,Default-Alt,Şion,0,0,0,,Bu kadar yeter.
+Dialogue: 20,0:01:43.90,0:01:45.48,Default-Alt,Tenza,0,0,0,,Sen kimsin lan?!
+Dialogue: 20,0:03:28.39,0:03:33.23,Default,Nurugai,0,0,0,,Boş boş sahilde gezinerek \Nakıntının yönünü bulamayız.
+Dialogue: 20,0:03:33.56,0:03:36.00,Default,Nurugai,0,0,0,,Güneş ve kum bizi yiyip bitirecek.
+Dialogue: 20,0:03:36.00,0:03:37.98,Default,Tenza,0,0,0,,Mantıklı konuşmayı bırak az!
+Dialogue: 20,0:03:37.98,0:03:40.73,Default,Tenza,0,0,0,,Benim mallığımla ancak bu kadar oluyor işte!
+Dialogue: 20,0:03:40.73,0:03:43.48,Default,Tenza,0,0,0,,Ormanda bir sürü böcek ve canavar var ayrıca!
+Dialogue: 20,0:03:43.48,0:03:45.48,Default,Nurugai,0,0,0,,Birlikte çalışırsak hallederiz ki.
+Dialogue: 20,0:03:45.77,0:03:48.87,Default,Tenza,0,0,0,,Kız olduğunu öğrendiğime\Ngöre seni tehlikeye atamam.
+Dialogue: 20,0:03:50.21,0:03:52.10,Default,Nurugai,0,0,0,,Ciddiyim ben, gel evlenelim!
+Dialogue: 20,0:03:52.21,0:03:53.75,Default,Tenza,0,0,0,,Fazla acelecisin...
+Dialogue: 20,0:03:54.01,0:03:57.51,Default,Tenza,0,0,0,,Evlilik meselesini buradan \Nçıktıktan sonra konuşuruz.
+Dialogue: 20,0:03:57.51,0:04:00.12,Default,Tenza,0,0,0,,Ne kadar sürerse sürsün, \Ntehlikeye atılmayalım.
+Dialogue: 20,0:04:00.22,0:04:02.26,Default,Tenza,0,0,0,,Savaştan olabildiğince kaçınalım.
+Dialogue: 20,0:04:02.57,0:04:04.76,Default,Nurugai,0,0,0,,Sağduyulu, iyi bir koca olacaksın.
+Dialogue: 20,0:04:06.64,0:04:07.89,Default,Tenza,0,0,0,,Hı?
+Dialogue: 20,0:04:12.42,0:04:15.15,Default,Tenza,0,0,0,,Ne... Bu kim?
+Dialogue: 20,0:04:15.50,0:04:17.15,Default,Tenza,0,0,0,,Demin gökten düştü...
+Dialogue: 20,0:04:17.37,0:04:21.40,Default,Zhu Jin (Kadın),0,0,0,,Orman çok gürültülü. Normal değil.
+Dialogue: 20,0:04:22.40,0:04:25.30,Default,Zhu Jin (Kadın),0,0,0,,Bir sürü Soşin cesedi gördüm.
+Dialogue: 20,0:04:25.30,0:04:27.58,Default,Zhu Jin (Kadın),0,0,0,,Bu da normal değil.
+Dialogue: 20,0:04:28.72,0:04:30.66,Default,Zhu Jin (Erkek),0,0,0,,Sizin işiniz mi?
+Dialogue: 20,0:04:31.10,0:04:32.66,Default,Nurugai,0,0,0,,Erkeğe dönüştü.
+Dialogue: 20,0:04:32.66,0:04:35.04,Default,Tenza,0,0,0,,Canavar bu. Kaçalım!
+Dialogue: 20,0:04:35.63,0:04:37.04,Default,Zhu Jin (Erkek),0,0,0,,Neden kaçıyorsunuz?
+Dialogue: 20,0:04:40.23,0:04:40.92,Default,Tenza,0,0,0,,Hı?
+Dialogue: 20,0:04:41.52,0:04:42.80,Default,Zhu Jin (Erkek),0,0,0,,Anlamsız oysa ki.
+Dialogue: 20,0:04:52.51,0:04:54.06,Default,Zhu Jin (Erkek),0,0,0,,Aslında umurumda değil de...
+Dialogue: 20,0:04:54.50,0:04:58.06,Default,Zhu Jin (Erkek),0,0,0,,...işlerin normalden farklı olması \Naklınızı kurcalıyor mu?
+Dialogue: 20,0:04:59.17,0:05:01.36,Default,Zhu Jin (Erkek),0,0,0,,Benim pek hoşuma gitmez de...
+Dialogue: 20,0:05:09.56,0:05:13.66,Default,Zhu Jin (Erkek),0,0,0,,Vay... Bir insana göre oldukça çeviksin.
+Dialogue: 20,0:05:26.78,0:05:29.68,Default,Zhu Jin (Erkek),0,0,0,,Hızlısın. Bir insana göre yani...
+Dialogue: 20,0:05:32.23,0:05:32.93,Default,Tenza,0,0,0,,Bayan Nurugai!
+Dialogue: 20,0:05:35.18,0:05:36.56,Default,Tenza,0,0,0,,Sinyal verdiğimde koşacağız.
+Dialogue: 20,0:05:36.56,0:05:38.29,Default,Tenza,0,0,0,,Çarpışmayı aklından bile geçirme, koş!
+Dialogue: 20,0:05:38.29,0:05:38.69,Default,Nurugai,0,0,0,,Tamam.
+Dialogue: 20,0:05:39.09,0:05:41.09,Default,Tenza,0,0,0,,Pek dayanıklı biri olmasam da...
+Dialogue: 20,0:05:43.79,0:05:46.04,Default,Tenza,0,0,0,,...kılıç ustalığıma laf ettirmem!
+Dialogue: 20,0:06:00.76,0:06:01.42,Default,Tenza,0,0,0,,Şimdi!
+Dialogue: 20,0:06:21.29,0:06:22.96,Default,Zhu Jin (Erkek),0,0,0,,Kıyafetlerimi parçaladın.
+Dialogue: 20,0:06:27.54,0:06:29.03,Default,Zhu Jin (Erkek),0,0,0,,Mahvoldular.
+Dialogue: 20,0:06:39.27,0:06:39.92,Default,Nurugai,0,0,0,,Ne?
+Dialogue: 20,0:06:41.85,0:06:42.54,Default,Tenza,0,0,0,,Ho...
+Dialogue: 20,0:06:42.72,0:06:43.75,Default,Tenza,0,0,0,,Hocam!
+Dialogue: 20,0:06:43.75,0:06:45.92,Default,Şion,0,0,0,,Koş, Tenza!
+Dialogue: 20,0:06:45.92,0:06:46.76,Default,Tenza,0,0,0,,Emredersiniz!
+Dialogue: 20,0:06:53.21,0:06:54.14,Default,Nurugai,0,0,0,,O kim?
+Dialogue: 20,0:06:54.14,0:06:56.52,Default,Tenza,0,0,0,,Yamada Asaemon'u, Şion.
+Dialogue: 20,0:06:56.52,0:06:58.24,Default,Tenza,0,0,0,,Hocam olur.
+Dialogue: 20,0:06:58.46,0:07:00.64,Default,Nurugai,0,0,0,,Gözleri kapalı.
+Dialogue: 20,0:07:00.64,0:07:03.27,Default,Nurugai,0,0,0,,Buna rağmen ormanda koşabiliyor.
+Dialogue: 20,0:07:03.27,0:07:05.90,Default,Tenza,0,0,0,,Koku ve sesler ona yetiyor.
+Dialogue: 20,0:07:14.56,0:07:16.04,Default,Şion,0,0,0,,Epey uzaklaştık.
+Dialogue: 20,0:07:16.42,0:07:17.38,Default,Tenza,0,0,0,,Bay Nurugai-
+Dialogue: 20,0:07:17.38,0:07:21.04,Default,Tenza,0,0,0,,Yani bayan... Yanımızda bu adam \Nolduğu sürece endişeye gerek yok.
+Dialogue: 20,0:07:21.15,0:07:25.04,Default,Tenza,0,0,0,,{\pos(612,1020)}Bay Şion hem kurtarıcım, \Nhem de ustam olur.
+Dialogue: 20,0:07:25.04,0:07:27.30,Default,Tenza,0,0,0,,Kendisi harika biri-
+Dialogue: 20,0:07:27.30,0:07:31.76,Default,Şion,0,0,0,,Az önceki de neydi? Hızına olan güvenin \Nyüzünden özensizce hareket ediyordun.
+Dialogue: 20,0:07:32.00,0:07:34.68,Default,Şion,0,0,0,,Öyle rakiplere karşı \Nkafa ya da ayak hedef alınır.
+Dialogue: 20,0:07:34.68,0:07:37.32,Default,Şion,0,0,0,,Ayrıca ciğerlerinin zayıflığını \Nsesinden anlayabiliyorum.
+Dialogue: 20,0:07:37.33,0:07:39.32,Default,Şion,0,0,0,,Her bir darbeyi özenle indirmelisin.
+Dialogue: 20,0:07:39.32,0:07:42.76,Default,Tenza,0,0,0,,Durum ne olursa olsun hocalık \Nyapmayı bırakmıyorsunuz ya.
+Dialogue: 20,0:07:42.76,0:07:45.00,Default,Tenza,0,0,0,,Bu durum nedense beni biraz rahatlattı.
+Dialogue: 20,0:07:45.00,0:07:47.57,Default,Şion,0,0,0,,Senin de şu saflığın bir bitmedi.
+Dialogue: 20,0:07:47.81,0:07:50.81,Default,Şion,0,0,0,,Hayret bir şey. Neyse ki iyisin.
+Dialogue: 20,0:07:50.81,0:07:53.25,Default,Şion,0,0,0,,Gemiye dönene kadar görüşemeyiz sanıyordum.
+Dialogue: 20,0:07:54.11,0:07:55.82,Default,Tenza,0,0,0,,Bi' şey mi demem gerekiyo' şu an?
+Dialogue: 20,0:07:56.70,0:08:00.27,Default,Tenza,0,0,0,,O değil de, hocam. \NTek başınıza n'apıyordunuz siz?
+Dialogue: 20,0:08:02.00,0:08:05.71,Default,Şion,0,0,0,,Görevimi tamamlayınca \Ngeri dönmeye yeltendim ama...
+Dialogue: 20,0:08:13.47,0:08:16.15,Default,Şion,0,0,0,,Adanın dışına akan bir akıntı bulamadım.
+Dialogue: 20,0:08:16.15,0:08:18.04,Default,Şion,0,0,0,,Arayışa çıkmıştım bu yüzden.
+Dialogue: 20,0:08:18.24,0:08:19.60,Default,Nurugai,0,0,0,,Bizim gibi.
+Dialogue: 20,0:08:20.00,0:08:24.23,Default,Şion,0,0,0,,Bir yerde dışarıya akıyormuş gibi\N görünen bir akıntı buldum ama...
+Dialogue: 20,0:08:25.63,0:08:29.07,Default,Şion,0,0,0,,Sesini daha önce hiç \Nduymadığım bir varlık hissettim.
+Dialogue: 20,0:08:29.56,0:08:32.95,Default,Şion,0,0,0,,Göremediğim için tek başıma \Nhiç bulaşmayayım diye düşünüp...
+Dialogue: 20,0:08:32.95,0:08:35.99,Default,Şion,0,0,0,,...benim gibi geri dönmeye \Nçalışanları aramaya koyuldum.
+Dialogue: 20,0:08:36.30,0:08:38.10,Default,Tenza,0,0,0,,Bizi oraya götürün lütfen.
+Dialogue: 20,0:08:38.10,0:08:40.28,Default,Tenza,0,0,0,,Üçümüz birlikte halledebiliriz.
+Dialogue: 20,0:08:40.50,0:08:42.62,Default,Şion,0,0,0,,Evet, belki.
+Dialogue: 20,0:08:42.62,0:08:44.24,Default,Şion,0,0,0,,Ama önce...
+Dialogue: 20,0:08:48.91,0:08:51.94,Default,Tenza,0,0,0,,N'apıyorsunuz, hocam?
+Dialogue: 20,0:08:52.11,0:08:54.13,Default,Şion,0,0,0,,Bu sefer açıklama sırası sende.
+Dialogue: 20,0:08:54.31,0:08:55.88,Default,Şion,0,0,0,,Neden mahkumunu koruyorsun?
+Dialogue: 20,0:08:56.12,0:08:58.64,Default,Şion,0,0,0,,Kural ihlalinde veya beklenmedik \Nbaşka bir durumda...
+Dialogue: 20,0:08:58.64,0:09:01.64,Default,Şion,0,0,0,,...mahkumun derhal idam\N edilmesi gerektiği söylendi.
+Dialogue: 20,0:09:02.67,0:09:04.14,Default,Şion,0,0,0,,Ben de öyle yaptım.
+Dialogue: 20,0:09:07.01,0:09:09.86,Default,Şion,0,0,0,,Mahkumum beni ayartmaya çalıştı.
+Dialogue: 20,0:09:12.25,0:09:13.36,Default,Şion,0,0,0,,Ben de boynunu kestim.
+Dialogue: 20,0:09:13.58,0:09:15.79,Default,Şion,0,0,0,,En azından acı çekmemesini sağladım.
+Dialogue: 20,0:09:17.77,0:09:22.54,Default,Şion,0,0,0,,Ama sen, mahkuma yardım \Nediyor gibisin. Sebebini açıkla.
+Dialogue: 20,0:09:22.54,0:09:25.72,Default,Şion,0,0,0,,Yanıtına bağlı olarak \Nidamı ben devralabilirim.
+Dialogue: 20,0:09:25.97,0:09:28.63,Default,Tenza,0,0,0,,Bu çocuk hiçbir suç işlemedi.
+Dialogue: 20,0:09:29.01,0:09:32.38,Default,Şion,0,0,0,,Listede yazanların birçoğunu ezberledim.
+Dialogue: 20,0:09:32.78,0:09:35.38,Default,Şion,0,0,0,,Mahkumların durumlarından haberdarım.
+Dialogue: 20,0:09:35.53,0:09:39.76,Default,Şion,0,0,0,,Ancak neyin suç olduğuna \N dönem karar verir, Tenza.
+Dialogue: 20,0:09:40.79,0:09:44.40,Default,Şion,0,0,0,,Yamada Asaemon'u, \Nzamanın savurduğu bir kılıçtır.
+Dialogue: 20,0:09:44.56,0:09:48.12,Default,Şion,0,0,0,,Kesme kararını kılıca bırakmak mantığa aykırıdır.
+Dialogue: 20,0:09:48.29,0:09:50.40,Default,Şion,0,0,0,,Hepsi bir kenara, kuralları ihlal etmen...
+Dialogue: 20,0:09:50.40,0:09:53.03,Default,Şion,0,0,0,,...Yamada klanına\Nbir ihanet olarak görülebilir.
+Dialogue: 20,0:09:53.70,0:09:56.53,Default,Şion,0,0,0,,Tek başına yaptığın eylemlerle \Ntüm klanı tehlikeye atabilirsin.
+Dialogue: 20,0:09:57.54,0:10:01.53,Default,Tenza,0,0,0,,Ama kılıcımı nasıl kullanacağımı \Nbana siz öğretmediniz mi?
+Dialogue: 20,0:10:02.01,0:10:04.29,Default,Tenza,0,0,0,,İflah olmayan, evsiz bir çocuğu...
+Dialogue: 20,0:10:04.42,0:10:08.79,Default,Tenza,0,0,0,,...o çöplükten kurtarmak\N sizin inisiyatifiniz değil miydi?
+Dialogue: 20,0:10:09.38,0:10:13.30,Default,Şion,0,0,0,,Senin durumun farklıydı. \NYeteneğini ve potansiyeli öngörmüştüm.
+Dialogue: 20,0:10:13.30,0:10:15.40,Default,Tenza,0,0,0,,İşte aynısı benim için de geçerli!
+Dialogue: 20,0:10:15.62,0:10:19.43,Default,Tenza,0,0,0,,Bu kızın özgürce yaşayabileceği bir \Ndünyanın varlığını öngörüyorum!
+Dialogue: 20,0:10:20.60,0:10:22.85,Default,Şion,0,0,0,,Büyümüş de adam olmuş gibi konuştun.
+Dialogue: 20,0:10:23.00,0:10:24.68,Default,Tenza,0,0,0,,Emekleriniz sayenizde.
+Dialogue: 20,0:10:25.72,0:10:29.47,Default,Tenza,0,0,0,,Hem ne kadar kibar olduğunuzu biliyorum.
+Dialogue: 20,0:10:29.63,0:10:32.31,Default,Tenza,0,0,0,,Yürekten konuşursam\N beni dinleyeceğinizi biliyorum.
+Dialogue: 20,0:10:41.71,0:10:43.92,Default-Alt,Tenza,0,0,0,,İnsanlara neden yardım ettiğini anlayamıyorum.
+Dialogue: 20,0:10:46.42,0:10:48.68,Default,Şion,0,0,0,,Madem öyle diyorsun.
+Dialogue: 20,0:10:48.78,0:10:49.96,Default,Tenza,0,0,0,,İşte bu!
+Dialogue: 20,0:10:50.26,0:10:52.63,Default,Tenza,0,0,0,,Bak! iyi biriymiş di' mi?
+Dialogue: 20,0:10:52.63,0:10:53.96,Default,Nurugai,0,0,0,,Ah, evet.
+Dialogue: 20,0:10:53.96,0:10:56.64,Default,Şion,0,0,0,,Ama konu kapanmış değil.
+Dialogue: 20,0:10:56.85,0:11:02.09,Default,Şion,0,0,0,,Eğer bu kızı korumak Yamada klanına \Nya da sana bir tehlike arz ederse...
+Dialogue: 20,0:11:02.77,0:11:03.35,Default,Şion,0,0,0,,O vakit...
+Dialogue: 20,0:11:04.64,0:11:05.55,Default,Şion,0,0,0,,N'oldu?
+Dialogue: 20,0:11:05.55,0:11:08.78,Default,Tenza,0,0,0,,Kızı mı? Anlayabilmenize şaşırdım...
+Dialogue: 20,0:11:08.78,0:11:09.98,Default,Şion,0,0,0,,Anlarım tabii.
+Dialogue: 20,0:11:10.45,0:11:11.82,Default,Şion,0,0,0,,Kör değiliz çok şükür.
+Dialogue: 20,0:11:11.82,0:11:14.36,Default,Tenza,0,0,0,,Böyle şakaları epey seviyorsunuz.
+Dialogue: 20,0:11:15.95,0:11:17.86,Default,Nurugai,0,0,0,,Memnun oldum, hocam.
+Dialogue: 20,0:11:18.90,0:11:20.61,Default,Şion,0,0,0,,Ben de memnun oldum, Nurugai.
+Dialogue: 20,0:11:20.61,0:11:23.70,Default,Şion,0,0,0,,Ama bana hocam demene gerek yok.
+Dialogue: 20,0:11:23.90,0:11:26.43,Default,Şion,0,0,0,,Sana bir şey öğretmedim sonuçta.
+Dialogue: 20,0:11:28.27,0:11:31.77,Default,Tenza,0,0,0,,Öyleyse gidip şu bahsettiğiniz\Nakıntıya bir bakalım.
+Dialogue: 20,0:11:31.90,0:11:33.13,Default,Şion,0,0,0,,Sesini yükseltme.
+Dialogue: 20,0:11:33.69,0:11:35.38,Default,Şion,0,0,0,,Acele etmeden, dikkatlice ilerleyelim.
+Dialogue: 20,0:11:36.00,0:11:38.73,Default,Şion,0,0,0,,Şu anki en büyük tehdidimiz deminki canavar.
+Dialogue: 20,0:11:38.89,0:11:40.42,Default,Şion,0,0,0,,İnsan olduğunu hiç sanmıyorum.
+Dialogue: 20,0:11:41.00,0:11:43.43,Default,Şion,0,0,0,,Yine karşılaşırsak \Nne yapacağız onu düşünelim.
+Dialogue: 20,0:11:43.70,0:11:47.63,Default,Tenza,0,0,0,,Kaçmak yeter diyorsak deminki \Ntaktikle kolayca kaçabiliriz.
+Dialogue: 20,0:11:49.00,0:11:51.19,Default,Zhu Jin (Kadın),0,0,0,,Beni hafife alıyorsunuz demek.
+Dialogue: 20,0:11:57.53,0:11:59.06,Default,Tenza,0,0,0,,Sağ olun, hocam.
+Dialogue: 20,0:11:59.06,0:11:59.94,Default,Nurugai,0,0,0,,Teşekkürler.
+Dialogue: 20,0:12:01.38,0:12:02.20,Default,Tenza,0,0,0,,Hocam!
+Dialogue: 20,0:12:02.70,0:12:03.45,Default,Zhu Jin (Kadın),0,0,0,,Hı?
+Dialogue: 20,0:12:03.68,0:12:07.45,Default,Zhu Jin (Kadın),0,0,0,,Kelleni aldığımı düşünüyordum. Fena değil.
+Dialogue: 20,0:12:15.36,0:12:16.79,Default,Zhu Jin (Kadın),0,0,0,,O bir kere olur.
+Dialogue: 20,0:12:18.88,0:12:22.89,Default,Zhu Jin (Kadın),0,0,0,,Tan'a dönüşmek için kalbinin atması gerek ama...
+Dialogue: 20,0:12:24.01,0:12:25.80,Default,Zhu Jin (Kadın),0,0,0,,...sinirimi bozduğun için seni öldüreceğim.
+Dialogue: 20,0:12:26.02,0:12:29.66,Default,Tenza,0,0,0,,{\i1}Ne yapacağım? Kaçmam gerek ama..
+Dialogue: 20,0:12:31.01,0:12:33.31,Default,Tenza,0,0,0,,{\i1}Hayır, bu işi burada bitirmem lazım.
+Dialogue: 20,0:12:38.74,0:12:41.07,Default,Tenza,0,0,0,,Üstün Sınayıcı Yeteneği...
+Dialogue: 20,0:12:41.07,0:12:42.41,Default,Şion,0,0,0,,Bekle, Ten-
+Dialogue: 20,0:12:44.83,0:12:46.45,Default,Tenza,0,0,0,,{\i1}Sağanak Yağış!
+Dialogue: 20,0:12:52.75,0:12:54.96,Default,Zhu Jin (Kadın),0,0,0,,Bir kere olur dedik.
+Dialogue: 20,0:13:04.93,0:13:06.56,Default,Nurugai,0,0,0,,Tenza!
+Dialogue: 20,0:13:15.63,0:13:16.94,Default-Alt,Tenza,0,0,0,,Şey, hocam.
+Dialogue: 20,0:13:17.36,0:13:19.93,Default-Alt,Tenza,0,0,0,,Niye benim gibi birini yanına aldın?
+Dialogue: 20,0:13:20.21,0:13:21.51,Default-Alt,Şion,0,0,0,,Üsluba dikkat ederek sor.
+Dialogue: 20,0:13:22.14,0:13:24.85,Default-Alt,Tenza,0,0,0,,Beni neden yanınıza aldınız?
+Dialogue: 20,0:13:25.46,0:13:28.07,Default-Alt,Şion,0,0,0,,Bizim işimiz can almak.
+Dialogue: 20,0:13:28.43,0:13:31.28,Default-Alt,Şion,0,0,0,,Kalan vaktimi insanlara yardım\N ederek geçirmek istiyorum.
+Dialogue: 20,0:13:31.80,0:13:35.21,Default-Alt,Şion,0,0,0,,Biraz kaba bir mizacın olduğu bir gerçek ama...
+Dialogue: 20,0:13:36.58,0:13:38.83,Default-Alt,Şion,0,0,0,,...yine de sendeki potansiyeli hissettim.
+Dialogue: 20,0:13:39.13,0:13:41.31,Default-Alt,Tenza,0,0,0,,Hıh. Ne harika ama.
+Dialogue: 20,0:13:41.31,0:13:43.66,Default-Alt,Tenza,0,0,0,,İnsanlara neden yardım ettiğini anlayamıyorum.
+Dialogue: 20,0:13:50.13,0:13:51.47,Default-Alt,Tenza,0,0,0,,Kahretsin!
+Dialogue: 20,0:13:51.87,0:13:53.59,Default-Alt,Şion,0,0,0,,Dikkatini kılıcından ayırma.
+Dialogue: 20,0:13:53.71,0:13:55.58,Default-Alt,Şion,0,0,0,,Duygularına teslim oluyorsun.
+Dialogue: 20,0:13:55.58,0:13:58.81,Default-Alt,Şion,0,0,0,,Öfkene, ve şüphene...
+Dialogue: 20,0:13:59.51,0:14:02.71,Default-Alt,Tenza,0,0,0,,Samuray olmak istediğim yok ki.
+Dialogue: 20,0:14:02.99,0:14:04.49,Default-Alt,Tenza,0,0,0,,Bunlar anlamsız.
+Dialogue: 20,0:14:05.01,0:14:07.96,Default-Alt,Şion,0,0,0,,Hayatını samuray ideallerine\Nadamanı istemiyorum.
+Dialogue: 20,0:14:08.14,0:14:12.12,Default-Alt,Şion,0,0,0,,Ancak bir gün korumak \Nistediğin biri olursa...
+Dialogue: 20,0:14:12.83,0:14:15.87,Default-Alt,Şion,0,0,0,,...geliştirdiğin bu kılıç ustalığı \Nsana yardımcı olacak.
+Dialogue: 20,0:14:16.59,0:14:18.62,Default-Alt,Tenza,0,0,0,,Korumak istediğim bir şey...
+Dialogue: 20,0:14:19.24,0:14:21.63,Default-Alt,Şion,0,0,0,,Şu kiraz ağaçlarına bir bak.
+Dialogue: 20,0:14:22.01,0:14:24.52,Default-Alt,Şion,0,0,0,,Gövdesi cılız, çiçekleri hala tomurcuk.
+Dialogue: 20,0:14:25.11,0:14:28.63,Default-Alt,Şion,0,0,0,,Fakat o tomurcuklar uçsuz bir potansiyele sahip.
+Dialogue: 20,0:14:29.22,0:14:30.89,Default-Alt,Şion,0,0,0,,Senin gibi.
+Dialogue: 20,0:14:31.19,0:14:35.20,Default-Alt,Şion,0,0,0,,Senin tomurcukların da bir gün filizlenecek.
+Dialogue: 20,0:14:36.03,0:14:36.57,Default-Alt,Köylü A,0,0,0,,{\an8}Çöp.
+Dialogue: 20,0:14:36.57,0:14:37.18,Default-Alt,Köylü B,0,0,0,,{\an8}İşe yaramaz.
+Dialogue: 20,0:14:37.18,0:14:37.94,Default-Alt,Köylü C,0,0,0,,{\an8}Ezik.
+Dialogue: 20,0:14:37.94,0:14:39.11,Default-Alt,Samuray A,0,0,0,,{\an8}Sokak çocuğu.
+Dialogue: 20,0:14:40.60,0:14:42.20,Default-Alt,Şion,0,0,0,,Hadi, devam edelim.
+Dialogue: 20,0:14:42.67,0:14:43.82,Default-Alt,Tenza,0,0,0,,Yok bende...
+Dialogue: 20,0:14:44.19,0:14:46.69,Default-Alt,Tenza,0,0,0,,Potansiyel falan... Yok bende!
+Dialogue: 20,0:14:48.00,0:14:50.24,Default-Alt,Tenza,0,0,0,,Ne itibarım, ne de beş kuruş param var.
+Dialogue: 20,0:14:50.62,0:14:54.20,Default-Alt,Tenza,0,0,0,,Doğduğum günden belliydi \Npotansiyelimin falan olmadığı!
+Dialogue: 20,0:14:56.18,0:14:57.53,Default-Alt,Tenza,0,0,0,,Bırakıyorum.
+Dialogue: 20,0:14:57.53,0:14:58.54,Default-Alt,Şion,0,0,0,,Ne?
+Dialogue: 20,0:14:58.54,0:14:59.91,Default-Alt,Tenza,0,0,0,,Bırakıyorum dedim.
+Dialogue: 20,0:14:59.91,0:15:02.29,Default-Alt,Tenza,0,0,0,,Bıktım lan bu katı yaşam tarzından.
+Dialogue: 20,0:15:02.29,0:15:04.52,Default-Alt,Tenza,0,0,0,,İstediğim gibi yaşamak istiyorum.
+Dialogue: 20,0:15:05.47,0:15:06.88,Default-Alt,Şion,0,0,0,,Kararın kesin mi?
+Dialogue: 20,0:15:06.88,0:15:07.97,Default-Alt,Tenza,0,0,0,,Evet.
+Dialogue: 20,0:15:08.25,0:15:10.61,Default-Alt,Şion,0,0,0,,Öyleyse bir şartım var.
+Dialogue: 20,0:15:10.89,0:15:12.05,Default-Alt,Tenza,0,0,0,,Şart mı?
+Dialogue: 20,0:15:12.52,0:15:13.60,Default-Alt,Şion,0,0,0,,Yalnızca bir darbe.
+Dialogue: 20,0:15:14.51,0:15:18.68,Default-Alt,Şion,0,0,0,,Ne zaman, nerede olursa olsun.\NBana bir darbe indir.
+Dialogue: 20,0:15:19.30,0:15:20.56,Default-Alt,Şion,0,0,0,,İndirebilirsen...
+Dialogue: 20,0:15:21.02,0:15:22.48,Default-Alt,Şion,0,0,0,,...bırakmana izin veririm.
+Dialogue: 20,0:15:27.00,0:15:28.84,Default-Alt,Tenza,0,0,0,,Kim uğraşacak...
+Dialogue: 20,0:15:31.00,0:15:34.66,Default-Alt,Eizen,0,0,0,,Nereye gidiyorsun? Dojo diğer tarafta.
+Dialogue: 20,0:15:35.25,0:15:37.29,Default-Alt,Eizen,0,0,0,,Şion olanlardan bahsetti.
+Dialogue: 20,0:15:37.72,0:15:39.66,Default-Alt,Eizen,0,0,0,,Darbeyi indirebildin mi?
+Dialogue: 20,0:15:40.06,0:15:42.14,Default-Alt,Tenza,0,0,0,,Beni geri mi götüreceksin?
+Dialogue: 20,0:15:42.54,0:15:43.72,Default-Alt,Eizen,0,0,0,,Ne istiyorsan yap.
+Dialogue: 20,0:15:44.00,0:15:44.67,Default-Alt,Tenza,0,0,0,,Hı?
+Dialogue: 20,0:15:44.92,0:15:47.91,Default-Alt,Eizen,0,0,0,,Ama gitmeden önce \Nyürüyüşümde bana eşlik et.
+Dialogue: 20,0:15:48.13,0:15:50.86,Default-Alt,Eizen,0,0,0,,Erken kalkınca vakit geçmiyor.
+Dialogue: 20,0:16:01.27,0:16:06.07,Default-Alt,Eizen,0,0,0,,Burada yatan kişi Şion'un eski öğrencisi.
+Dialogue: 20,0:16:06.60,0:16:07.78,Default-Alt,Eizen,0,0,0,,Adı Teşşin'di.
+Dialogue: 20,0:16:08.27,0:16:09.78,Default-Alt,Tenza,0,0,0,,Öğrencisi mi?
+Dialogue: 20,0:16:09.78,0:16:12.61,Default-Alt,Eizen,0,0,0,,Senin gibi, sicili parlak olmayan bir çocuktu.
+Dialogue: 20,0:16:12.97,0:16:15.82,Default-Alt,Eizen,0,0,0,,Yetenekliydi ama bir motivasyonu yoktu.
+Dialogue: 20,0:16:16.12,0:16:20.45,Default-Alt,Tenza,0,0,0,,O zaman hocam onu da \Nepey zorlamıştır, "benim gibi".
+Dialogue: 20,0:16:22.40,0:16:26.22,Default-Alt,Eizen,0,0,0,,Aynı zamanda Şion kendi yeteneklerini\Nde geliştirmeye odaklanmıştı.
+Dialogue: 20,0:16:26.48,0:16:29.25,Default-Alt,Eizen,0,0,0,,Şu anki öğretme arzusunun\N yarısına bile sahip değildi.
+Dialogue: 20,0:16:29.61,0:16:34.34,Default-Alt,Eizen,0,0,0,,Sonuç olarak Teşşin kafasına eseni yapmak\N istediğini söyleyip dojoyu terk etti.
+Dialogue: 20,0:16:34.97,0:16:37.60,Default-Alt,Eizen,0,0,0,,Bir süre değişen bir şey olmadı.
+Dialogue: 20,0:16:38.76,0:16:42.64,Default-Alt,Eizen,0,0,0,,Bir gün Şion, her zaman olduğu gibi,\N Sınayıcılık için yola koyuldu...
+Dialogue: 20,0:16:43.22,0:16:45.08,Default-Alt,Eizen,0,0,0,,...ve mahkumun önüne çıktı.
+Dialogue: 20,0:16:48.64,0:16:53.24,Default-Alt,Eizen,0,0,0,,Fakat Şion, kılıcını bir türlü indiremedi.
+Dialogue: 20,0:16:53.77,0:16:54.80,Default-Alt,Tenza,0,0,0,,Yoksa...
+Dialogue: 20,0:16:54.99,0:16:55.72,Default-Alt,Eizen,0,0,0,,Evet.
+Dialogue: 20,0:16:55.99,0:17:00.49,Default-Alt,Eizen,0,0,0,,Şion, önündeki mahkumun \NTeşşin olduğunu fark etti.
+Dialogue: 20,0:17:01.00,0:17:03.11,Default-Alt,Eizen,0,0,0,,Teşşin, dojoyu terk ettikten sonra...
+Dialogue: 20,0:17:03.11,0:17:07.01,Default-Alt,Eizen,0,0,0,,...karnını doyuracak parayı bulamayıp suça başvurdu.
+Dialogue: 20,0:17:07.55,0:17:10.25,Default-Alt,Tenza,0,0,0,,Hocam ne yaptı?
+Dialogue: 20,0:17:10.25,0:17:13.76,Default-Alt,Eizen,0,0,0,,Bir Yamada Asaemon'unun yapması gerekeni.
+Dialogue: 20,0:17:14.47,0:17:18.26,Default-Alt,Eizen,0,0,0,,Şion, Teşşin'in son sözlerini duydu.
+Dialogue: 20,0:17:18.55,0:17:20.76,Default-Alt,Eizen,0,0,0,,Şöyle dediğini söyledi:
+Dialogue: 20,0:17:22.34,0:17:25.02,Default-Alt,Eizen,0,0,0,,"Hocam, özür dilerim."
+Dialogue: 20,0:17:25.86,0:17:31.98,Default-Alt,Eizen,0,0,0,,Şion'un öğretme tutkusunu ateşleyen ve insanlara \Nyardım eli uzatmasını başlatan olay buydu işte.
+Dialogue: 20,0:17:32.61,0:17:36.59,Default-Alt,Eizen,0,0,0,,Sen de aynı yolu seçersen \Nbir gün aynı duruma düşebilirsin.
+Dialogue: 20,0:17:37.27,0:17:40.91,Default-Alt,Eizen,0,0,0,,Muhtemelen senin de aynı kaderi \Nyaşamanın yazık olacağını düşündü.
+Dialogue: 20,0:17:41.04,0:17:42.49,Default-Alt,Şion,0,0,0,,{\i1}Sen de aynısın.
+Dialogue: 20,0:17:42.72,0:17:46.92,Default-Alt,Şion,0,0,0,,{\i1}Senin tomurcukların da bir gün filizlenecek.
+Dialogue: 20,0:17:47.26,0:17:48.00,Default-Alt,Eizen,0,0,0,,Eee?
+Dialogue: 20,0:17:48.60,0:17:51.77,Default-Alt,Eizen,0,0,0,,Ona bir darbe bile indiremeden \Nburadan kaçıp gidecek misin?
+Dialogue: 20,0:18:01.60,0:18:02.72,Default-Alt,Şion,0,0,0,,Sen miydin, Tenza?
+Dialogue: 20,0:18:03.55,0:18:06.29,Default-Alt,Tenza,0,0,0,,Hocam, düello yapalım.
+Dialogue: 20,0:18:16.76,0:18:18.49,Default-Alt,Şion,0,0,0,,Eskisi gibi değilsin.
+Dialogue: 20,0:18:19.37,0:18:24.37,Default-Alt,Tenza,0,0,0,,{\i1}Şimdiye dek kendimi ciddi ciddi\Nadadığım bir şey olmamıştı ama...
+Dialogue: 20,0:18:31.09,0:18:32.54,Default-Alt,Şion,0,0,0,,Kanatların hala savunmasız.
+Dialogue: 20,0:18:34.12,0:18:35.55,Default-Alt,Tenza,0,0,0,,Tekrar.
+Dialogue: 20,0:18:37.25,0:18:38.32,Default-Alt,Tenza,0,0,0,,Tekrar.
+Dialogue: 20,0:18:39.83,0:18:41.14,Default-Alt,Tenza,0,0,0,,Tekrar!
+Dialogue: 20,0:18:42.77,0:18:44.13,Default-Alt,Tenza,0,0,0,,İşimiz bitmedi!
+Dialogue: 20,0:18:44.74,0:18:47.18,Default-Alt,Tenza,0,0,0,,{\i1}Bu adama bir darbe indirebilmek istiyorum.
+Dialogue: 20,0:18:51.61,0:18:55.63,Default-Alt,Tenza,0,0,0,,{\i1}Bu adam, potansiyelime inanan ilk kişi.
+Dialogue: 20,0:18:56.51,0:18:58.04,Default-Alt,Tenza,0,0,0,,{\i1}Şey, hocam.
+Dialogue: 20,0:18:58.04,0:19:01.92,Default-Alt,Tenza,0,0,0,,{\i1}Ben de kendi potansiyelime inanabilir miyim?
+Dialogue: 20,0:19:02.08,0:19:05.20,Default-Alt,Tenza,0,0,0,,{\i1}Ve bir gün sizin de dediğiniz gibi...
+Dialogue: 20,0:19:06.45,0:19:09.05,Default-Alt,Tenza,0,0,0,,{\i1}Benim de korumak istediğim biri çıkar mı?
+Dialogue: 20,0:19:22.24,0:19:24.51,Default,Tenza,0,0,0,,{\i1}Parmak uçlarım üşümeye başladı.
+Dialogue: 20,0:19:25.84,0:19:29.75,Default,Tenza,0,0,0,,{\i1}Ama gövdemden yukarısı alev gibi yanıyor.
+Dialogue: 20,0:19:31.15,0:19:32.48,Default,Tenza,0,0,0,,{\i1}Şimdi anladım.
+Dialogue: 20,0:19:33.15,0:19:35.56,Default,Tenza,0,0,0,,{\i1}Ölüyorum galiba...
+Dialogue: 20,0:19:36.16,0:19:41.74,Default,Tenza,0,0,0,,{\i1}Hepimiz burada... \NBu canavar tarafından öldürüleceğiz...
+Dialogue: 20,0:19:50.84,0:19:52.71,Default,Tenza,0,0,0,,{\i1}Buna izin veremem!
+Dialogue: 20,0:19:56.67,0:19:59.84,Default,Tenza,0,0,0,,{\i1}Ben ölsem bile onlar kaçacak.
+Dialogue: 20,0:20:00.02,0:20:01.68,Default,Tenza,0,0,0,,{\i1}Ne gerekiyorsa yapacağım!
+Dialogue: 20,0:20:02.40,0:20:05.60,Default,Tenza,0,0,0,,{\i1}Bütün gücümle vakit kazanacağım.
+Dialogue: 20,0:20:14.38,0:20:15.90,Default,Tenza,0,0,0,,{\i1}Uzak dur.
+Dialogue: 20,0:20:16.40,0:20:19.15,Default,Tenza,0,0,0,,{\i1}Kaç. Kaç lütfen.
+Dialogue: 20,0:20:29.51,0:20:32.56,Default,Tenza,0,0,0,,{\i1}İkiniz de... Kaçın.
+Dialogue: 20,0:20:33.62,0:20:35.46,Default,Tenza,0,0,0,,{\i1}Yapmayın hocam.
+Dialogue: 20,0:20:35.64,0:20:36.92,Default,Tenza,0,0,0,,{\i1}Kazanamazsınız.
+Dialogue: 20,0:20:37.22,0:20:38.42,Default,Tenza,0,0,0,,{\i1}Bunu biliyorsunuz.
+Dialogue: 20,0:20:39.04,0:20:41.43,Default,Tenza,0,0,0,,{\i1}Boğazımdan aldığım darbe \Nyüzünden ses çıkaramıyorum.
+Dialogue: 20,0:20:42.41,0:20:44.66,Default,Tenza,0,0,0,,{\i1}Hocam, kaçın lütfen.
+Dialogue: 20,0:20:44.78,0:20:46.30,Default,Tenza,0,0,0,,{\i1}Tek kelime etsem yeter.
+Dialogue: 20,0:20:46.88,0:20:47.81,Default,Tenza,0,0,0,,{\i1}Sesim...
+Dialogue: 20,0:21:05.00,0:21:06.07,Default,Nurugai,0,0,0,,Tenza!
+Dialogue: 20,0:21:21.55,0:21:23.59,Default,Tenza,0,0,0,,{\i1}Hocam, üzgünüm.
+Dialogue: 20,0:21:23.90,0:21:25.34,Default,Tenza,0,0,0,,{\i1}Sizi de o kadar uğraştırdım...
+Dialogue: 20,0:21:26.83,0:21:28.85,Default,Tenza,0,0,0,,{\i1}Bayan Nurugai, yaşayın lütfen.
+Dialogue: 20,0:21:29.50,0:21:31.35,Default,Tenza,0,0,0,,{\i1}Sizde potansiyel var.
+Dialogue: 20,0:21:33.99,0:21:35.24,Default,Tenza,0,0,0,,{\i1}Potansiyel.
+Dialogue: 20,0:21:35.96,0:21:37.75,Default,Tenza,0,0,0,,{\i1}Benden ne olur ki?
+Dialogue: 20,0:21:50.63,0:21:52.35,Default,Zhu Jin (Kadın),0,0,0,,Çok ısrarcıydı.
+Dialogue: 20,0:22:03.76,0:22:06.51,Default,Nurugai,0,0,0,,Neden arkada bıraktık onu? \NBen geri dönüyorum!
+Dialogue: 20,0:22:06.85,0:22:08.36,Default,Şion,0,0,0,,Olmaz.
+Dialogue: 20,0:22:08.53,0:22:11.01,Default,Şion,0,0,0,,Bu Tenza'nın arzusu.
+Dialogue: 20,0:22:11.31,0:22:15.02,Default,Nurugai,0,0,0,,Ama yine de... Hocası değil misin onun?
+Dialogue: 20,0:22:15.32,0:22:16.58,Default,Nurugai,0,0,0,,Öğrencin değil mi o senin?
+Dialogue: 20,0:22:16.58,0:22:17.52,Default,Şion,0,0,0,,Çok daha ötesi!
+Dialogue: 20,0:22:18.84,0:22:22.02,Default,Şion,0,0,0,,Bizler aynı şeyi isteyen dostlarız.
+Dialogue: 20,0:22:22.39,0:22:27.53,Default,Şion,0,0,0,,Bizim için hayatını riske attı.\NBoşa gitmesine izin veremem.
+Dialogue: 20,0:22:28.39,0:22:30.57,Default,Şion,0,0,0,,Şu anda o canavarı yenemeyiz.
+Dialogue: 20,0:22:30.76,0:22:32.72,Default,Şion,0,0,0,,Kaçmasaydık biz de ölecektik.
+Dialogue: 20,0:22:32.90,0:22:34.54,Default,Şion,0,0,0,,Geri çekilmek zorundaydık.
+Dialogue: 20,0:22:34.88,0:22:38.86,Default,Şion,0,0,0,,Ama öcünü alacağıma ant içiyorum.
+Dialogue: 20,0:23:06.49,0:23:10.37,Default-Alt,Tenza,0,0,0,,İşte bu! Sonunda başardım!
+Dialogue: 20,0:23:10.60,0:23:11.82,Default-Alt,Şion,0,0,0,,Etkileyiciydi.
+Dialogue: 20,0:23:12.20,0:23:14.02,Default-Alt,Şion,0,0,0,,Artık dilediğini yapmakta özgürsün...
+Dialogue: 20,0:23:17.63,0:23:22.67,Default-Alt,Tenza,0,0,0,,Hocam, bana kılıcımı nasıl- \NDoğrusu...
+Dialogue: 20,0:23:22.94,0:23:27.48,Default-Alt,Tenza,0,0,0,,Hocam, bugünden itibaren\Nkılıcıma ışık tutmanızı istiyorum.
+Dialogue: 20,0:23:28.11,0:23:29.37,Default-Alt,Şion,0,0,0,,Tabii ki.
+Comment: 0,0:01:52.05,0:03:21.47,YD,,0,0,0,,{op}
+Dialogue: 0,0:01:53.47,0:01:55.30,OP,,0,0,0,,{\fad(120,100)\blur1}Özgür yanını
+Dialogue: 0,0:01:55.60,0:01:57.47,OP,,0,0,0,,{\fad(120,100)\blur1}göster bana yaşamanın
+Dialogue: 0,0:01:57.97,0:01:59.81,OP,,0,0,0,,{\fad(120,100)\blur1}Güvencesizse
+Dialogue: 0,0:02:00.60,0:02:02.10,OP,,0,0,0,,{\fad(120,100)\blur1}buruştur at çöpe
+Dialogue: 0,0:02:02.64,0:02:04.35,OP,,0,0,0,,{\fad(120,100)\blur1}Söylentiler mi?
+Dialogue: 0,0:02:04.65,0:02:06.40,OP,,0,0,0,,{\fad(120,100)\blur1}Hiç takma kafana!
+Dialogue: 0,0:02:07.23,0:02:09.11,OP,,0,0,0,,{\fad(120,100)\blur1}Hedefe ulaş da
+Dialogue: 0,0:02:09.73,0:02:11.36,OP,,0,0,0,,{\fad(120,100)\blur1}bakalım olanlara
+Dialogue: 0,0:02:11.36,0:02:13.36,OP,,0,0,0,,{\fad(120,100)\blur1}Manastırda boş beş neden
+Dialogue: 0,0:02:13.61,0:02:15.66,OP,,0,0,0,,{\fad(120,100)\blur1}beşi birden bize beden
+Dialogue: 0,0:02:15.87,0:02:20.29,OP,,0,0,0,,{\fad(120,100)\blur1}Adımı anlar ancak idrak edebilen
+Dialogue: 0,0:02:20.45,0:02:22.58,OP,,0,0,0,,{\fad(120,100)\blur1}Sen taktikle uğraşırken
+Dialogue: 0,0:02:22.83,0:02:24.92,OP,,0,0,0,,{\fad(120,100)\blur1}Yetinirim bir zarla ben
+Dialogue: 0,0:02:25.08,0:02:31.67,OP,,0,0,0,,{\fad(120,100)\blur1}Zorla istersen, başka türlü zor fark etmen
+Dialogue: 0,0:02:29.09,0:02:31.67,OP2,,0,0,0,,{\fad(120,100)\blur1}Sıkıştık kaldık, dönüp duruyoruz burada
+Dialogue: 0,0:02:31.67,0:02:33.72,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&&H2599E0&&}Etrafımız sarılı fare ve sıçanlarla
+Dialogue: 0,0:02:33.84,0:02:35.68,OP2,,0,0,0,,{\fad(120,100)\blur1}Wake up bankers, çıkın parayı!
+Dialogue: 0,0:02:35.68,0:02:38.47,OP2,,0,0,0,,{\fad(120,100)\blur1}Sözlerim vurur yüze yumruk gibi
+Dialogue: 0,0:02:38.47,0:02:40.43,OP2,,0,0,0,,{\fad(120,100)\blur1}Uyanın rüyanızdan
+Dialogue: 0,0:02:40.64,0:02:43.06,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H2C295E&}Dik durun, my fav people!
+Dialogue: 0,0:02:43.27,0:02:45.31,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H2457C2&\3c&HFFFFFF&\4c&HFFFFFF&)}Affet beni,
+Dialogue: 0,0:02:45.31,0:02:47.65,OP,,0,0,0,,{\fad(120,100)\blur1}arındır günahlarımdan!
+Dialogue: 0,0:02:47.73,0:02:49.94,OP,,0,0,0,,{\fad(120,100)\blur1}ve yargıla
+Dialogue: 0,0:02:48.86,0:02:50.23,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H86B8EA&\t(1000,1200,\3c&H00000&)}Yargıla beni
+Dialogue: 0,0:02:49.94,0:02:52.24,OP,,0,0,0,,{\fad(120,100)\blur1}Nasıl olması gerekiyorsa
+Dialogue: 0,0:02:52.24,0:02:54.49,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H79634A&\3c&HFFFFFF&\4c&HFFFFFF&)}Azarla beni
+Dialogue: 0,0:02:54.49,0:02:56.82,OP,,0,0,0,,{\fad(120,100)\blur1}Şayet affedildiysem,
+Dialogue: 0,0:02:56.82,0:03:02.87,OP,,0,0,0,,{\fad(120,100)\blur1}tadını çıkarmak istiyorum hayatın yanımda sevdiğim adamla!
+Dialogue: 0,0:03:03.08,0:03:05.16,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H275F94&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:03:05.16,0:03:06.58,OP,,0,0,0,,{\fad(0,0)\blur1}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:03:06.58,0:03:07.38,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H4779DC&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:03:07.67,0:03:08.08,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H1F69BC&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:03:08.08,0:03:09.59,OP,,0,0,0,,{\fad(0,0)\blur1}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:03:09.59,0:03:10.84,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H838DBA&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:03:10.84,0:03:11.92,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H92B8BB&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:03:12.21,0:03:13.34,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:03:13.34,0:03:14.47,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H7099AA&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:03:14.47,0:03:15.47,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:03:15.47,0:03:16.38,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H573C6C&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:03:16.76,0:03:16.97,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H573C6C&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:03:16.97,0:03:19.30,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H342560&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:03:19.30,0:03:21.47,OP,,0,0,0,,{\fad(0,380)\blur1\3c&H151742&}Doya doya yaşa, günler sayılı olsa da!
+Comment: 0,0:22:55.77,0:24:24.94,YD,,0,0,0,,{ed}
+Dialogue: 0,0:22:55.52,0:23:00.11,ed 1,,0,0,0,,{\fad(250,350)}Saklamayı denedim
+Dialogue: 0,0:23:00.69,0:23:04.03,ed 1,,0,0,0,,{\fad(250,350)}İmkansız sanmıştım
+Dialogue: 0,0:23:04.03,0:23:08.70,ed 1,,0,0,0,,{\fad(250,350)}Utancımı bahane etmiştim
+Dialogue: 0,0:23:08.70,0:23:14.00,ed 1,,0,0,0,,{\fad(150,350)}Ama sen bana akışına bırak dedin ve
+Dialogue: 0,0:23:14.67,0:23:21.63,ed 1,,0,0,0,,{\fad(250,350)}Kırgın kalbimi iyileştirdin, eski haline getirdin
+Dialogue: 0,0:23:21.63,0:23:23.72,ed 1,,0,0,0,,{\fad(250,350)}Kırdın tabuları
+Dialogue: 0,0:23:23.88,0:23:28.76,ed 1,,0,0,0,,{\fad(250,350)}Bu çıtkırıldım kalp ile
+Dialogue: 0,0:23:28.85,0:23:35.94,ed 1,,0,0,0,,{\fad(250,350)}Böyle duygulara dayanması zor
+Dialogue: 0,0:23:39.48,0:23:41.65,ed 1,,0,0,0,,{\fad(250,350)}Keşke artık
+Dialogue: 0,0:23:41.82,0:23:45.36,ed 1,,0,0,0,,{\fad(250,350)}Yarınların sonu gelse
+Dialogue: 0,0:23:45.36,0:23:49.03,ed 1,,0,0,0,,{\fad(250,350)}Rüyalarda kaybolsak keşke
+Dialogue: 0,0:23:49.03,0:23:55.92,ed 1,,0,0,0,,{\fad(250,350)}Bugün bir başkası olmasa aklında
+Dialogue: 0,0:23:55.92,0:23:59.59,ed 1,,0,0,0,,{\fad(250,350)}Yüreğimde var bir dilek
+Dialogue: 0,0:23:59.59,0:24:02.88,ed 1,,0,0,0,,{\fad(250,350)}Keşke gerçek olsa dediğim
+Dialogue: 0,0:24:03.01,0:24:09.93,ed 1,,0,0,0,,{\fad(150,350)}Bir gün sesi duyulsa, ulaşsa sana keşke
+Dialogue: 0,0:24:09.93,0:24:13.52,ed 1,,0,0,0,,{\fad(250,350)}Kaç kez incinsen de
+Dialogue: 0,0:24:13.68,0:24:17.06,ed 1,,0,0,0,,{\fad(250,350)}Korumaya çalıştığın aşk
+Dialogue: 0,0:24:17.06,0:24:24.90,ed 1,,0,0,0,,{\fad(250,350)}Bir gün kollarını dolayacak sana bile
+Comment: 0,0:03:22.55,0:03:27.68,YD,,0,0,0,,{yd}
+Dialogue: 0,0:03:22.47,0:03:27.65,Baslik,,0,0,0,,{\an3\fad(525,500)}Öğrenci ve Usta
+Dialogue: 0,0:13:06.93,0:13:10.94,Orta,,0,0,0,,{\be1}Cehennet
+Dialogue: 1,0:07:21.92,0:07:25.04,Maske,,0,0,0,,{\blur0.6\fad(300,0)\pos(1,1)\p1\c&H000000&}m 1223.46 595.07 l 1798.04 595.07 1798.04 1010.2 1223.46 1010.2
+Dialogue: 2,0:07:21.92,0:07:25.04,Maske,,0,0,0,,{\blur0.6\fad(300,0)\pos(1,1)\p1}m 1236.51 608.86 l 1784.63 608.86 1784.63 996.28 1236.51 996.28
+Dialogue: 3,0:07:21.92,0:07:25.04,YD,,0,0,0,,{\fad(300,0)\blur0.8\fnHiraginoGyoDSTR\fs54\c&H000000&\pos(1506,683)}Kademe 4 Sınayıcı
+Dialogue: 3,0:07:21.92,0:07:25.04,YD,,0,0,0,,{\fad(300,0)\blur0.8\fnHiraginoGyoDSTR\fs54\c&H000000&\pos(1506,747)}Yamada Asaemonu
+Dialogue: 3,0:07:21.92,0:07:25.04,YD,,0,0,0,,{\fad(300,0)\blur0.8\fnHiraginoGyoDSTR\fs88\c&H000000&\pos(1506,879.4)}Şion
+Dialogue: 1,0:15:59.56,0:15:59.60,YD,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.3\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.67,893)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.60,0:15:59.64,YD,,0,0,0,,{\fscx100.06\fscy100.06\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.3\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.66,893.3)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.64,0:15:59.68,YD,,0,0,0,,{\fscx100.15\fscy100.15\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.3\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.68,893.62)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.68,0:15:59.73,YD,,0,0,0,,{\fscx100.23\fscy100.23\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.3\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.68,893.94)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.73,0:15:59.77,YD,,0,0,0,,{\fscx100.3\fscy100.3\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.3\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.68,894.26)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.77,0:15:59.81,YD,,0,0,0,,{\fscx100.36\fscy100.36\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.3\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.67,894.54)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.81,0:15:59.85,YD,,0,0,0,,{\fscx100.42\fscy100.42\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.67,894.84)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.85,0:15:59.89,YD,,0,0,0,,{\fscx100.5\fscy100.5\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.68,895.16)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.89,0:15:59.93,YD,,0,0,0,,{\fscx100.56\fscy100.56\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.69,895.48)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.93,0:15:59.98,YD,,0,0,0,,{\fscx100.61\fscy100.61\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.69,895.77)}Huzur İçinde Uyusun
+Dialogue: 1,0:15:59.98,0:16:00.02,YD,,0,0,0,,{\fscx100.68\fscy100.68\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.69,896.06)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.02,0:16:00.06,YD,,0,0,0,,{\fscx100.76\fscy100.76\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.69,896.39)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.06,0:16:00.10,YD,,0,0,0,,{\fscx100.81\fscy100.81\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.7,896.71)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.10,0:16:00.14,YD,,0,0,0,,{\fscx100.86\fscy100.86\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.7,897.04)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.14,0:16:00.19,YD,,0,0,0,,{\fscx100.94\fscy100.94\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.7,897.38)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.19,0:16:00.23,YD,,0,0,0,,{\fscx101.01\fscy101.01\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.69,897.68)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.23,0:16:00.27,YD,,0,0,0,,{\fscx101.05\fscy101.05\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.7,897.97)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.27,0:16:00.31,YD,,0,0,0,,{\fscx101.09\fscy101.09\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.71,898.29)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.31,0:16:00.35,YD,,0,0,0,,{\fscx101.13\fscy101.13\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.31\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.71,898.59)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.35,0:16:00.39,YD,,0,0,0,,{\fscx101.21\fscy101.21\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.7,898.92)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.39,0:16:00.44,YD,,0,0,0,,{\fscx101.28\fscy101.28\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.71,899.23)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.44,0:16:00.48,YD,,0,0,0,,{\fscx101.33\fscy101.33\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,899.53)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.48,0:16:00.52,YD,,0,0,0,,{\fscx101.37\fscy101.37\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,899.85)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.52,0:16:00.56,YD,,0,0,0,,{\fscx101.48\fscy101.48\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.72,900.18)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.56,0:16:00.60,YD,,0,0,0,,{\fscx101.52\fscy101.52\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.72,900.47)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.60,0:16:00.64,YD,,0,0,0,,{\fscx101.57\fscy101.57\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.71,900.79)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.64,0:16:00.69,YD,,0,0,0,,{\fscx101.64\fscy101.64\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,901.12)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.69,0:16:00.73,YD,,0,0,0,,{\fscx101.69\fscy101.69\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,901.44)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.73,0:16:00.77,YD,,0,0,0,,{\fscx101.75\fscy101.75\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,901.75)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.77,0:16:00.81,YD,,0,0,0,,{\fscx101.8\fscy101.8\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,902.07)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.81,0:16:00.85,YD,,0,0,0,,{\fscx101.87\fscy101.87\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.32\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,902.4)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.85,0:16:00.89,YD,,0,0,0,,{\fscx101.94\fscy101.94\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,902.72)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.89,0:16:00.94,YD,,0,0,0,,{\fscx101.97\fscy101.97\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,903.03)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.94,0:16:00.98,YD,,0,0,0,,{\fscx102.04\fscy102.04\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,903.36)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:00.98,0:16:01.02,YD,,0,0,0,,{\fscx102.08\fscy102.08\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,903.67)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.02,0:16:01.06,YD,,0,0,0,,{\fscx102.16\fscy102.16\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,904)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.06,0:16:01.10,YD,,0,0,0,,{\fscx102.24\fscy102.24\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,904.32)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.10,0:16:01.14,YD,,0,0,0,,{\fscx102.31\fscy102.31\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,904.65)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.14,0:16:01.19,YD,,0,0,0,,{\fscx102.37\fscy102.37\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.72,904.96)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.19,0:16:01.23,YD,,0,0,0,,{\fscx102.42\fscy102.42\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,905.28)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.23,0:16:01.27,YD,,0,0,0,,{\fscx102.5\fscy102.5\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,905.61)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.27,0:16:01.31,YD,,0,0,0,,{\fscx102.57\fscy102.57\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.72,905.94)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.31,0:16:01.35,YD,,0,0,0,,{\fscx102.63\fscy102.63\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,906.27)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.35,0:16:01.39,YD,,0,0,0,,{\fscx102.67\fscy102.67\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.33\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,906.57)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.39,0:16:01.44,YD,,0,0,0,,{\fscx102.73\fscy102.73\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.73,906.9)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.44,0:16:01.48,YD,,0,0,0,,{\fscx102.81\fscy102.81\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,907.24)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.48,0:16:01.52,YD,,0,0,0,,{\fscx102.87\fscy102.87\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.75,907.56)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.52,0:16:01.56,YD,,0,0,0,,{\fscx102.91\fscy102.91\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.75,907.88)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.56,0:16:01.60,YD,,0,0,0,,{\fscx102.98\fscy102.98\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.75,908.22)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.60,0:16:01.64,YD,,0,0,0,,{\fscx103.03\fscy103.03\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.76,908.53)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.64,0:16:01.69,YD,,0,0,0,,{\fscx103.11\fscy103.11\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,908.88)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.69,0:16:01.73,YD,,0,0,0,,{\fscx103.18\fscy103.18\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.74,909.22)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.73,0:16:01.77,YD,,0,0,0,,{\fscx103.22\fscy103.22\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.76,909.53)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.77,0:16:01.81,YD,,0,0,0,,{\fscx103.27\fscy103.27\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.76,909.85)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.81,0:16:01.85,YD,,0,0,0,,{\fscx103.36\fscy103.36\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,910.18)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.85,0:16:01.90,YD,,0,0,0,,{\fscx103.43\fscy103.43\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.34\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.76,910.51)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.90,0:16:01.94,YD,,0,0,0,,{\fscx103.5\fscy103.5\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.78,910.84)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.94,0:16:01.98,YD,,0,0,0,,{\fscx103.54\fscy103.54\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,911.16)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:01.98,0:16:02.02,YD,,0,0,0,,{\fscx103.61\fscy103.61\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,911.49)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.02,0:16:02.06,YD,,0,0,0,,{\fscx103.68\fscy103.68\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.76,911.83)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.06,0:16:02.10,YD,,0,0,0,,{\fscx103.73\fscy103.73\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,912.16)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.10,0:16:02.15,YD,,0,0,0,,{\fscx103.78\fscy103.78\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,912.49)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.15,0:16:02.19,YD,,0,0,0,,{\fscx103.84\fscy103.84\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.78,912.82)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.19,0:16:02.23,YD,,0,0,0,,{\fscx103.9\fscy103.9\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,913.16)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.23,0:16:02.27,YD,,0,0,0,,{\fscx103.98\fscy103.98\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.79,913.48)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.27,0:16:02.31,YD,,0,0,0,,{\fscx104.03\fscy104.03\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.79,913.83)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.31,0:16:02.35,YD,,0,0,0,,{\fscx104.07\fscy104.07\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.79,914.16)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.35,0:16:02.40,YD,,0,0,0,,{\fscx104.14\fscy104.14\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.78,914.5)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.40,0:16:02.44,YD,,0,0,0,,{\fscx104.22\fscy104.22\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.35\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,914.83)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.44,0:16:02.48,YD,,0,0,0,,{\fscx104.27\fscy104.27\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.36\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,915.15)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.48,0:16:02.52,YD,,0,0,0,,{\fscx104.32\fscy104.32\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.36\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,915.49)}Huzur İçinde Uyusun
+Dialogue: 1,0:16:02.52,0:16:02.56,YD,,0,0,0,,{\fscx104.37\fscy104.37\frz0\alpha&H00&\c&H161A24&\fax0.02\blur1.36\fnQuintessential\fs80\4c&H797A80&\b1\4a&H24&\pos(961.77,915.85)}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.56,0:15:59.60,YD,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.67,893)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.60,0:15:59.64,YD,,0,0,0,,{\fscx100.06\fscy100.06\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.67,893.32)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.64,0:15:59.68,YD,,0,0,0,,{\fscx100.15\fscy100.15\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.67,893.64)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.68,0:15:59.73,YD,,0,0,0,,{\fscx100.23\fscy100.23\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.67,893.97)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.73,0:15:59.77,YD,,0,0,0,,{\fscx100.3\fscy100.3\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2.01\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.68,894.29)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.77,0:15:59.81,YD,,0,0,0,,{\fscx100.36\fscy100.36\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2.01\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.68,894.61)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.81,0:15:59.85,YD,,0,0,0,,{\fscx100.42\fscy100.42\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2.01\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.68,894.93)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.85,0:15:59.89,YD,,0,0,0,,{\fscx100.5\fscy100.5\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2.01\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.68,895.25)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.89,0:15:59.93,YD,,0,0,0,,{\fscx100.56\fscy100.56\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2.01\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.68,895.57)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.93,0:15:59.98,YD,,0,0,0,,{\fscx100.61\fscy100.61\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.8\fnQuintessential\fs80\xshad2.01\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.68,895.9)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:15:59.98,0:16:00.02,YD,,0,0,0,,{\fscx100.68\fscy100.68\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.01\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.68,896.22)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.02,0:16:00.06,YD,,0,0,0,,{\fscx100.76\fscy100.76\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.69,896.54)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.06,0:16:00.10,YD,,0,0,0,,{\fscx100.81\fscy100.81\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.69,896.86)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.10,0:16:00.14,YD,,0,0,0,,{\fscx100.86\fscy100.86\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.69,897.18)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.14,0:16:00.19,YD,,0,0,0,,{\fscx100.94\fscy100.94\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.5\4c&H797A80&\b1\4a&HA0&\pos(961.69,897.51)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.19,0:16:00.23,YD,,0,0,0,,{\fscx101.01\fscy101.01\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.69,897.83)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.23,0:16:00.27,YD,,0,0,0,,{\fscx101.05\fscy101.05\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.69,898.15)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.27,0:16:00.31,YD,,0,0,0,,{\fscx101.09\fscy101.09\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.69,898.47)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.31,0:16:00.35,YD,,0,0,0,,{\fscx101.13\fscy101.13\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.7,898.79)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.35,0:16:00.39,YD,,0,0,0,,{\fscx101.21\fscy101.21\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.02\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.7,899.11)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.39,0:16:00.44,YD,,0,0,0,,{\fscx101.28\fscy101.28\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.7,899.44)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.44,0:16:00.48,YD,,0,0,0,,{\fscx101.33\fscy101.33\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.7,899.76)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.48,0:16:00.52,YD,,0,0,0,,{\fscx101.37\fscy101.37\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.7,900.08)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.52,0:16:00.56,YD,,0,0,0,,{\fscx101.48\fscy101.48\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.7,900.4)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.56,0:16:00.60,YD,,0,0,0,,{\fscx101.52\fscy101.52\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.7,900.72)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.60,0:16:00.64,YD,,0,0,0,,{\fscx101.57\fscy101.57\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.71,901.05)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.64,0:16:00.69,YD,,0,0,0,,{\fscx101.64\fscy101.64\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.71,901.37)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.69,0:16:00.73,YD,,0,0,0,,{\fscx101.69\fscy101.69\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.71,901.69)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.73,0:16:00.77,YD,,0,0,0,,{\fscx101.75\fscy101.75\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.03\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.71,902.01)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.77,0:16:00.81,YD,,0,0,0,,{\fscx101.8\fscy101.8\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.71,902.33)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.81,0:16:00.85,YD,,0,0,0,,{\fscx101.87\fscy101.87\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.81\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.71,902.65)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.85,0:16:00.89,YD,,0,0,0,,{\fscx101.94\fscy101.94\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.71,902.98)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.89,0:16:00.94,YD,,0,0,0,,{\fscx101.97\fscy101.97\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,903.3)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.94,0:16:00.98,YD,,0,0,0,,{\fscx102.04\fscy102.04\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,903.62)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:00.98,0:16:01.02,YD,,0,0,0,,{\fscx102.08\fscy102.08\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,903.94)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.02,0:16:01.06,YD,,0,0,0,,{\fscx102.16\fscy102.16\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,904.26)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.06,0:16:01.10,YD,,0,0,0,,{\fscx102.24\fscy102.24\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.04\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,904.59)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.10,0:16:01.14,YD,,0,0,0,,{\fscx102.31\fscy102.31\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,904.91)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.14,0:16:01.19,YD,,0,0,0,,{\fscx102.37\fscy102.37\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,905.23)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.19,0:16:01.23,YD,,0,0,0,,{\fscx102.42\fscy102.42\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.72,905.55)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.23,0:16:01.27,YD,,0,0,0,,{\fscx102.5\fscy102.5\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.73,905.87)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.27,0:16:01.31,YD,,0,0,0,,{\fscx102.57\fscy102.57\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.73,906.2)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.31,0:16:01.35,YD,,0,0,0,,{\fscx102.63\fscy102.63\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.73,906.52)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.35,0:16:01.39,YD,,0,0,0,,{\fscx102.67\fscy102.67\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.73,906.84)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.39,0:16:01.44,YD,,0,0,0,,{\fscx102.73\fscy102.73\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.05\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.73,907.16)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.44,0:16:01.48,YD,,0,0,0,,{\fscx102.81\fscy102.81\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.06\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.73,907.48)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.48,0:16:01.52,YD,,0,0,0,,{\fscx102.87\fscy102.87\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.06\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.73,907.8)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.52,0:16:01.56,YD,,0,0,0,,{\fscx102.91\fscy102.91\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.06\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.74,908.13)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.56,0:16:01.60,YD,,0,0,0,,{\fscx102.98\fscy102.98\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.06\yshad0.51\4c&H797A80&\b1\4a&HA0&\pos(961.74,908.45)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.60,0:16:01.64,YD,,0,0,0,,{\fscx103.03\fscy103.03\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.06\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.74,908.77)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.64,0:16:01.69,YD,,0,0,0,,{\fscx103.11\fscy103.11\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.82\fnQuintessential\fs80\xshad2.06\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.74,909.09)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.69,0:16:01.73,YD,,0,0,0,,{\fscx103.18\fscy103.18\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.06\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.74,909.41)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.73,0:16:01.77,YD,,0,0,0,,{\fscx103.22\fscy103.22\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.06\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.74,909.74)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.77,0:16:01.81,YD,,0,0,0,,{\fscx103.27\fscy103.27\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.74,910.06)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.81,0:16:01.85,YD,,0,0,0,,{\fscx103.36\fscy103.36\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.75,910.38)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.85,0:16:01.90,YD,,0,0,0,,{\fscx103.43\fscy103.43\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.75,910.7)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.90,0:16:01.94,YD,,0,0,0,,{\fscx103.5\fscy103.5\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.75,911.02)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.94,0:16:01.98,YD,,0,0,0,,{\fscx103.54\fscy103.54\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.75,911.34)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:01.98,0:16:02.02,YD,,0,0,0,,{\fscx103.61\fscy103.61\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.75,911.67)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.02,0:16:02.06,YD,,0,0,0,,{\fscx103.68\fscy103.68\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.75,911.99)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.06,0:16:02.10,YD,,0,0,0,,{\fscx103.73\fscy103.73\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.07\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.75,912.31)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.10,0:16:02.15,YD,,0,0,0,,{\fscx103.78\fscy103.78\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.76,912.63)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.15,0:16:02.19,YD,,0,0,0,,{\fscx103.84\fscy103.84\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.76,912.95)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.19,0:16:02.23,YD,,0,0,0,,{\fscx103.9\fscy103.9\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.76,913.28)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.23,0:16:02.27,YD,,0,0,0,,{\fscx103.98\fscy103.98\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.76,913.6)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.27,0:16:02.31,YD,,0,0,0,,{\fscx104.03\fscy104.03\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.76,913.92)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.31,0:16:02.35,YD,,0,0,0,,{\fscx104.07\fscy104.07\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.76,914.24)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.35,0:16:02.40,YD,,0,0,0,,{\fscx104.14\fscy104.14\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.76,914.56)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.40,0:16:02.44,YD,,0,0,0,,{\fscx104.22\fscy104.22\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.08\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.77,914.88)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.44,0:16:02.48,YD,,0,0,0,,{\fscx104.27\fscy104.27\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.09\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.77,915.21)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.48,0:16:02.52,YD,,0,0,0,,{\fscx104.32\fscy104.32\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.09\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.77,915.53)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
+Dialogue: 0,0:16:02.52,0:16:02.56,YD,,0,0,0,,{\fscx104.37\fscy104.37\frz0\alpha&H00&\c&H171D2A&\fax0.02\blur0.83\fnQuintessential\fs80\xshad2.09\yshad0.52\4c&H797A80&\b1\4a&HA0&\pos(961.77,915.85)\3a&HFF&\1a&HFE&}Huzur İçinde Uyusun
