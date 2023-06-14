@@ -1,0 +1,371 @@
+﻿[Script Info]
+Title: Dantel Entel
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Commie Sans,70,&H00FFFFFF,&H000000FF,&H00000000,&H5F591720,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: Default-Alt,Commie Sans,70,&H00FFFFFF,&H000000FF,&H003D0107,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.2,2,250,250,60,1
+Style: ed 1,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,0.5,1,40,40,35,0
+Style: ed 2,A-OTF Outai Kaisho Std Light TR,56,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,3,40,40,35,0
+Style: OP,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B000000,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,8,30,30,30,1
+Style: OP2,FOT-OedKtr Std E,70,&H00F0EDE9,&H00FFFFFF,&H4B76441A,&H6E2324B2,0,0,0,0,100,100,0,0,1,3.5,0,2,30,30,30,1
+Style: YD,Averia Libre,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,1,1,1,1
+Style: Maske,Averia Libre,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,1,1,1,1
+Style: Baslik,FOT-OedKtr Std E,50,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,3,0,60,150,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:00:00.00,0:00:00.02,Default,İmza,0,0,0,,{Çeviri: Einherjar}{Çeviri Editörü: Vuats}{Yazı Dizimi: Vuats}{Zamanlama: Vuats}{Açılış Şarkısı: Einherjar}{Kapanış Şarkısı: Vuats}{Son Kontrol: Fei?}{https://github.com/DantelEntel}
+Dialogue: 20,0:00:16.00,0:00:20.74,Default,Senta,0,0,0,,Tüm köyü araştırdım ama \Nhiçbir şey anlamadım.
+Dialogue: 20,0:00:21.00,0:00:24.62,Default,Senta,0,0,0,,Araştırdıkça her şey \Ndaha da bulanıklaştı hatta.
+Dialogue: 20,0:00:26.01,0:00:26.76,Default,Sagiri,0,0,0,,Gabimaru.
+Dialogue: 20,0:00:27.70,0:00:29.18,Default,Sagiri,0,0,0,,Ne düşünüyorsun?
+Dialogue: 20,0:00:29.18,0:00:31.35,Default,Gabimaru,0,0,0,,Hiçbir şey. \NNe diyordunuz?
+Dialogue: 20,0:00:31.35,0:00:33.38,Default,Sagiri,0,0,0,,Şey, Usta Senta diyor ki...
+Dialogue: 20,0:00:33.38,0:00:35.70,Default,Yuzuriha,0,0,0,,Kafası patlamak üzereymiş.
+Dialogue: 20,0:00:35.70,0:00:38.08,Default,Senta,0,0,0,,Çözülmesi gereken o kadar gizem var ki...
+Dialogue: 20,0:00:38.08,0:00:41.05,Default,Senta,0,0,0,,Kafamı toparlayıp her şeyin \Nüstünden geçmem gerek.
+Dialogue: 20,0:00:42.02,0:00:44.42,Default,Sagiri,0,0,0,,Biraz dinlenin lütfen, Usta Senta.
+Dialogue: 20,0:00:44.42,0:00:46.67,Default,Sagiri,0,0,0,,Bu akşamki nöbeti tek başıma hallederim.
+Dialogue: 20,0:00:46.67,0:00:48.48,Default,Senta,0,0,0,,Yok, yok hallederim ben.
+Dialogue: 20,0:00:48.48,0:00:50.73,Default,Senta,0,0,0,,Banyoya girince kendime gelirim.
+Dialogue: 20,0:00:50.73,0:00:52.08,Default,Sagiri,0,0,0,,Daha da uykunuz gelecek.
+Dialogue: 20,0:00:52.08,0:00:53.53,Default,Senta,0,0,0,,Merak etmeyin siz.
+Dialogue: 20,0:01:02.42,0:01:03.91,Default-Alt,Senta,0,0,0,,O kadar gizem var ki...
+Dialogue: 20,0:01:04.70,0:01:07.71,Default-Alt,Senta,0,0,0,,En azından bazı şeyleri\Nöğrenmeden ilerlememiz çok tehlikeli.
+Dialogue: 20,0:01:07.71,0:01:09.54,Default-Alt,Gabimaru,0,0,0,,O dediğin ne kadar vakit alacak peki?
+Dialogue: 20,0:01:09.72,0:01:11.80,Default-Alt,Senta,0,0,0,,Orasını... Bilemiyorum.
+Dialogue: 20,0:01:12.11,0:01:16.06,Default-Alt,Senta,0,0,0,,Ancak Yüce Tensenler'in \Niksiri koruduğu doğruysa...
+Dialogue: 20,0:01:16.06,0:01:18.93,Default-Alt,Senta,0,0,0,,...Horai bölgesine plansız girmek \Noldukça tehlikeli olacaktır.
+Dialogue: 20,0:01:20.28,0:01:22.61,Default,Gabimaru,0,0,0,,{\i1}Üzgünüm ama gizem çözmeni \Nbekleyecek vaktim yok.
+Dialogue: 20,0:01:23.43,0:01:26.55,Default,Gabimaru,0,0,0,,{\i1}Hatta bizi bulmaya gelmeleri işime gelir.
+Dialogue: 20,0:03:00.50,0:03:03.02,Default,Gabimaru,0,0,0,,{\i1}Sis yoğunlaştıkça etrafı \Ngörememeye başladım.
+Dialogue: 20,0:03:04.02,0:03:06.79,Default,Gabimaru,0,0,0,,{\i1}Köye, ormanda güneye giderek ulaştık.
+Dialogue: 20,0:03:06.79,0:03:08.57,Default,Gabimaru,0,0,0,,{\i1}Hoko'nun dedikleri doğruysa...
+Dialogue: 20,0:03:08.93,0:03:13.04,Default,Gabimaru,0,0,0,,{\i1}...güneye doğru ilerlersem kısa zamanda \Nmerkez bölge Horai'ye ulaşmalıyım.
+Dialogue: 20,0:03:24.00,0:03:26.72,Default,Gabimaru,0,0,0,,{\i1}Bu ses de ne? Şarkı mı?
+Dialogue: 20,0:03:28.29,0:03:28.93,Default,Gabimaru,0,0,0,,Hayır...
+Dialogue: 20,0:03:36.00,0:03:37.19,Default,Gabimaru,0,0,0,,{\i1}İlahi falan mı?
+Dialogue: 20,0:03:37.45,0:03:38.90,Default,Gabimaru,0,0,0,,{\i1}Hoko'nun türünden mi bunlar?
+Dialogue: 20,0:03:39.36,0:03:41.12,Default,Gabimaru,0,0,0,,{\i1}Yaklaşsam da tepki vermiyorlar.
+Dialogue: 20,0:03:41.65,0:03:43.20,Default,Gabimaru,0,0,0,,{\i1}Hareket edemiyorlar mı?
+Dialogue: 20,0:03:45.58,0:03:47.70,Default,Gabimaru,0,0,0,,{\i1}Bir şeye dua mı ediyorlar?
+Dialogue: 20,0:03:48.01,0:03:51.21,Default-Alt,Senta,0,0,0,,En azından bazı şeyleri\Nöğrenmeden ilerlememiz çok tehlikeli.
+Dialogue: 20,0:03:51.85,0:03:54.96,Default,Gabimaru,0,0,0,,{\i1}Asaemonlar öyle düşünüyor olabilir \Nama biz mahkumların durumu farklı.
+Dialogue: 20,0:03:55.55,0:03:58.36,Default,Gabimaru,0,0,0,,{\i1}Adanın hakikatini öğrendik \Ndiye geri çekilemeyiz.
+Dialogue: 20,0:03:58.36,0:04:00.09,Default,Gabimaru,0,0,0,,{\i1}Bu o tarz bir yolculuk değil.
+Dialogue: 20,0:04:02.01,0:04:04.22,Default,Gabimaru,0,0,0,,{\i1}Ne kadar tehlikeli bir yer olursa olsun...
+Dialogue: 20,0:04:04.39,0:04:07.13,Default,Gabimaru,0,0,0,,{\i1}...iksiri almadan dönersem affı alamam.
+Dialogue: 20,0:04:07.48,0:04:09.60,Default,Gabimaru,0,0,0,,{\i1}İlerlemekten başka seçeneğim yok.
+Dialogue: 20,0:04:10.00,0:04:11.23,Default,Gabimaru,0,0,0,,{\i1}Bir başıma da olsam...
+Dialogue: 20,0:04:15.67,0:04:19.88,Default-Alt,Hoko,0,0,0,,Horai'nin büyüsünü koruduğu söyleniyor...
+Dialogue: 20,0:04:20.36,0:04:23.32,Default-Alt,Hoko,0,0,0,,Çürümüş Hojo ve Eişu'nun aksine...
+Dialogue: 20,0:04:23.32,0:04:28.04,Default-Alt,Hoko,0,0,0,,...tanrı ve keşişlerin yaşadığı, \Ngerçek Şinsenkyo orası.
+Dialogue: 20,0:04:29.14,0:04:31.17,Default,Gabimaru,0,0,0,,Gerçek Şinsenkyo mu?
+Dialogue: 20,0:04:32.01,0:04:34.08,Default,Gabimaru,0,0,0,,Bildiğin el yapımı bu?
+Dialogue: 20,0:04:36.26,0:04:38.63,Default,Gabimaru,0,0,0,,{\i1}Eğer burası Horai ise, iksir...
+Dialogue: 20,0:04:49.50,0:04:51.64,Default,Gabimaru,0,0,0,,{\i1}Kim bu kadın? Hayır...
+Dialogue: 20,0:04:52.01,0:04:55.39,Default,Gabimaru,0,0,0,,{\i1}İnsan suretinde, ama değil.
+Dialogue: 20,0:04:56.80,0:04:57.40,Default,Gabimaru,0,0,0,,Nesin sen?
+Dialogue: 20,0:04:57.83,0:05:00.40,Default,Zhu Jin (Kadın),0,0,0,,Ahh, sıkıldım artık.
+Dialogue: 20,0:05:00.66,0:05:02.78,Default,Zhu Jin (Kadın),0,0,0,,Niye hepiniz benim sırama denk geliyorsunuz.
+Dialogue: 20,0:05:02.98,0:05:04.53,Default,Zhu Jin (Kadın),0,0,0,,Baş belasısınız.
+Dialogue: 20,0:05:05.61,0:05:07.53,Default,Zhu Jin (Kadın),0,0,0,,Uzaklaşır mısın buradan?
+Dialogue: 20,0:05:07.86,0:05:10.03,Default,Zhu Jin (Kadın),0,0,0,,Daha demin sizinkilerle savaştım.
+Dialogue: 20,0:05:10.58,0:05:14.44,Default,Zhu Jin (Kadın),0,0,0,,Siz insanları bulduğumuzda \Nyakalamakla mükellefiz.
+Dialogue: 20,0:05:15.13,0:05:16.32,Default,Zhu Jin (Kadın),0,0,0,,Ve bugün çoktan-
+Dialogue: 20,0:05:16.47,0:05:19.84,Default,Gabimaru,0,0,0,,{\pos(959,1020)}İnsanları... İksire dönüştürmek için mi?
+Dialogue: 20,0:05:34.16,0:05:34.85,Default,Zhu Jin (Kadın),0,0,0,,Hı?
+Dialogue: 20,0:05:46.87,0:05:50.82,Default,Gabimaru,0,0,0,,{\i1}Yenilenebiliyor, ayrıca göründüğünden \Nçok daha hızlı ve güçlü.
+Dialogue: 20,0:05:51.13,0:05:53.33,Default,Gabimaru,0,0,0,,{\i1}Yoksa bu, o efsanedeki...
+Dialogue: 20,0:06:00.78,0:06:02.21,Default,Zhu Jin (Kadın),0,0,0,,Yine boynumu kırdın.
+Dialogue: 20,0:06:02.81,0:06:04.25,Default,Gabimaru,0,0,0,,Ninpo: Zahit Alev
+Dialogue: 20,0:06:28.37,0:06:30.16,Default,Zhu Jin (Erkek),0,0,0,,Biri daha gitti.
+Dialogue: 20,0:06:30.80,0:06:34.41,Default,Zhu Jin (Erkek),0,0,0,,Canlı götürebilseydim iksir \Niçin güzel bir kaynak olabilirdi.
+Dialogue: 20,0:06:37.95,0:06:39.16,Default,Gabimaru,0,0,0,,Biraz geç olacak ama...
+Dialogue: 20,0:06:40.72,0:06:42.54,Default,Gabimaru,0,0,0,,...sen bir Yüce Tensen misin?
+Dialogue: 20,0:06:43.27,0:06:45.80,Default,Zhu Jin (Erkek),0,0,0,,Ya sen, bir insan mısın?
+Dialogue: 20,0:07:08.13,0:07:10.90,Default,Zhu Jin (Erkek),0,0,0,,Bu dayanıklılığı neye borçlusun?
+Dialogue: 20,0:07:11.23,0:07:14.04,Default,Zhu Jin (Erkek),0,0,0,,Deminki de epey inatçı bir tipti ama...
+Dialogue: 20,0:07:14.28,0:07:17.54,Default,Zhu Jin (Erkek),0,0,0,,...asırlardır senin gibisiyle karşılaşmadım.
+Dialogue: 20,0:07:19.12,0:07:20.54,Default,Gabimaru,0,0,0,,İksir nerede?
+Dialogue: 20,0:07:27.14,0:07:30.21,Default,Gabimaru,0,0,0,,{\i1}Ezip biçmenin bir işe yaramadığını \Nvarsaysam daha iyi olacak.
+Dialogue: 20,0:07:33.16,0:07:35.22,Default,Gabimaru,0,0,0,,{\i1}Olağanüstü fiziksel gücü de sıkıntı.
+Dialogue: 20,0:07:36.29,0:07:38.60,Default,Gabimaru,0,0,0,,{\i1}Yıpratma savaşına girmek fazla tehlikeli.
+Dialogue: 20,0:07:38.88,0:07:40.98,Default,Gabimaru,0,0,0,,{\i1}Bir plan yapmam gerek.
+Dialogue: 20,0:07:41.43,0:07:45.73,Default,Gabimaru,0,0,0,,{\i1}Ölümsüz. Zahit Alev işe yaramadı.\NPeki ya diğer seçenekler?..
+Dialogue: 20,0:07:45.98,0:07:47.31,Default,Gabimaru,0,0,0,,{\i1}Henüz denemediğim...
+Dialogue: 20,0:07:48.45,0:07:49.53,Default,Gabimaru,0,0,0,,{\i1}...ne var?
+Dialogue: 20,0:07:54.36,0:07:56.62,Default,Gabimaru,0,0,0,,{\i1}Bu his de neyin nesi?
+Dialogue: 20,0:08:01.61,0:08:05.00,Default,Gabimaru,0,0,0,,{\i1}Bu tepki bariz bir şekilde çok daha farklıydı.
+Dialogue: 20,0:08:05.22,0:08:07.63,Default,Gabimaru,0,0,0,,{\i1}Ne oldu? Neyi farklı yaptım?
+Dialogue: 20,0:08:11.82,0:08:13.13,Default,Gabimaru,0,0,0,,{\i1}Tekrar kadına döndü.
+Dialogue: 20,0:08:13.75,0:08:15.60,Default,Zhu Jin (Kadın),0,0,0,,Şu fiziksel yeteneklerin...
+Dialogue: 20,0:08:15.72,0:08:17.89,Default,Zhu Jin (Kadın),0,0,0,,Farkında değilsin muhtemelen ama...
+Dialogue: 20,0:08:19.72,0:08:21.89,Default,Zhu Jin (Kadın),0,0,0,,Neyse, fark etmez.
+Dialogue: 20,0:08:32.37,0:08:34.91,Default,Zhu Jin (Kadın),0,0,0,,Sinirimi bozuyorsun. Geber.
+Dialogue: 20,0:08:41.83,0:08:44.00,Default,Gabimaru,0,0,0,,{\i1}Bu da ne?
+Dialogue: 20,0:08:49.88,0:08:51.90,Default,Gabimaru,0,0,0,,{\i1}Hava basıncı değil.
+Dialogue: 20,0:08:51.90,0:08:54.43,Default,Gabimaru,0,0,0,,{\i1}Darbeleri doğrudan içimde hissediyorum!
+Dialogue: 20,0:08:55.25,0:08:57.30,Default,Gabimaru,0,0,0,,{\i1}Bilmediğim, bambaşka bir güç bu.
+Dialogue: 20,0:08:57.45,0:09:00.31,Default,Gabimaru,0,0,0,,{\i1}Savunma yapmak anlamsız.\NKaçınmam gere-
+Dialogue: 20,0:09:02.11,0:09:04.24,Default,Gabimaru,0,0,0,,{\i1}Bu yaratığı yenmek mümkün mü?
+Dialogue: 20,0:09:08.37,0:09:10.69,Default,Gabimaru,0,0,0,,{\i1}Plana falan ihtiyacım yok. {olsun sen plana sadık kal}
+Dialogue: 20,0:09:11.01,0:09:13.78,Default,Gabimaru,0,0,0,,{\i1}N'olursa olsun, ilerlemeyi bırakamam.
+Dialogue: 20,0:09:14.64,0:09:16.53,Default,Gabimaru,0,0,0,,{\i1}Eşime geri dönebilmek için!..
+Dialogue: 20,0:09:19.26,0:09:21.45,Default,Gabimaru,0,0,0,,{\i1}N'olursa olsun, hayatta kalıp \Nona geri döneceğim.
+Dialogue: 20,0:09:21.85,0:09:24.58,Default,Gabimaru,0,0,0,,{\i1}Kötürüm de kalsam ona döneceğim.
+Dialogue: 20,0:09:24.93,0:09:26.67,Default,Gabimaru,0,0,0,,{\i1}Ölsem de ona döneceğim!
+Dialogue: 20,0:09:29.82,0:09:32.84,Default,Gabimaru,0,0,0,,{\i1}Kendini yenileyemeyeceği kadar hızlı saldır!
+Dialogue: 20,0:09:38.03,0:09:39.97,Default,Zhu Jin (Kadın),0,0,0,,{\i1}İmkansız. Bir insana mı?..
+Dialogue: 20,0:09:53.16,0:09:54.84,Default,Gabimaru,0,0,0,,Ölmediğinin farkındayım.
+Dialogue: 20,0:09:55.01,0:09:57.36,Default,Gabimaru,0,0,0,,Cevap ver, iksir nerede?
+Dialogue: 20,0:10:02.27,0:10:03.67,Default,Zhu Jin (Kadın),0,0,0,,Ne yapacağım şimdi?
+Dialogue: 20,0:10:05.92,0:10:09.63,Default,Zhu Jin (Kadın),0,0,0,,Yine azarlayacaklar beni.
+Dialogue: 20,0:10:43.14,0:10:44.03,Default,Gabimaru,0,0,0,,{\i1}Sakinleş.
+Dialogue: 20,0:10:44.62,0:10:47.34,Default,Gabimaru,0,0,0,,{\i1}İlk kez bir canavara karşı savaşmıyorsun.
+Dialogue: 20,0:10:47.63,0:10:49.22,Default,Gabimaru,0,0,0,,{\i1}Yapman gereken şey aynı.
+Dialogue: 20,0:10:49.40,0:10:51.29,Default,Gabimaru,0,0,0,,{\i1}Analiz edip karşı saldırıya geç.
+Dialogue: 20,0:10:51.89,0:10:52.95,Default,Gabimaru,0,0,0,,{\i1}Bunu yapabilirsem...
+Dialogue: 20,0:11:36.68,0:11:38.63,Default,Gabimaru,0,0,0,,Ninpo: Zahit Alev
+Dialogue: 20,0:11:41.35,0:11:42.64,Default,Gabimaru,0,0,0,,{\i1}Bedenim...
+Dialogue: 20,0:11:42.64,0:11:45.55,Default,Gabimaru,0,0,0,,{\i1}Kendimi bu kadar zorlamanın\N bedelini ödemeye başladım demek.
+Dialogue: 20,0:11:49.63,0:11:52.31,Default,Gabimaru,0,0,0,,{\i1}Garip büyüler, devasa canavarlar...
+Dialogue: 20,0:11:52.88,0:11:55.10,Default,Gabimaru,0,0,0,,{\i1}Bütün bunlar gerçek mi?
+Dialogue: 20,0:11:56.02,0:11:59.58,Default,Gabimaru,0,0,0,,{\i1}Hatta şu son birkaç gün gerçekten yaşandı mı?.. {##}
+Dialogue: 20,0:12:00.86,0:12:02.88,Default,Gabimaru,0,0,0,,{\i1}Sanki bir kabusun içinde gibiyim.
+Dialogue: 20,0:12:08.85,0:12:10.24,Default,Yui,0,0,0,,Uyandın sonunda.
+Dialogue: 20,0:12:13.29,0:12:15.64,Default,Yui,0,0,0,,Uykunda sayıklayıp duruyordun.
+Dialogue: 20,0:12:15.82,0:12:17.96,Default,Yui,0,0,0,,Kötü bir rüya falan mı görüyordun?
+Dialogue: 20,0:12:19.03,0:12:19.95,Default,Gabimaru,0,0,0,,Evet.
+Dialogue: 20,0:12:23.22,0:12:26.41,Default,Gabimaru,0,0,0,,Anladım. Rüyaydı demek.
+Dialogue: 20,0:12:31.32,0:12:32.23,Default,Gabimaru,0,0,0,,Şükürler olsun.
+Dialogue: 20,0:12:33.05,0:12:36.34,Default,Yui,0,0,0,,Kabus gördüğünü tahmin etmiştim.
+Dialogue: 20,0:12:36.57,0:12:39.18,Default,Yui,0,0,0,,Son zamanlarda çok meşguldün sonuçta.
+Dialogue: 20,0:12:39.33,0:12:41.99,Default,Yui,0,0,0,,Bugünlük dinlensen nasıl olur?
+Dialogue: 20,0:12:58.76,0:13:00.24,Default,Yui,0,0,0,,Kasımpatı çayı hazırladım.
+Dialogue: 20,0:13:00.44,0:13:03.06,Default,Yui,0,0,0,,Kabusları kovduğunu duymuştum.
+Dialogue: 20,0:13:08.23,0:13:10.01,Default,Yui,0,0,0,,Kasımpatı sevmiyor muydun yoksa?
+Dialogue: 20,0:13:10.77,0:13:14.02,Default,Gabimaru,0,0,0,,Hayır, mutlu hissettiğim için sırıtıyorum.
+Dialogue: 20,0:13:14.26,0:13:18.52,Default,Gabimaru,0,0,0,,Rüyada da olsam, seninle \Nkonuşabildiğim için mutluyum.
+Dialogue: 20,0:13:19.85,0:13:21.53,Default,Yui,0,0,0,,Neden bahsediyorsun?
+Dialogue: 20,0:13:24.45,0:13:25.36,Default,Gabimaru,0,0,0,,Üzgünüm.
+Dialogue: 20,0:13:26.44,0:13:29.20,Default,Gabimaru,0,0,0,,Geri dönemeyebilirim.
+Dialogue: 20,0:13:45.33,0:13:48.42,Default-Alt,Şef,0,0,0,,{\i1}Yirmi numaralı şinobi kuralı:
+Dialogue: 20,0:13:49.01,0:13:51.24,Default-Alt,Şef,0,0,0,,Olur da ölümle yüz yüze gelirsen...
+Dialogue: 20,0:13:51.45,0:13:53.48,Default-Alt,Şef,0,0,0,,...kalan bütün gücünle...
+Dialogue: 20,0:13:53.67,0:13:58.40,Default-Alt,Şef,0,0,0,,...rakibine olabildiğince çok\Nzarar verdikten sonra öl.
+Dialogue: 20,0:13:58.40,0:14:00.35,Default-Alt,Şef,0,0,0,,{\i1}Gerçi bunu ezberlemesen de olur.
+Dialogue: 20,0:14:00.35,0:14:04.36,Default-Alt,Şef,0,0,0,,{\i1}Bunu içgüdüsel olarak yapacak\N şekilde yetiştirdim zaten sizi.
+Dialogue: 20,0:14:08.83,0:14:12.70,Default-Alt,Şef,0,0,0,,{\i1}Ölümün eşiğindeyken rakibinizi de\Nrefleks olarak yanınızda götüreceksiniz.
+Dialogue: 20,0:14:12.83,0:14:15.04,Default-Alt,Şef,0,0,0,,{\i1}İsteseniz de istemeseniz de.
+Dialogue: 20,0:14:26.45,0:14:29.39,Default,Gabimaru,0,0,0,,{\i1}Üzgünüm. Belki de...
+Dialogue: 20,0:14:58.31,0:15:01.42,Default,Zhu Jin (Yaşlı Kadın),0,0,0,,Mei, ne yapıyorsun sen?
+Dialogue: 20,0:15:11.00,0:15:13.18,Default,Sagiri,0,0,0,,Neyse, olanla ölmüşe çare yok.
+Dialogue: 20,0:15:13.18,0:15:15.31,Default,Senta,0,0,0,,Ç-Ç-Ç-Çok üzgünüm!
+Dialogue: 20,0:15:15.59,0:15:18.06,Default,Senta,0,0,0,,Fark ettiğim gibi aramaya başladım ama...
+Dialogue: 20,0:15:18.49,0:15:21.09,Default,Senta,0,0,0,,...köyden uzaklaştıkça \Nsis de yoğunlaşmaya başladı.
+Dialogue: 20,0:15:21.09,0:15:23.03,Default,Senta,0,0,0,,Geri dönmekte bile zorlandım.
+Dialogue: 20,0:15:23.24,0:15:28.13,Default,Hoko,0,0,0,,O sisin içinde sıradan \Nbir insanın ilerlemesi imkansız.
+Dialogue: 20,0:15:28.32,0:15:32.82,Default,Sagiri,0,0,0,,Gabimaru Horai'ye bulmaya gittiyse, \Nacilen peşinden gitmeliyiz.
+Dialogue: 20,0:15:33.00,0:15:34.63,Default,Yuzuriha,0,0,0,,Ne? Olmaz.
+Dialogue: 20,0:15:34.63,0:15:35.20,Default,Sagiri,0,0,0,,Ne?
+Dialogue: 20,0:15:35.53,0:15:38.33,Default,Yuzuriha,0,0,0,,Onu arayacak vaktimiz yok ki.
+Dialogue: 20,0:15:38.72,0:15:41.09,Default,Yuzuriha,0,0,0,,Ayrıca kendi gitmek istemiş.
+Dialogue: 20,0:15:41.30,0:15:44.91,Default,Yuzuriha,0,0,0,,Savaşta epey işe yarayan biriydi ama\N yapacak bir şey yok artık.
+Dialogue: 20,0:15:45.08,0:15:49.97,Default,Yuzuriha,0,0,0,,Ayrıca, bir Asaemon olarak mahkumunun\N güvenliğini niye umursayasın ki, di' mi?
+Dialogue: 20,0:15:49.97,0:15:50.54,Default,Sagiri,0,0,0,,Ne?
+Dialogue: 20,0:15:50.54,0:15:52.47,Default,Yuzuriha,0,0,0,,Gidip bulmanın bir anlamı yok yani.
+Dialogue: 20,0:15:52.47,0:15:53.34,Default,Sagiri,0,0,0,,Aslında-
+Dialogue: 20,0:15:53.58,0:15:56.35,Default,Hoko,0,0,0,,Horai'ye gidiyorsanız eşlik ederim.
+Dialogue: 20,0:15:56.60,0:16:02.02,Default,Hoko,0,0,0,,Mei'yi etrafta göremedim.\NMuhtemelen Gabimaru'nun peşinden gitti.
+Dialogue: 20,0:16:02.31,0:16:03.98,Default,Hoko,0,0,0,,Onu bulmam gerek.
+Dialogue: 20,0:16:04.24,0:16:05.95,Default,Hoko,0,0,0,,Yardımınızı istiyorum.
+Dialogue: 20,0:16:06.20,0:16:09.21,Default,Yuzuriha,0,0,0,,Sisi aşabileceğini mi söylüyorsun yani?
+Dialogue: 20,0:16:09.41,0:16:10.49,Default,Hoko,0,0,0,,Mümkün.
+Dialogue: 20,0:16:13.27,0:16:17.60,Default,Yuzuriha,0,0,0,,Nedense bir anda Gabimaru'yu merak \Netmeye başladım. Nereden estiyse artık!
+Dialogue: 20,0:16:17.60,0:16:19.62,Default,Yuzuriha,0,0,0,,Gidelim hadi, Sagirin.
+Dialogue: 20,0:16:20.96,0:16:21.63,Default,Sagiri,0,0,0,,Peki.
+Dialogue: 20,0:16:22.11,0:16:25.25,Default,Yuzuriha,0,0,0,,O değil de, hadi diyelim Horai'ye gidiyoruz...
+Dialogue: 20,0:16:25.59,0:16:28.44,Default,Yuzuriha,0,0,0,,...şu Yüce Tensen dedikleri \Nbelalı tipler yok mu orada?
+Dialogue: 20,0:16:28.64,0:16:29.51,Default,Hoko,0,0,0,,Evet.
+Dialogue: 20,0:16:29.66,0:16:33.51,Default,Yuzuriha,0,0,0,,Peki bu Yüce Tensenler neyin nesi? \NBiraz anlatsana.
+Dialogue: 20,0:16:33.72,0:16:37.50,Default,Senta,0,0,0,,Bayan Yuzuriha, odaklanmazsak kaybolacağız.
+Dialogue: 20,0:16:37.61,0:16:38.86,Default,Yuzuriha,0,0,0,,Yok canım.
+Dialogue: 20,0:16:38.98,0:16:40.79,Default,Yuzuriha,0,0,0,,Sen de merak ediyorsundur kesin.
+Dialogue: 20,0:16:40.79,0:16:41.52,Default,Sagiri,0,0,0,,Hı?
+Dialogue: 20,0:16:41.52,0:16:43.08,Default,Yuzuriha,0,0,0,,Şu Yüce Tensenler'i diyorum.
+Dialogue: 20,0:16:43.84,0:16:46.48,Default,Sagiri,0,0,0,,Evet, biraz.
+Dialogue: 20,0:16:48.03,0:16:52.97,Default,Sagiri,0,0,0,,Eğer Horai, Yüce Tensenler'in yaşadığı bölgeyse,\N eninde sonunda karşılaşacağız demektir.
+Dialogue: 20,0:16:53.78,0:16:55.80,Default,Hoko,0,0,0,,Yüce Tensen diye...
+Dialogue: 20,0:16:56.47,0:16:58.78,Default,Hoko,0,0,0,,...yedi keşişe deniyor.
+Dialogue: 20,0:17:00.00,0:17:01.54,Default,Mu Dan (Erkek),0,0,0,,Erkek olmayı tercih ediyorum.
+Dialogue: 20,0:17:01.78,0:17:04.03,Default,Mu Dan (Erkek),0,0,0,,Çünkü bedenleri daha kullanışlı.
+Dialogue: 20,0:17:04.24,0:17:05.92,Default,Mu Dan (Erkek),0,0,0,,Güzelliğin özüdür en nihayetinde.
+Dialogue: 20,0:17:06.10,0:17:08.49,Default,Tao Fa (Kadın),0,0,0,,Benim tercihim kesinlikle kadın.
+Dialogue: 20,0:17:08.65,0:17:11.38,Default,Tao Fa (Kadın),0,0,0,,Kadın bedenine bakınca elleyesim geliyor.
+Dialogue: 20,0:17:11.71,0:17:12.84,Default,Gui Fa (Kadın),0,0,0,,Sessiz olun.
+Dialogue: 20,0:17:13.12,0:17:15.43,Default,Ran (Erkek),0,0,0,,İkisinin de kendince güzellikleri var.
+Dialogue: 20,0:17:15.73,0:17:17.80,Default,Ju Fa (Erkek),0,0,0,,Yalnızca dış görünüşü mü konuşuyoruz?
+Dialogue: 20,0:17:17.80,0:17:19.35,Default,Ju Fa (Erkek),0,0,0,,Ben erkeği tercih ediyorum.
+Dialogue: 20,0:17:19.51,0:17:21.85,Default,Ju Fa (Erkek),0,0,0,,Yapısı ve çalışma şekli bana daha çok uyuyor.
+Dialogue: 20,0:17:22.97,0:17:25.76,Default,Tao Fa (Kadın),0,0,0,,Ne? Daha geçen \Nkadın kadına takılıyorduk ya...
+Dialogue: 20,0:17:25.76,0:17:27.65,Default,Ju Fa (Erkek),0,0,0,,Meraktandı o.
+Dialogue: 20,0:17:27.65,0:17:30.68,Default,Tao Fa (Kadın),0,0,0,,Yalancı. Epey eğleniyor gibiydin.
+Dialogue: 20,0:17:31.49,0:17:34.85,Default,Mu Dan (Erkek),0,0,0,,Bu kadar mızmız birine \Nkatlanabilmene hayret ediyorum.
+Dialogue: 20,0:17:35.03,0:17:36.67,Default,Tao Fa (Kadın),0,0,0,,Sevdiğim yanı o.
+Dialogue: 20,0:17:36.67,0:17:38.72,Default,Ran (Erkek),0,0,0,,Enerjik olmak iyidir.
+Dialogue: 20,0:17:38.72,0:17:40.49,Default,Gui Fa (Kadın),0,0,0,,Kapa çeneni ya.
+Dialogue: 20,0:17:41.86,0:17:45.65,Default,Ran (Erkek),0,0,0,,Sohbeti bırakın. \NRapor verme zamanı.
+Dialogue: 20,0:17:47.18,0:17:50.50,Default,Ran (Erkek),0,0,0,,Birkaç gün önce gelen insanlar hakkında...
+Dialogue: 20,0:17:50.84,0:17:53.15,Default,Ran (Erkek),0,0,0,,Şimdiye dek gelenlerden farklı gibiler.
+Dialogue: 20,0:17:53.35,0:17:55.82,Default,Ran (Erkek),0,0,0,,Sayıca az ama özler.
+Dialogue: 20,0:17:56.00,0:17:58.09,Default,Ran (Erkek),0,0,0,,Birçok Soşin öldürüldü.
+Dialogue: 20,0:17:58.09,0:18:01.41,Default,Ju Fa (Erkek),0,0,0,,Ju Jin, adam gibi\Nnöbet tutamadığın için oldu hepsi.
+Dialogue: 20,0:18:02.24,0:18:05.15,Default,Ju Fa (Erkek),0,0,0,,Sahilde bulduğun insanların \Nkaçmasına izin verdin.
+Dialogue: 20,0:18:05.31,0:18:08.44,Default,Ju Fa (Erkek),0,0,0,,Dün gece de kapının önünde başka\N bi' insanla kapışırken zorlandın.
+Dialogue: 20,0:18:08.44,0:18:10.65,Default,Ju Fa (Erkek),0,0,0,,Acınasısın.
+Dialogue: 20,0:18:14.65,0:18:18.16,Default,Ju Fa (Erkek),0,0,0,,Hepsini geç, haline bakılırsa \Ngereğinden fazla Tao kullanmışsın.
+Dialogue: 20,0:18:18.93,0:18:20.01,Default,Tao Fa (Kadın),0,0,0,,Zavallıcık.
+Dialogue: 20,0:18:20.42,0:18:22.16,Default,Mu Dan (Erkek),0,0,0,,Ektiğini biçersin.
+Dialogue: 20,0:18:22.54,0:18:26.29,Default,Ju Fa (Erkek),0,0,0,,İnsana karşı savaşıp Şerbeden kullanacak \Nkadar zorlandığına inanamıyorum.
+Dialogue: 20,0:18:26.57,0:18:27.86,Default,Mu Dan (Erkek),0,0,0,,Yeter, Ju Fa.
+Dialogue: 20,0:18:28.15,0:18:31.79,Default,Mu Dan (Erkek),0,0,0,,Aileyiz biz. Aramızı açmamamız gerek.
+Dialogue: 20,0:18:32.02,0:18:33.98,Default,Mu Dan (Erkek),0,0,0,,Ayrıca itaat etmemiz gerek.
+Dialogue: 20,0:18:34.17,0:18:39.55,Default,Mu Dan (Erkek),0,0,0,,Yani yalnızca ben... \NJu Jin'e yalnızca ben zarar verebilirim.
+Dialogue: 20,0:18:41.52,0:18:42.55,Default,Ju Fa (Erkek),0,0,0,,İyi be.
+Dialogue: 20,0:18:42.89,0:18:47.56,Default,Mu Dan (Erkek),0,0,0,,Ormanda karşılaştığın \Ninsanları ortadan kaldırdın mı?
+Dialogue: 20,0:18:47.72,0:18:49.98,Default,Ju Fa (Erkek),0,0,0,,Ölümün eşiğine getirip çukura fırlattım.
+Dialogue: 20,0:18:50.59,0:18:52.31,Default,Ju Fa (Erkek),0,0,0,,Şimdiden çiçeğe dönmüşlerdir.
+Dialogue: 20,0:18:52.82,0:18:54.61,Default,Mu Dan (Erkek),0,0,0,,Onları hafife alma.
+Dialogue: 20,0:18:54.95,0:18:57.41,Default,Mu Dan (Erkek),0,0,0,,Bir Monşin cesedi de bulundu.
+Dialogue: 20,0:18:57.63,0:19:00.86,Default,Mu Dan (Erkek),0,0,0,,Monşin öldürebilecek \Nkadar güçlüyse sıradan biri olamaz.
+Dialogue: 20,0:19:01.12,0:19:06.12,Default,Mu Dan (Erkek),0,0,0,,Onlarla ve dün akşam Ju Jin'i köşeye \Nsıkıştıran adamla alakalı farklı bir şeyler var.
+Dialogue: 20,0:19:08.46,0:19:10.70,Default,Mu Dan (Erkek),0,0,0,,Eğer çukurdan çıkmayı başarabilirlerse...
+Dialogue: 20,0:19:11.25,0:19:13.88,Default,Mu Dan (Erkek),0,0,0,,...yaralı canavarların korkunçluğuna şahit olursun.
+Dialogue: 20,0:19:14.31,0:19:18.12,Default,Mu Dan (Erkek),0,0,0,,Gelen insanların hepsi \Nbenzer güçlere sahipse...
+Dialogue: 20,0:19:18.30,0:19:20.26,Default,Mu Dan (Erkek),0,0,0,,...işimiz var demektir.
+Dialogue: 20,0:19:22.16,0:19:26.14,Default,Mu Dan (Erkek),0,0,0,,Seni Şerbeden kullanmaya zorlayan \Nadamı öldürdüğüne eminisin, değil mi?
+Dialogue: 20,0:19:27.48,0:19:28.24,Default,Zhu Jin (Yaşlı Kadın),0,0,0,,Evet.
+Dialogue: 20,0:19:30.42,0:19:34.42,Default,Mu Dan (Erkek),0,0,0,,Neyse, yolumuza kim çıkarsa\N çıksın istediğimiz tek bir şey var.
+Dialogue: 20,0:19:43.01,0:19:44.78,Default,Mu Dan (Erkek),0,0,0,,Sonsuzluğa ve ustamıza.
+Dialogue: 20,0:19:52.12,0:19:54.72,Default,Sagiri,0,0,0,,Yedi adet ölümsüz varlık mı var yani?
+Dialogue: 20,0:19:54.88,0:19:57.67,Default,Hoko,0,0,0,,Eskiden hepsi bir bütünmüş.
+Dialogue: 20,0:19:57.86,0:19:59.42,Default,Yuzuriha,0,0,0,,Ne? Nasıl yani?
+Dialogue: 20,0:19:59.86,0:20:04.29,Default,Hoko,0,0,0,##,Fugen Jotei, Aşuku Taitei, Fuku Jukun...  {e:duyduğumuzu okuyalım diye bu halini yazdım}
+Dialogue: 20,0:20:04.50,0:20:10.89,Default,Hoko,0,0,0,##,Ratna Taisei, Niyoyi Genkun,\N Monju Koko, Jundei Teikun... {e:https://jigokuraku.fandom.com/wiki/Tensen buradan karakterlere tek tek girip biraz okuyunca çıkıyor isimlerinin anlamları} {v: Amoghavajra falan diye yazmaya gerek yok gibi zaten}
+Dialogue: 20,0:20:11.00,0:20:15.98,Default,Hoko,0,0,0,##,Hakikate ulaşıp tanrıya \Ndönüşen bir keşiş kendini bu yedi isme ayırdı. {-sen ekiyle ilgili özel çalışma yapılacak, blu ray için unutma}
+Dialogue: 20,0:20:15.98,0:20:18.80,Default,Hoko,0,0,0,,Hepsi aynı surete ve sese sahiptir...
+Dialogue: 20,0:20:18.80,0:20:21.16,Default,Hoko,0,0,0,,...ama kişilikleri ve görevleri farklıdır.
+Dialogue: 20,0:20:21.16,0:20:23.80,Default,Hoko,0,0,0,,Bütün adayı birlikte yönetirler.
+Dialogue: 20,0:20:24.77,0:20:28.24,Default,Hoko,0,0,0,,Gerçi hepsi çocukken duyduğum\N masallardan ibaret.
+Dialogue: 20,0:20:28.46,0:20:31.96,Default,Yuzuriha,0,0,0,,Çocukken dediğin, yaprak \Nolduğun zamanlardan falan mı?
+Dialogue: 20,0:20:32.22,0:20:36.13,Default,Hoko,0,0,0,,Hayır. Ben de eskiden sizin gibiydim.
+Dialogue: 20,0:20:37.00,0:20:40.74,Default,Hoko,0,0,0,,Adada yaşayan herkes vaktinde insandı.
+Dialogue: 20,0:20:40.74,0:20:44.10,Default,Hoko,0,0,0,,Sizden çok daha uzun \Nyaşarlardı ve çok daha dindarlardı.
+Dialogue: 20,0:20:44.31,0:20:46.72,Default,Hoko,0,0,0,,Köy de oldukça zengindi.
+Dialogue: 20,0:20:47.01,0:20:48.32,Default,Hoko,0,0,0,,Fakat...
+Dialogue: 20,0:20:51.10,0:20:52.35,Default,Senta,0,0,0,,Burası...
+Dialogue: 20,0:20:52.74,0:20:55.60,Default,Hoko,0,0,0,,Köyün zenginliği bin yıl kadar önceydi.
+Dialogue: 20,0:20:56.25,0:21:00.11,Default,Hoko,0,0,0,,Ömürlerimiz uzun olsa da\N ölmeden önce dönüşürdük.
+Dialogue: 20,0:21:00.27,0:21:01.36,Default,Senta,0,0,0,,Derken?..
+Dialogue: 20,0:21:01.69,0:21:04.63,Default,Hoko,0,0,0,,Bedenlerimiz yavaşça ağaca dönüşürdü.
+Dialogue: 20,0:21:04.84,0:21:09.80,Default,Hoko,0,0,0,,Nihayetinde bağdaş kurup ağaca dönüşür, \Nadaya kök salarak dua etmeye başlardık.
+Dialogue: 20,0:21:10.01,0:21:12.51,Default,Hoko,0,0,0,,Dönüşüm yaşımızdan bağımsız yaşanırdı ve...
+Dialogue: 20,0:21:12.51,0:21:14.40,Default,Hoko,0,0,0,,...bütün bilincimizi kaybederdik.
+Dialogue: 20,0:21:14.40,0:21:17.85,Default,Hoko,0,0,0,,Bilincimizi kaybetmeden \Nhemen önce burada toplanırdık.
+Dialogue: 20,0:21:18.14,0:21:22.72,Default,Hoko,0,0,0,,Bu şekilde ölümden sonra ruhlarımızın\N Horai'ye davet edildiğine inanırdık.
+Dialogue: 20,0:21:23.81,0:21:26.30,Default,Hoko,0,0,0,,Benim bilincimin de pek vakti kalmadı.
+Dialogue: 20,0:21:26.49,0:21:29.22,Default,Hoko,0,0,0,,Tüm ailem çoktan dönüştü.
+Dialogue: 20,0:21:29.44,0:21:31.72,Default,Hoko,0,0,0,,Bu benim kızım.
+Dialogue: 20,0:21:32.00,0:21:36.23,Default,Hoko,0,0,0,,Ne yazık ki ailemizde ilk dönüşen oydu.
+Dialogue: 20,0:21:38.46,0:21:44.49,Default,Sagiri,0,0,0,,Bin yıllık hayatınız bile \Nköyü kurtarmaya yetmiyor demek. {##}
+Dialogue: 20,0:21:44.75,0:21:48.63,Default,Hoko,0,0,0,,Horai, ruhların dinlendiği son duraktır.
+Dialogue: 20,0:21:48.82,0:21:52.70,Default,Hoko,0,0,0,,Yüce Tensenler de Horai'ye\Nkimin gireceğini seçen tanrılardır.
+Dialogue: 20,0:21:52.70,0:21:54.50,Default,Hoko,0,0,0,,Onlara asla karşı çıkmamak gerekir.
+Dialogue: 20,0:21:55.80,0:21:57.81,Default,Sagiri,0,0,0,,{\i1}Kendi başına ayrılıp gitti.
+Dialogue: 20,0:21:58.38,0:22:00.81,Default,Sagiri,0,0,0,,{\i1}Mahkumun can güvenliğinden \Nsorumlu değilim gerçi.
+Dialogue: 20,0:22:02.01,0:22:02.76,Default,Sagiri,0,0,0,,{\i1}Ama...
+Dialogue: 20,0:22:03.89,0:22:05.31,Default,Sagiri,0,0,0,,{\i1}Umarım iyidir.
+Dialogue: 20,0:22:06.75,0:22:09.12,Default,Gabimaru,0,0,0,,{\i1}Neredeyim ben?
+Dialogue: 20,0:22:09.31,0:22:11.89,Default,Gabimaru,0,0,0,,{\i1}Bu kız mı kurtardı beni?
+Dialogue: 20,0:22:14.54,0:22:19.40,Default,Gabimaru,0,0,0,,{\i1}Ne keşiş ne tanrı bunlar. \NBildiğin canavarlar.
+Dialogue: 20,0:22:20.14,0:22:24.08,Default,Gabimaru,0,0,0,,{\i1}İksiri ele geçirebilmek için\N onları alt etmem gerek.
+Dialogue: 20,0:22:25.57,0:22:26.78,Default,Gabimaru,0,0,0,,{\i1}Şükürler olsun.
+Dialogue: 20,0:22:28.20,0:22:32.41,Default,Gabimaru,0,0,0,,{\i1}Madem tanrı değil de canavarsınız, \Nsizi öldürmenin bir yolu mutlaka vardır!
+Dialogue: 20,0:22:32.66,0:22:34.38,Default,Gabimaru,0,0,0,,{\i1}Ama pervasız olmamam gerek.
+Dialogue: 20,0:22:34.61,0:22:36.66,Default,Gabimaru,0,0,0,,{\i1}Savaşmadan önce plan yapmalıyım.
+Dialogue: 20,0:22:36.87,0:22:38.23,Default,Gabimaru,0,0,0,,{\i1}Yalnız başıma zor olacak.
+Dialogue: 20,0:22:38.46,0:22:42.09,Default,Gabimaru,0,0,0,,{\i1}İki, üç, hatta daha fazla kişiyle...
+Dialogue: 20,0:22:44.68,0:22:49.34,Default,Gantetsusai,0,0,0,,Rüzgarda dalgalanan bi' bez parçası sanmıştım\N ama sen şu geçenki şinobi değil misin?
+Dialogue: 20,0:22:49.61,0:22:52.60,Default,Gantetsusai,0,0,0,,Hırpalanmış gibisin. \NYolun sonu mu yoksa?
+Comment: 0,0:01:28.03,0:02:57.45,YD,,0,0,0,,{op}
+Dialogue: 0,0:01:29.44,0:01:31.28,OP,,0,0,0,,{\fad(120,100)\blur1}Özgür yanını
+Dialogue: 0,0:01:31.57,0:01:33.45,OP,,0,0,0,,{\fad(120,100)\blur1}göster bana yaşamanın
+Dialogue: 0,0:01:33.95,0:01:35.78,OP,,0,0,0,,{\fad(120,100)\blur1}Güvencesizse
+Dialogue: 0,0:01:36.58,0:01:38.08,OP,,0,0,0,,{\fad(120,100)\blur1}buruştur at çöpe
+Dialogue: 0,0:01:38.62,0:01:40.33,OP,,0,0,0,,{\fad(120,100)\blur1}Söylentiler mi?
+Dialogue: 0,0:01:40.62,0:01:42.37,OP,,0,0,0,,{\fad(120,100)\blur1}Hiç takma kafana!
+Dialogue: 0,0:01:43.21,0:01:45.08,OP,,0,0,0,,{\fad(120,100)\blur1}Hedefe ulaş da
+Dialogue: 0,0:01:45.71,0:01:47.34,OP,,0,0,0,,{\fad(120,100)\blur1}bakalım olanlara
+Dialogue: 0,0:01:47.34,0:01:49.34,OP,,0,0,0,,{\fad(120,100)\blur1}Manastırda boş beş neden
+Dialogue: 0,0:01:49.59,0:01:51.63,OP,,0,0,0,,{\fad(120,100)\blur1}beşi birden bize beden
+Dialogue: 0,0:01:51.84,0:01:56.26,OP,,0,0,0,,{\fad(120,100)\blur1}Adımı anlar ancak idrak edebilen
+Dialogue: 0,0:01:56.43,0:01:58.56,OP,,0,0,0,,{\fad(120,100)\blur1}Sen taktikle uğraşırken
+Dialogue: 0,0:01:58.81,0:02:00.89,OP,,0,0,0,,{\fad(120,100)\blur1}Yetinirim bir zarla ben
+Dialogue: 0,0:02:01.06,0:02:07.65,OP,,0,0,0,,{\fad(120,100)\blur1}Zorla istersen, başka türlü zor fark etmen
+Dialogue: 0,0:02:05.06,0:02:07.65,OP2,,0,0,0,,{\fad(120,100)\blur1}Sıkıştık kaldık, dönüp duruyoruz burada
+Dialogue: 0,0:02:07.65,0:02:09.69,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&&H2599E0&&}Etrafımız sarılı fare ve sıçanlarla
+Dialogue: 0,0:02:09.82,0:02:11.65,OP2,,0,0,0,,{\fad(120,100)\blur1}Wake up bankers, çıkın parayı!
+Dialogue: 0,0:02:11.65,0:02:14.45,OP2,,0,0,0,,{\fad(120,100)\blur1}Sözlerim vurur yüze yumruk gibi
+Dialogue: 0,0:02:14.45,0:02:16.41,OP2,,0,0,0,,{\fad(120,100)\blur1}Uyanın rüyanızdan
+Dialogue: 0,0:02:16.62,0:02:19.04,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H2C295E&}Dik durun, my fav people!
+Dialogue: 0,0:02:19.24,0:02:21.29,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H2457C2&\3c&HFFFFFF&\4c&HFFFFFF&)}Affet beni,
+Dialogue: 0,0:02:21.29,0:02:23.62,OP,,0,0,0,,{\fad(120,100)\blur1}arındır günahlarımdan!
+Dialogue: 0,0:02:23.71,0:02:25.92,OP,,0,0,0,,{\fad(120,100)\blur1}ve yargıla
+Dialogue: 0,0:02:24.83,0:02:26.21,OP2,,0,0,0,,{\fad(120,100)\blur1\3c&H86B8EA&\t(1000,1200,\3c&H00000&)}Yargıla beni
+Dialogue: 0,0:02:25.92,0:02:28.21,OP,,0,0,0,,{\fad(120,100)\blur1}Nasıl olması gerekiyorsa
+Dialogue: 0,0:02:28.21,0:02:30.46,OP,,0,0,0,,{\fad(120,100)\blur1\t(1110,1419,\1c&H79634A&\3c&HFFFFFF&\4c&HFFFFFF&)}Azarla beni
+Dialogue: 0,0:02:30.46,0:02:32.80,OP,,0,0,0,,{\fad(120,100)\blur1}Şayet affedildiysem,
+Dialogue: 0,0:02:32.80,0:02:38.85,OP,,0,0,0,,{\fad(120,100)\blur1}tadını çıkarmak istiyorum hayatın yanımda sevdiğim adamla!
+Dialogue: 0,0:02:39.06,0:02:41.14,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H275F94&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:02:41.14,0:02:42.56,OP,,0,0,0,,{\fad(0,0)\blur1}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:02:42.56,0:02:43.35,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H4779DC&}Dün tarih oldu, yarınsa bir bilmece
+Dialogue: 0,0:02:43.64,0:02:44.06,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H1F69BC&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:44.06,0:02:45.56,OP,,0,0,0,,{\fad(0,0)\blur1}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:45.56,0:02:46.81,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H838DBA&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:46.81,0:02:47.90,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H92B8BB&}Geçip gidiyoruz, mücadelemiz ona
+Dialogue: 0,0:02:48.19,0:02:49.32,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:49.32,0:02:50.44,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H7099AA&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:50.44,0:02:51.44,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H3331AC&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:51.44,0:02:52.36,OP,,0,0,0,,{\fad(0,100)\blur1\3c&H573C6C&}Dünya dönüyor, değişiyor durmadan
+Dialogue: 0,0:02:52.74,0:02:52.94,OP,,0,0,0,,{\fad(120,0)\blur1\3c&H573C6C&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:02:52.94,0:02:55.28,OP,,0,0,0,,{\fad(0,0)\blur1\3c&H342560&}Doya doya yaşa, günler sayılı olsa da!
+Dialogue: 0,0:02:55.28,0:02:57.45,OP,,0,0,0,,{\fad(0,380)\blur1\3c&H151742&}Doya doya yaşa, günler sayılı olsa da!
+Comment: 0,0:22:55.86,0:24:25.03,YD,,0,0,0,,{ed}
+Dialogue: 0,0:22:55.61,0:23:00.19,ed 1,,0,0,0,,{\fad(250,350)}Saklamayı denedim
+Dialogue: 0,0:23:00.78,0:23:04.11,ed 1,,0,0,0,,{\fad(250,350)}İmkansız sanmıştım
+Dialogue: 0,0:23:04.11,0:23:08.79,ed 1,,0,0,0,,{\fad(250,350)}Utancımı bahane etmiştim
+Dialogue: 0,0:23:08.79,0:23:14.08,ed 1,,0,0,0,,{\fad(150,350)}Ama sen bana akışına bırak dedin ve
+Dialogue: 0,0:23:14.75,0:23:21.71,ed 1,,0,0,0,,{\fad(250,350)}Kırgın kalbimi iyileştirdin, eski haline getirdin
+Dialogue: 0,0:23:21.71,0:23:23.80,ed 1,,0,0,0,,{\fad(250,350)}Kırdın tabuları
+Dialogue: 0,0:23:23.97,0:23:28.85,ed 2,,0,0,0,,{\fad(250,350)}Bu çıtkırıldım kalp ile
+Dialogue: 0,0:23:28.93,0:23:36.02,ed 2,,0,0,0,,{\fad(250,350)}Böyle duygulara dayanması zor
+Dialogue: 0,0:23:39.57,0:23:41.73,ed 2,,0,0,0,,{\fad(250,350)}Keşke artık
+Dialogue: 0,0:23:41.90,0:23:45.45,ed 2,,0,0,0,,{\fad(250,350)}Yarınların sonu gelse
+Dialogue: 0,0:23:45.45,0:23:49.12,ed 2,,0,0,0,,{\fad(250,350)}Rüyalarda kaybolsak keşke
+Dialogue: 0,0:23:49.12,0:23:56.00,ed 1,,0,0,0,,{\fad(250,350)}Bugün bir başkası olmasa aklında
+Dialogue: 0,0:23:56.00,0:23:59.67,ed 1,,0,0,0,,{\fad(250,350)}Yüreğimde var bir dilek
+Dialogue: 0,0:23:59.67,0:24:02.96,ed 1,,0,0,0,,{\fad(250,350)}Keşke gerçek olsa dediğim
+Dialogue: 0,0:24:03.09,0:24:10.01,ed 1,,0,0,0,,{\fad(150,350)}Bir gün sesi duyulsa, ulaşsa sana keşke
+Dialogue: 0,0:24:10.01,0:24:13.60,ed 1,,0,0,0,,{\fad(250,350)}Kaç kez incinsen de
+Dialogue: 0,0:24:13.77,0:24:17.15,ed 1,,0,0,0,,{\fad(250,350)}Korumaya çalıştığın aşk
+Dialogue: 0,0:24:17.15,0:24:24.99,ed 2,,0,0,0,,{\fad(250,350)}Bir gün kollarını dolayacak sana bile
+Comment: 0,0:00:00.00,0:00:00.02,YD,,0,0,0,,{yd}
+Dialogue: 0,0:02:58.03,0:03:02.53,Baslik,,0,0,0,,{\blur0.5\fad(0,525)}Tanrılar ve İnsanlar
